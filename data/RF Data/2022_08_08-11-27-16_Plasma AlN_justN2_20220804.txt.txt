@@ -1,0 +1,9 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 1.1	 0.0	 0.0	100	Plasma AlN_justN2_20220804.txt	
+	 4.1	 0.0	 0.0	100	Plasma AlN_justN2_20220804.txt	
+	 7.1	 0.0	 0.0	100	Plasma AlN_justN2_20220804.txt	
+	10.1	 0.0	 0.0	100	Plasma AlN_justN2_20220804.txt	
+	13.1	 0.0	 0.0	100	Plasma AlN_justN2_20220804.txt	
+	16.1	 0.0	 0.0	100	Plasma AlN_justN2_20220804.txt	
+	19.1	 0.0	 0.0	100	Plasma AlN_justN2_20220804.txt	
+	22.1	 0.0	 0.0	100	Plasma AlN_justN2_20220804.txt	

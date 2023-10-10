@@ -1,0 +1,9 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 0.7	 0.0	 0.0	119	SiN 3dmas N2 plasma with AlN tma n2 plasma and H2 plasma post-treatment.txt	
+	 3.7	 0.0	 0.0	119	SiN 3dmas N2 plasma with AlN tma n2 plasma and H2 plasma post-treatment.txt	
+	 6.7	 0.0	 0.0	119	SiN 3dmas N2 plasma with AlN tma n2 plasma and H2 plasma post-treatment.txt	
+	 9.7	 0.0	 0.0	119	SiN 3dmas N2 plasma with AlN tma n2 plasma and H2 plasma post-treatment.txt	
+	12.7	 0.0	 0.0	119	SiN 3dmas N2 plasma with AlN tma n2 plasma and H2 plasma post-treatment.txt	
+	15.7	 0.0	 0.0	119	SiN 3dmas N2 plasma with AlN tma n2 plasma and H2 plasma post-treatment.txt	
+	18.7	 0.0	 0.0	119	SiN 3dmas N2 plasma with AlN tma n2 plasma and H2 plasma post-treatment.txt	
+	21.7	300.0	 2.0	119	SiN 3dmas N2 plasma with AlN tma n2 plasma and H2 plasma post-treatment.txt	

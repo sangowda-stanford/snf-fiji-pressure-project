@@ -1,0 +1,20 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 0.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	 3.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	 6.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	 9.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	12.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	15.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	18.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	21.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	24.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	27.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	30.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	33.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	36.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	39.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	42.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	45.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	48.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	51.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	
+	54.5	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	

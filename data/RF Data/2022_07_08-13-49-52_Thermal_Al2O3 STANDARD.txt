@@ -1,0 +1,22 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	246.2	 0.0	 0.0	2	Thermal_Al2O3 STANDARD	
+	 3.0	 0.0	 0.0	2	Thermal_Al2O3 STANDARD	
+	 6.0	 0.0	 0.0	2	Thermal_Al2O3 STANDARD	
+	 9.0	 0.0	 0.0	2	Thermal_Al2O3 STANDARD	
+	12.0	 0.0	 0.0	2	Thermal_Al2O3 STANDARD	
+	15.0	 0.0	 0.0	2	Thermal_Al2O3 STANDARD	
+	18.0	 0.0	 0.0	2	Thermal_Al2O3 STANDARD	
+	21.0	 0.0	 0.0	2	Thermal_Al2O3 STANDARD	
+	24.0	 0.0	 0.0	2	Thermal_Al2O3 STANDARD	
+	27.0	 0.0	 0.0	2	Thermal_Al2O3 STANDARD	
+	30.0	 0.0	 0.0	2	Thermal_Al2O3 STANDARD	
+	33.0	 0.0	 0.0	2	Thermal_Al2O3 STANDARD	
+	36.0	 0.0	 0.0	2	Thermal_Al2O3 STANDARD	
+	39.0	 0.0	 0.0	2	Thermal_Al2O3 STANDARD	
+	42.0	 0.0	 0.0	1	Thermal_Al2O3 STANDARD	
+	45.0	 0.0	 0.0	1	Thermal_Al2O3 STANDARD	
+	48.0	 0.0	 0.0	1	Thermal_Al2O3 STANDARD	
+	51.0	 0.0	 0.0	1	Thermal_Al2O3 STANDARD	
+	54.0	 0.0	 0.0	1	Thermal_Al2O3 STANDARD	
+	57.0	 0.0	 0.0	1	Thermal_Al2O3 STANDARD	
+	60.0	 0.0	 0.0	1	Thermal_Al2O3 STANDARD	

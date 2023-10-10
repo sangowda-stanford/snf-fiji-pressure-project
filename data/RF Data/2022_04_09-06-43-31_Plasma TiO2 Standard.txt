@@ -1,0 +1,14 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 2.2	 0.0	 0.0	50	Plasma TiO2 Standard	
+	 5.2	 0.0	 0.0	50	Plasma TiO2 Standard	
+	 8.2	 0.0	 0.0	50	Plasma TiO2 Standard	
+	11.2	 0.0	 0.0	50	Plasma TiO2 Standard	
+	14.2	 0.0	 0.0	50	Plasma TiO2 Standard	
+	17.2	 0.0	 0.0	50	Plasma TiO2 Standard	
+	20.2	 0.0	 0.0	50	Plasma TiO2 Standard	
+	23.2	 0.0	 0.0	50	Plasma TiO2 Standard	
+	26.2	 0.0	 0.0	50	Plasma TiO2 Standard	
+	29.2	 0.0	 0.0	50	Plasma TiO2 Standard	
+	32.2	 0.0	 0.0	50	Plasma TiO2 Standard	
+	35.2	 0.0	 0.0	50	Plasma TiO2 Standard	
+	38.2	 0.0	 0.0	50	Plasma TiO2 Standard	

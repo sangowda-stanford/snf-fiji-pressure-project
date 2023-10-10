@@ -1,0 +1,3 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 2.4	 0.0	 0.0	1405	Plasma Pt on 50c Al2O3 270C 2011-08-05	
+	 5.4	 0.0	 0.0	1405	Plasma Pt on 50c Al2O3 270C 2011-08-05	

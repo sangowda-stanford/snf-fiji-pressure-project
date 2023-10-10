@@ -1,0 +1,26 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 0.3	 0.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	 3.3	 0.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	 6.3	 0.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	 9.3	 0.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	12.3	 0.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	15.3	300.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	18.3	300.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	21.3	300.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	24.3	300.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	27.3	300.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	30.3	300.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	33.3	 0.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	36.3	 0.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	39.3	 0.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	42.3	 0.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	45.3	 0.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	48.3	 0.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	51.3	 0.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	54.3	 0.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	57.3	 0.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	60.3	 0.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	63.3	 0.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	66.3	314.0	 9.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	69.3	300.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	
+	72.3	300.0	 0.0	5	Plasma AlN_Ar_Pulse_Test_20220424.txt	

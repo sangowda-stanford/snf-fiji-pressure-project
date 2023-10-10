@@ -1,0 +1,133 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 0.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	 3.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	 6.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	 9.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	12.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	15.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	18.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	21.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	24.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	27.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	30.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	33.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	36.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	39.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	42.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	45.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	48.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	51.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	54.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	57.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	60.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	63.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	66.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	69.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	72.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	75.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	78.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	81.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	84.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	87.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	90.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	93.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	96.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	99.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	102.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	105.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	108.3	 0.0	 0.0	100	Plasma Al2O3 STANDARD	
+	111.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	114.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	117.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	120.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	123.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	126.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	129.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	132.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	135.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	138.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	141.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	144.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	147.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	150.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	153.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	156.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	159.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	162.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	165.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	168.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	171.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	174.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	177.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	180.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	183.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	186.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	189.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	192.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	195.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	198.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	201.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	204.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	207.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	210.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	213.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	216.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	219.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	222.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	225.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	228.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	231.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	234.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	237.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	240.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	243.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	246.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	249.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	252.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	255.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	258.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	261.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	264.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	267.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	270.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	273.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	276.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	279.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	282.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	285.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	288.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	291.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	294.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	297.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	300.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	303.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	306.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	309.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	312.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	315.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	318.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	321.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	324.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	327.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	330.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	333.3	110.0	50.0	100	User Canceled Loading Recipe	
+	336.3	300.0	11.0	100	User Canceled Loading Recipe	
+	339.3	300.0	 0.0	100	User Canceled Loading Recipe	
+	342.3	300.0	 0.0	100	User Canceled Loading Recipe	
+	345.3	300.0	41.0	100	User Canceled Loading Recipe	
+	348.3	300.0	 2.0	100	User Canceled Loading Recipe	
+	351.3	300.0	 2.0	100	User Canceled Loading Recipe	
+	354.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	357.3	 0.0	 0.0	100	User Canceled Loading Recipe	
+	360.3	 0.0	 0.0	99	User Canceled Loading Recipe	
+	363.3	 0.0	 0.0	99	User Canceled Loading Recipe	
+	366.3	 0.0	 0.0	99	User Canceled Loading Recipe	
+	369.3	112.0	50.0	99	User Canceled Loading Recipe	
+	372.3	300.0	 2.0	99	User Canceled Loading Recipe	
+	375.3	300.0	 2.0	99	User Canceled Loading Recipe	
+	378.3	300.0	 2.0	99	User Canceled Loading Recipe	
+	381.3	300.0	 2.0	99	User Canceled Loading Recipe	
+	384.3	300.0	 2.0	99	User Canceled Loading Recipe	
+	387.3	300.0	 2.0	99	User Canceled Loading Recipe	
+	390.3	 0.0	 0.0	99	User Canceled Loading Recipe	
+	393.3	 0.0	 0.0	99	User Canceled Loading Recipe	

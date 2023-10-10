@@ -1,0 +1,17 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 2.7	 0.0	 0.0	480	GZ_Thermal_HfTiO2_3to1.txt	
+	 5.7	 0.0	 0.0	480	GZ_Thermal_HfTiO2_3to1.txt	
+	 8.7	 0.0	 0.0	480	GZ_Thermal_HfTiO2_3to1.txt	
+	11.7	 0.0	 0.0	480	GZ_Thermal_HfTiO2_3to1.txt	
+	14.7	 0.0	 0.0	480	GZ_Thermal_HfTiO2_3to1.txt	
+	17.7	 0.0	 0.0	480	GZ_Thermal_HfTiO2_3to1.txt	
+	20.7	 0.0	 0.0	480	GZ_Thermal_HfTiO2_3to1.txt	
+	23.7	 0.0	 0.0	480	GZ_Thermal_HfTiO2_3to1.txt	
+	26.7	 0.0	 0.0	480	GZ_Thermal_HfTiO2_3to1.txt	
+	29.7	 0.0	 0.0	480	GZ_Thermal_HfTiO2_3to1.txt	
+	32.7	 0.0	 0.0	480	GZ_Thermal_HfTiO2_3to1.txt	
+	35.7	 0.0	 0.0	480	GZ_Thermal_HfTiO2_3to1.txt	
+	38.7	 0.0	 0.0	480	GZ_Thermal_HfTiO2_3to1.txt	
+	41.7	 0.0	 0.0	480	GZ_Thermal_HfTiO2_3to1.txt	
+	44.7	 0.0	 0.0	480	GZ_Thermal_HfTiO2_3to1.txt	
+	47.7	 0.0	 0.0	480	GZ_Thermal_HfTiO2_3to1.txt	

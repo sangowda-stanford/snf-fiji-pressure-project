@@ -1,0 +1,19 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	418.6	 0.0	 0.0	20	ALD Purge Headspace 3	
+	 2.8	 0.0	 0.0	20	ALD Purge Headspace 3	
+	 5.8	 0.0	 0.0	20	ALD Purge Headspace 3	
+	 8.8	 0.0	 0.0	20	ALD Purge Headspace 3	
+	11.8	 0.0	 0.0	20	ALD Purge Headspace 3	
+	14.8	 0.0	 0.0	20	ALD Purge Headspace 3	
+	17.8	 0.0	 0.0	20	ALD Purge Headspace 3	
+	20.8	 0.0	 0.0	20	ALD Purge Headspace 3	
+	23.8	 0.0	 0.0	19	ALD Purge Headspace 3	
+	26.8	 0.0	 0.0	19	ALD Purge Headspace 3	
+	29.8	 0.0	 0.0	18	ALD Purge Headspace 3	
+	32.8	 0.0	 0.0	18	ALD Purge Headspace 3	
+	35.8	 0.0	 0.0	17	ALD Purge Headspace 3	
+	38.8	 0.0	 0.0	17	ALD Purge Headspace 3	
+	41.8	 0.0	 0.0	16	ALD Purge Headspace 3	
+	44.8	 0.0	 0.0	16	ALD Purge Headspace 3	
+	47.8	 0.0	 0.0	15	ALD Purge Headspace 3	
+	50.8	 0.0	 0.0	15	ALD Purge Headspace 3	

@@ -1,0 +1,19 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 1.4	 0.0	 0.0	94	Plasma IWO with boost	
+	 4.4	 0.0	 0.0	94	Plasma IWO with boost	
+	 7.4	 0.0	 0.0	94	Plasma IWO with boost	
+	10.4	 0.0	 0.0	94	Plasma IWO with boost	
+	13.4	 0.0	 0.0	94	Plasma IWO with boost	
+	16.4	 0.0	 0.0	94	Plasma IWO with boost	
+	19.4	 0.0	 0.0	94	Plasma IWO with boost	
+	22.4	 0.0	 0.0	94	Plasma IWO with boost	
+	25.4	 0.0	 0.0	94	Plasma IWO with boost	
+	28.4	 0.0	 0.0	94	Plasma IWO with boost	
+	31.4	 0.0	 0.0	94	Plasma IWO with boost	
+	34.4	 0.0	 0.0	94	Plasma IWO with boost	
+	37.4	 0.0	 0.0	94	Plasma IWO with boost	
+	40.4	 0.0	 0.0	94	Plasma IWO with boost	
+	43.4	 0.0	 0.0	94	Plasma IWO with boost	
+	46.4	 0.0	 0.0	94	Plasma IWO with boost	
+	49.4	 0.0	 0.0	94	Plasma IWO with boost	
+	52.4	 0.0	 0.0	94	Plasma IWO with boost	

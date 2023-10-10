@@ -1,0 +1,13 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 1.0	 0.0	 0.0	50	Plasma Al2O3 STANDARD	
+	 4.0	 0.0	 0.0	50	Plasma Al2O3 STANDARD	
+	 7.0	 0.0	 0.0	50	Plasma Al2O3 STANDARD	
+	10.0	 0.0	 0.0	50	Plasma Al2O3 STANDARD	
+	13.0	 0.0	 0.0	50	Plasma Al2O3 STANDARD	
+	16.0	 0.0	 0.0	50	Plasma Al2O3 STANDARD	
+	19.0	 0.0	 0.0	50	Plasma Al2O3 STANDARD	
+	22.0	 0.0	 0.0	50	Plasma Al2O3 STANDARD	
+	25.0	 0.0	 0.0	50	Plasma Al2O3 STANDARD	
+	28.0	 0.0	 0.0	50	Plasma Al2O3 STANDARD	
+	31.0	 0.0	 0.0	50	Plasma Al2O3 STANDARD	
+	34.0	 0.0	 0.0	50	Plasma Al2O3 STANDARD	

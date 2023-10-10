@@ -1,0 +1,2 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 2.8	 0.0	 0.0	0	00 - STANDBY	

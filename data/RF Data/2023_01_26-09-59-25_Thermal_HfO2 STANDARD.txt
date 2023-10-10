@@ -1,0 +1,8 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 0.4	 0.0	 0.0	200	Thermal_HfO2 STANDARD	
+	 3.4	 0.0	 0.0	200	Thermal_HfO2 STANDARD	
+	 6.4	 0.0	 0.0	200	Thermal_HfO2 STANDARD	
+	 9.4	 0.0	 0.0	200	Thermal_HfO2 STANDARD	
+	12.4	 0.0	 0.0	200	Thermal_HfO2 STANDARD	
+	15.4	 0.0	 0.0	200	Thermal_HfO2 STANDARD	
+	18.4	 0.0	 0.0	200	Thermal_HfO2 STANDARD	

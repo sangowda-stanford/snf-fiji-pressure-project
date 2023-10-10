@@ -1,0 +1,4 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 2.0	 0.0	 0.0	160	Plasma SiO2 from 3DMAS	
+	 5.0	 0.0	 0.0	160	Plasma SiO2 from 3DMAS	
+	 8.0	 0.0	 0.0	160	Plasma SiO2 from 3DMAS	

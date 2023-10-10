@@ -1,0 +1,17 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 0.1	 0.0	 0.0	0	Ar Plasma	
+	 3.1	 0.0	 0.0	0	Ar Plasma	
+	 6.1	 0.0	 0.0	0	Ar Plasma	
+	 9.1	 0.0	 0.0	0	Ar Plasma	
+	12.1	 0.0	 0.0	0	Ar Plasma	
+	15.1	 0.0	 0.0	0	Ar Plasma	
+	18.1	 0.0	 0.0	0	Ar Plasma	
+	21.1	 0.0	 0.0	0	Ar Plasma	
+	24.1	 0.0	 0.0	0	Ar Plasma	
+	27.1	100.0	 4.0	0	Ar Plasma	
+	30.1	100.0	 0.0	0	Ar Plasma	
+	33.1	100.0	 0.0	0	Ar Plasma	
+	36.1	100.0	 0.0	0	Ar Plasma	
+	39.1	100.0	 0.0	0	Ar Plasma	
+	42.1	100.0	 0.0	0	Ar Plasma	
+	45.1	100.0	 0.0	0	Ar Plasma	

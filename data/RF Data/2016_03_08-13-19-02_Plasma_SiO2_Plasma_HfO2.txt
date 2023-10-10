@@ -1,0 +1,7 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 2.0	 0.0	 0.0	10	Plasma_SiO2_Plasma_HfO2	
+	 5.0	 0.0	 0.0	10	Plasma_SiO2_Plasma_HfO2	
+	 8.0	 0.0	 0.0	10	Plasma_SiO2_Plasma_HfO2	
+	11.0	 0.0	 0.0	10	Plasma_SiO2_Plasma_HfO2	
+	14.0	 0.0	 0.0	10	Plasma_SiO2_Plasma_HfO2	
+	17.0	 0.0	 0.0	10	Plasma_SiO2_Plasma_HfO2	

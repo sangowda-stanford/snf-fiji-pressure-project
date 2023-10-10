@@ -1,0 +1,13 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 0.4	 0.0	 0.0	50	Plasma TiN	
+	 3.4	 0.0	 0.0	50	Plasma TiN	
+	 6.4	 0.0	 0.0	50	Plasma TiN	
+	 9.4	 0.0	 0.0	50	Plasma TiN	
+	12.4	 0.0	 0.0	50	Plasma TiN	
+	15.4	 0.0	 0.0	50	Plasma TiN	
+	18.4	 0.0	 0.0	50	Plasma TiN	
+	21.4	 0.0	 0.0	50	Plasma TiN	
+	24.4	 0.0	 0.0	50	Plasma TiN	
+	27.4	 0.0	 0.0	50	Plasma TiN	
+	30.4	 0.0	 0.0	50	Plasma TiN	
+	33.4	 0.0	 0.0	50	Plasma TiN	

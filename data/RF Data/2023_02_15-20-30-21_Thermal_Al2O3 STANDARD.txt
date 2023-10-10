@@ -1,0 +1,2 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 1.5	 0.0	 0.0	100	Thermal_Al2O3 STANDARD	

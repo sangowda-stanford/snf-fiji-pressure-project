@@ -1,0 +1,17 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 1.1	 0.0	 0.0	5	ALD3 Pulse	
+	 4.1	 0.0	 0.0	5	ALD3 Pulse	
+	 7.1	 0.0	 0.0	5	ALD3 Pulse	
+	10.1	 0.0	 0.0	5	ALD3 Pulse	
+	13.1	 0.0	 0.0	5	ALD3 Pulse	
+	16.1	 0.0	 0.0	5	ALD3 Pulse	
+	19.1	 0.0	 0.0	5	ALD3 Pulse	
+	22.1	 0.0	 0.0	4	ALD3 Pulse	
+	25.1	 0.0	 0.0	4	ALD3 Pulse	
+	28.1	 0.0	 0.0	3	ALD3 Pulse	
+	31.1	 0.0	 0.0	3	ALD3 Pulse	
+	34.1	 0.0	 0.0	2	ALD3 Pulse	
+	37.1	 0.0	 0.0	2	ALD3 Pulse	
+	40.1	 0.0	 0.0	1	ALD3 Pulse	
+	43.1	 0.0	 0.0	1	ALD3 Pulse	
+	46.1	 0.0	 0.0	1	ALD3 Pulse	goto;045

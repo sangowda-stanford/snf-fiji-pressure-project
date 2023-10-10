@@ -1,0 +1,21 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 1.1	 0.0	 0.0	10	Pt pulse test.txt	
+	 4.1	 0.0	 0.0	10	Pt pulse test.txt	
+	 7.1	 0.0	 0.0	10	Pt pulse test.txt	
+	10.1	 0.0	 0.0	10	Pt pulse test.txt	
+	13.1	 0.0	 0.0	10	Pt pulse test.txt	
+	16.1	 0.0	 0.0	10	Pt pulse test.txt	
+	19.1	 0.0	 0.0	10	Pt pulse test.txt	
+	22.1	 0.0	 0.0	10	Pt pulse test.txt	
+	25.1	 0.0	 0.0	10	Pt pulse test.txt	
+	28.1	 0.0	 0.0	10	Pt pulse test.txt	
+	31.1	 0.0	 0.0	10	Pt pulse test.txt	
+	34.1	 0.0	 0.0	10	Pt pulse test.txt	
+	37.1	 0.0	 0.0	10	Pt pulse test.txt	
+	40.1	 0.0	 0.0	10	Pt pulse test.txt	
+	43.1	 0.0	 0.0	9	Pt pulse test.txt	
+	46.1	 0.0	 0.0	9	Pt pulse test.txt	
+	49.1	 0.0	 0.0	9	Pt pulse test.txt	
+	52.1	 0.0	 0.0	9	Pt pulse test.txt	
+	55.1	 0.0	 0.0	8	Pt pulse test.txt	
+	58.1	 0.0	 0.0	8	Pt pulse test.txt	

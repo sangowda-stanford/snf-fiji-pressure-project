@@ -1,0 +1,17 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 1.7	 0.0	 0.0	4	Plasma SnOx	
+	 4.7	 0.0	 0.0	4	Plasma SnOx	
+	 7.7	 0.0	 0.0	4	Plasma SnOx	
+	10.7	 0.0	 0.0	4	Plasma SnOx	
+	13.7	 0.0	 0.0	4	Plasma SnOx	
+	16.7	 0.0	 0.0	4	Plasma SnOx	
+	19.7	 0.0	 0.0	4	Plasma SnOx	
+	22.7	 0.0	 0.0	4	Plasma SnOx	
+	25.7	 0.0	 0.0	4	Plasma SnOx	
+	28.7	 0.0	 0.0	4	Plasma SnOx	
+	31.7	 0.0	 0.0	4	Plasma SnOx	
+	34.7	 0.0	 0.0	4	Plasma SnOx	
+	37.7	 0.0	 0.0	4	Plasma SnOx	
+	40.7	 0.0	 0.0	4	Plasma SnOx	
+	43.7	 0.0	 0.0	4	Plasma SnOx	
+	46.7	 0.0	 0.0	4	Plasma SnOx	

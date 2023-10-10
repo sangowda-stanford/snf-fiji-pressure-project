@@ -1,0 +1,11 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 0.8	 0.0	 0.0	5	User Canceled Loading Recipe	
+	 3.8	 0.0	 0.0	5	User Canceled Loading Recipe	
+	 6.8	 0.0	 0.0	5	User Canceled Loading Recipe	
+	 9.8	 0.0	 0.0	5	User Canceled Loading Recipe	
+	12.8	159.0	17.0	5	User Canceled Loading Recipe	
+	15.8	300.0	 0.0	5	User Canceled Loading Recipe	
+	18.8	300.0	 0.0	5	User Canceled Loading Recipe	
+	21.8	300.0	 0.0	5	User Canceled Loading Recipe	
+	24.8	300.0	 0.0	5	User Canceled Loading Recipe	
+	27.8	300.0	 0.0	5	User Canceled Loading Recipe	

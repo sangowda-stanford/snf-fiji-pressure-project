@@ -1,0 +1,2 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	74184.1	 0.0	 0.0	200	Plasma AlN_Test_20220603.txt	

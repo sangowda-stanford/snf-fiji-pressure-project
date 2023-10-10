@@ -1,0 +1,6 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 0.1	 0.0	 0.0	313	SiN N2 plasma low temp NH3 plasma pre-treatment and H2 plasma post-treatment	
+	 3.1	 0.0	 0.0	313	SiN N2 plasma low temp NH3 plasma pre-treatment and H2 plasma post-treatment	
+	 6.1	 0.0	 0.0	313	SiN N2 plasma low temp NH3 plasma pre-treatment and H2 plasma post-treatment	
+	 9.1	 0.0	 0.0	313	SiN N2 plasma low temp NH3 plasma pre-treatment and H2 plasma post-treatment	
+	12.1	 0.0	 0.0	313	SiN N2 plasma low temp NH3 plasma pre-treatment and H2 plasma post-treatment	

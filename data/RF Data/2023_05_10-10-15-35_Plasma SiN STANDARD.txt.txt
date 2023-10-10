@@ -1,0 +1,2927 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 2.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	 5.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	 8.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	11.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	14.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	17.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	20.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	23.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	26.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	29.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	32.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	35.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	38.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	41.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	44.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	47.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	50.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	53.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	56.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	59.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	62.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	65.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	68.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	71.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	74.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	77.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	80.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	83.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	86.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	89.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	92.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	95.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	98.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	101.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	104.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	107.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	110.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	113.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	116.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	119.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	122.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	125.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	128.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	131.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	134.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	137.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	140.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	143.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	146.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	149.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	152.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	155.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	158.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	161.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	164.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	167.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	170.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	173.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	176.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	179.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	182.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	185.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	188.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	191.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	194.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	197.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	200.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	203.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	206.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	209.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	212.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	215.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	218.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	221.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	224.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	227.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	230.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	233.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	236.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	239.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	242.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	245.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	248.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	251.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	254.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	257.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	260.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	263.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	266.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	269.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	272.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	275.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	278.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	281.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	284.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	287.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	290.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	293.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	296.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	299.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	302.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	305.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	308.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	311.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	314.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	317.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	320.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	323.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	326.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	329.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	332.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	335.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	338.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	341.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	344.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	347.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	350.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	353.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	356.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	359.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	362.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	365.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	368.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	371.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	374.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	377.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	380.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	383.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	386.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	389.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	392.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	395.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	398.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	401.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	404.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	407.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	410.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	413.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	416.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	419.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	422.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	425.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	428.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	431.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	434.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	437.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	440.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	443.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	446.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	449.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	452.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	455.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	458.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	461.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	464.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	467.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	470.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	473.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	476.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	479.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	482.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	485.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	488.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	491.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	494.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	497.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	500.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	503.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	506.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	509.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	512.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	515.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	518.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	521.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	524.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	527.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	530.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	533.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	536.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	539.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	542.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	545.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	548.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	551.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	554.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	557.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	560.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	563.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	566.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	569.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	572.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	575.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	578.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	581.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	584.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	587.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	590.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	593.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	596.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	599.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	602.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	605.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	608.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	611.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	614.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	617.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	620.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	623.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	626.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	629.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	632.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	635.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	638.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	641.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	644.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	647.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	650.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	653.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	656.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	659.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	662.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	665.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	668.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	671.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	674.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	677.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	680.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	683.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	686.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	689.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	692.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	695.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	698.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	701.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	704.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	707.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	710.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	713.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	716.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	719.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	722.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	725.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	728.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	731.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	734.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	737.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	740.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	743.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	746.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	749.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	752.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	755.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	758.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	761.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	764.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	767.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	770.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	773.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	776.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	779.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	782.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	785.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	788.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	791.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	794.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	797.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	800.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	803.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	806.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	809.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	812.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	815.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	818.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	821.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	824.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	827.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	830.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	833.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	836.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	839.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	842.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	845.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	848.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	851.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	854.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	857.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	860.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	863.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	866.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	869.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	872.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	875.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	878.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	881.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	884.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	887.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	890.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	893.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	896.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	899.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	902.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	905.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	908.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	911.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	914.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	917.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	920.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	923.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	926.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	929.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	932.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	935.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	938.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	941.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	944.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	947.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	950.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	953.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	956.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	959.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	962.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	965.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	968.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	971.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	974.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	977.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	980.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	983.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	986.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	989.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	992.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	995.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	998.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1001.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1004.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1007.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1010.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1013.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1016.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1019.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1022.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1025.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1028.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1031.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1034.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1037.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1040.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1043.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1046.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1049.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1052.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1055.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1058.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1061.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1064.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1067.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1070.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1073.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1076.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1079.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1082.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1085.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1088.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1091.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1094.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1097.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1100.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1103.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1106.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1109.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1112.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1115.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1118.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1121.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1124.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1127.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1130.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1133.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1136.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1139.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1142.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1145.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1148.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1151.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1154.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1157.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1160.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1163.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1166.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1169.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1172.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1175.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1178.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1181.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1184.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1187.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1190.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1193.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1196.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1199.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1202.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1205.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1208.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1211.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1214.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1217.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1220.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1223.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1226.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1229.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1232.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1235.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1238.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1241.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1244.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1247.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1250.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1253.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1256.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1259.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1262.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1265.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1268.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1271.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1274.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1277.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1280.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1283.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1286.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1289.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1292.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1295.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1298.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1301.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1304.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1307.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1310.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1313.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1316.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1319.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1322.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1325.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1328.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1331.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1334.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1337.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1340.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1343.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1346.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1349.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1352.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1355.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1358.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1361.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1364.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1367.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1370.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1373.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1376.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1379.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1382.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1385.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1388.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1391.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1394.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1397.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1400.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1403.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1406.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1409.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1412.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1415.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1418.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1421.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1424.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1427.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1430.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1433.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1436.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1439.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1442.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1445.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1448.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1451.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1454.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1457.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1460.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1463.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1466.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1469.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1472.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1475.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1478.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1481.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1484.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1487.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1490.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1493.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1496.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1499.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1502.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1505.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1508.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1511.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1514.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1517.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1520.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1523.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1526.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1529.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1532.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1535.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1538.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1541.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1544.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1547.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1550.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1553.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1556.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1559.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1562.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1565.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1568.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1571.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1574.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1577.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1580.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1583.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1586.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1589.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1592.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1595.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1598.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1601.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1604.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1607.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1610.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1613.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1616.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1619.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1622.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1625.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1628.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1631.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1634.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1637.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1640.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1643.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1646.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1649.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1652.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1655.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1658.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1661.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1664.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1667.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1670.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1673.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1676.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1679.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1682.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1685.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1688.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1691.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1694.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1697.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1700.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1703.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1706.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1709.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1712.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1715.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1718.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1721.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1724.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1727.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1730.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1733.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1736.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1739.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1742.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1745.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1748.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1751.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1754.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1757.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1760.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1763.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1766.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1769.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1772.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1775.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1778.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1781.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1784.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1787.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1790.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1793.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1796.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1799.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1802.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1805.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1808.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1811.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1814.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1817.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1820.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1823.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1826.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1829.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1832.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1835.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1838.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1841.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1844.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1847.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1850.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1853.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1856.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1859.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1862.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1865.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1868.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1871.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1874.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1877.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1880.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1883.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1886.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1889.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1892.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1895.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1898.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1901.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1904.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1907.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1910.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1913.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1916.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1919.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1922.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1925.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1928.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1931.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1934.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1937.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1940.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1943.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1946.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1949.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1952.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1955.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1958.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1961.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1964.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1967.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1970.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1973.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1976.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1979.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1982.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1985.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1988.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1991.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1994.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	1997.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	2000.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	2003.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	2006.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	2009.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	2012.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	2015.4	300.0	19.0	313	Plasma SiN STANDARD.txt	
+	2018.4	300.0	 1.0	313	Plasma SiN STANDARD.txt	
+	2021.4	300.0	 1.0	313	Plasma SiN STANDARD.txt	
+	2024.4	300.0	 1.0	313	Plasma SiN STANDARD.txt	
+	2027.4	300.0	 1.0	313	Plasma SiN STANDARD.txt	
+	2030.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	2033.4	 0.0	 0.0	313	Plasma SiN STANDARD.txt	
+	2036.4	 0.0	 0.0	312	Plasma SiN STANDARD.txt	
+	2039.4	 0.0	 0.0	312	Plasma SiN STANDARD.txt	
+	2042.4	317.0	13.0	312	Plasma SiN STANDARD.txt	
+	2045.4	300.0	 1.0	312	Plasma SiN STANDARD.txt	
+	2048.4	300.0	 1.0	312	Plasma SiN STANDARD.txt	
+	2051.4	300.0	 1.0	312	Plasma SiN STANDARD.txt	
+	2054.4	300.0	 1.0	312	Plasma SiN STANDARD.txt	
+	2057.4	 0.0	 0.0	312	Plasma SiN STANDARD.txt	
+	2060.4	 0.0	 0.0	312	Plasma SiN STANDARD.txt	
+	2063.4	 0.0	 0.0	311	Plasma SiN STANDARD.txt	
+	2066.4	 0.0	 0.0	311	Plasma SiN STANDARD.txt	
+	2069.4	319.0	 4.0	311	Plasma SiN STANDARD.txt	
+	2072.4	300.0	 1.0	311	Plasma SiN STANDARD.txt	
+	2075.4	300.0	 1.0	311	Plasma SiN STANDARD.txt	
+	2078.4	300.0	 1.0	311	Plasma SiN STANDARD.txt	
+	2081.4	300.0	 1.0	311	Plasma SiN STANDARD.txt	
+	2084.4	 0.0	 0.0	311	Plasma SiN STANDARD.txt	
+	2087.4	 0.0	 0.0	311	Plasma SiN STANDARD.txt	
+	2090.4	 0.0	 0.0	310	Plasma SiN STANDARD.txt	
+	2093.4	 0.0	 0.0	310	Plasma SiN STANDARD.txt	
+	2096.4	300.0	 1.0	310	Plasma SiN STANDARD.txt	
+	2099.4	300.0	 1.0	310	Plasma SiN STANDARD.txt	
+	2102.4	300.0	 1.0	310	Plasma SiN STANDARD.txt	
+	2105.4	300.0	 1.0	310	Plasma SiN STANDARD.txt	
+	2108.4	300.0	 1.0	310	Plasma SiN STANDARD.txt	
+	2111.4	 0.0	 0.0	310	Plasma SiN STANDARD.txt	
+	2114.4	 0.0	 0.0	310	Plasma SiN STANDARD.txt	
+	2117.4	 0.0	 0.0	309	Plasma SiN STANDARD.txt	
+	2120.4	 0.0	 0.0	309	Plasma SiN STANDARD.txt	
+	2123.4	316.0	 3.0	309	Plasma SiN STANDARD.txt	
+	2126.4	300.0	 1.0	309	Plasma SiN STANDARD.txt	
+	2129.4	300.0	 1.0	309	Plasma SiN STANDARD.txt	
+	2132.4	300.0	 1.0	309	Plasma SiN STANDARD.txt	
+	2135.4	300.0	 1.0	309	Plasma SiN STANDARD.txt	
+	2138.4	 0.0	 0.0	309	Plasma SiN STANDARD.txt	
+	2141.4	 0.0	 0.0	309	Plasma SiN STANDARD.txt	
+	2144.4	 0.0	 0.0	308	Plasma SiN STANDARD.txt	
+	2147.4	 0.0	 0.0	308	Plasma SiN STANDARD.txt	
+	2150.4	300.0	 0.0	308	Plasma SiN STANDARD.txt	
+	2153.4	300.0	 0.0	308	Plasma SiN STANDARD.txt	
+	2156.4	300.0	 0.0	308	Plasma SiN STANDARD.txt	
+	2159.4	300.0	 0.0	308	Plasma SiN STANDARD	
+	2162.4	300.0	 0.0	308	Plasma SiN STANDARD	
+	2165.4	 0.0	 0.0	308	Plasma SiN STANDARD	
+	2168.4	 0.0	 0.0	308	Plasma SiN STANDARD	
+	2171.4	 0.0	 0.0	307	Plasma SiN STANDARD	
+	2174.4	 0.0	 0.0	307	Plasma SiN STANDARD	
+	2177.4	314.0	 2.0	307	Plasma SiN STANDARD	
+	2180.4	300.0	 1.0	307	Plasma SiN STANDARD	
+	2183.4	300.0	 1.0	307	Plasma SiN STANDARD	
+	2186.4	300.0	 1.0	307	Si3N4 25nm	
+	2189.4	300.0	 1.0	307	Si3N4 25nm	
+	2192.4	 0.0	 0.0	307	Si3N4 25nm	
+	2195.4	 0.0	 0.0	307	Si3N4 25nm	
+	2198.4	 0.0	 0.0	306	Si3N4 25nm	
+	2201.4	 0.0	 0.0	306	Si3N4 25nm	
+	2204.4	312.0	 2.0	306	Si3N4 25nm	
+	2207.4	300.0	 1.0	306	Si3N4 25nm	
+	2210.4	300.0	 1.0	306	Si3N4 25nm	
+	2213.4	300.0	 1.0	306	Si3N4 25nm	
+	2216.4	300.0	 1.0	306	Si3N4 25nm	
+	2219.4	 0.0	 0.0	306	Si3N4 25nm	
+	2222.4	 0.0	 0.0	306	Si3N4 25nm	
+	2225.4	 0.0	 0.0	305	Si3N4 25nm	
+	2228.4	 0.0	 0.0	305	Si3N4 25nm	
+	2231.4	300.0	 0.0	305	Si3N4 25nm	
+	2234.4	300.0	 0.0	305	Si3N4 25nm	
+	2237.4	300.0	 0.0	305	Si3N4 25nm	
+	2240.4	300.0	 0.0	305	Si3N4 25nm	
+	2243.4	300.0	 0.0	305	Si3N4 25nm	
+	2246.4	 0.0	 0.0	305	Si3N4 25nm	
+	2249.4	 0.0	 0.0	305	Si3N4 25nm	
+	2252.4	 0.0	 0.0	304	Si3N4 25nm	
+	2255.4	 0.0	 0.0	304	Si3N4 25nm	
+	2258.4	300.0	 2.0	304	Si3N4 25nm	
+	2261.4	300.0	 1.0	304	Si3N4 25nm	
+	2264.4	300.0	 1.0	304	Si3N4 25nm	
+	2267.4	300.0	 1.0	304	Si3N4 25nm	
+	2270.4	300.0	 1.0	304	Si3N4 25nm	
+	2273.4	 0.0	 0.0	304	Si3N4 25nm	
+	2276.4	 0.0	 0.0	304	Si3N4 25nm	
+	2279.4	 0.0	 0.0	303	Si3N4 25nm	
+	2282.4	 0.0	 0.0	303	Si3N4 25nm	
+	2285.4	300.0	 2.0	303	Si3N4 25nm	
+	2288.4	300.0	 2.0	303	Si3N4 25nm	
+	2291.4	300.0	 2.0	303	Si3N4 25nm	
+	2294.4	300.0	 2.0	303	Si3N4 25nm	
+	2297.4	300.0	 2.0	303	Si3N4 25nm	
+	2300.4	 0.0	 0.0	303	Si3N4 25nm	
+	2303.4	 0.0	 0.0	303	Si3N4 25nm	
+	2306.4	 0.0	 0.0	302	Si3N4 25nm	
+	2309.4	 0.0	 0.0	302	Si3N4 25nm	
+	2312.4	300.0	 0.0	302	Si3N4 25nm	
+	2315.4	300.0	 0.0	302	Si3N4 25nm	
+	2318.4	300.0	 0.0	302	Si3N4 25nm	
+	2321.4	300.0	 0.0	302	Si3N4 25nm	
+	2324.4	300.0	 0.0	302	Si3N4 25nm	
+	2327.4	 0.0	 0.0	302	Si3N4 25nm	
+	2330.4	 0.0	 0.0	302	Si3N4 25nm	
+	2333.4	 0.0	 0.0	301	Si3N4 25nm	
+	2336.4	 0.0	 0.0	301	Si3N4 25nm	
+	2339.4	300.0	 2.0	301	Si3N4 25nm	
+	2342.4	300.0	 2.0	301	Si3N4 25nm	
+	2345.4	300.0	 2.0	301	Si3N4 25nm	
+	2348.4	300.0	 2.0	301	Si3N4 25nm	
+	2351.4	300.0	 2.0	301	Si3N4 25nm	
+	2354.4	 0.0	 0.0	301	Si3N4 25nm	
+	2357.4	 0.0	 0.0	301	Si3N4 25nm	
+	2360.4	 0.0	 0.0	300	Si3N4 25nm	
+	2363.4	 0.0	 0.0	300	Si3N4 25nm	
+	2366.4	300.0	 2.0	300	Si3N4 25nm	
+	2369.4	300.0	 1.0	300	Si3N4 25nm	
+	2372.4	300.0	 1.0	300	Si3N4 25nm	
+	2375.4	300.0	 1.0	300	Si3N4 25nm	
+	2378.4	300.0	 1.0	300	Si3N4 25nm	
+	2381.4	 0.0	 0.0	300	Si3N4 25nm	
+	2384.4	 0.0	 0.0	300	Si3N4 25nm	
+	2387.4	 0.0	 0.0	299	Si3N4 25nm	
+	2390.4	 0.0	 0.0	299	Si3N4 25nm	
+	2393.4	300.0	 0.0	299	Si3N4 25nm	
+	2396.4	300.0	 0.0	299	Si3N4 25nm	
+	2399.4	300.0	 0.0	299	Si3N4 25nm	
+	2402.4	300.0	 0.0	299	Si3N4 25nm	
+	2405.4	300.0	 0.0	299	Si3N4 25nm	
+	2408.4	 0.0	 0.0	299	Si3N4 25nm	
+	2411.4	 0.0	 0.0	299	Si3N4 25nm	
+	2414.4	 0.0	 0.0	298	Si3N4 25nm	
+	2417.4	 0.0	 0.0	298	Si3N4 25nm	
+	2420.4	300.0	 2.0	298	Si3N4 25nm	
+	2423.4	300.0	 2.0	298	Si3N4 25nm	
+	2426.4	300.0	 2.0	298	Si3N4 25nm	
+	2429.4	300.0	 2.0	298	Si3N4 25nm	
+	2432.4	300.0	 2.0	298	Si3N4 25nm	
+	2435.4	 0.0	 0.0	298	Si3N4 25nm	
+	2438.4	 0.0	 0.0	298	Si3N4 25nm	
+	2441.4	 0.0	 0.0	297	Si3N4 25nm	
+	2444.4	 0.0	 0.0	297	Si3N4 25nm	
+	2447.4	300.0	 2.0	297	Si3N4 25nm	
+	2450.4	300.0	 1.0	297	Si3N4 25nm	
+	2453.4	300.0	 1.0	297	Si3N4 25nm	
+	2456.4	300.0	 1.0	297	Si3N4 25nm	
+	2459.4	300.0	 1.0	297	Si3N4 25nm	
+	2462.4	 0.0	 0.0	297	Si3N4 25nm	
+	2465.4	 0.0	 0.0	297	Si3N4 25nm	
+	2468.4	 0.0	 0.0	296	Si3N4 25nm	
+	2471.4	 0.0	 0.0	296	Si3N4 25nm	
+	2474.4	300.0	 2.0	296	Si3N4 25nm	
+	2477.4	300.0	 1.0	296	Si3N4 25nm	
+	2480.4	300.0	 1.0	296	Si3N4 25nm	
+	2483.4	300.0	 1.0	296	Si3N4 25nm	
+	2486.4	300.0	 1.0	296	Si3N4 25nm	
+	2489.4	 0.0	 0.0	296	Si3N4 25nm	
+	2492.4	 0.0	 0.0	296	Si3N4 25nm	
+	2495.4	 0.0	 0.0	295	Si3N4 25nm	
+	2498.4	 0.0	 0.0	295	Si3N4 25nm	
+	2501.4	300.0	 0.0	295	Si3N4 25nm	
+	2504.4	300.0	 0.0	295	Si3N4 25nm	
+	2507.4	300.0	 0.0	295	Si3N4 25nm	
+	2510.4	300.0	 0.0	295	Si3N4 25nm	
+	2513.4	300.0	 0.0	295	Si3N4 25nm	
+	2516.4	 0.0	 0.0	295	Si3N4 25nm	
+	2519.4	 0.0	 0.0	295	Si3N4 25nm	
+	2522.4	 0.0	 0.0	294	Si3N4 25nm	
+	2525.4	 0.0	 0.0	294	Si3N4 25nm	
+	2528.4	300.0	 2.0	294	Si3N4 25nm	
+	2531.4	300.0	 1.0	294	Si3N4 25nm	
+	2534.4	300.0	 1.0	294	Si3N4 25nm	
+	2537.4	300.0	 1.0	294	Si3N4 25nm	
+	2540.4	300.0	 1.0	294	Si3N4 25nm	
+	2543.4	 0.0	 0.0	294	Si3N4 25nm	
+	2546.4	 0.0	 0.0	294	Si3N4 25nm	
+	2549.4	 0.0	 0.0	293	Si3N4 25nm	
+	2552.4	 0.0	 0.0	293	Si3N4 25nm	
+	2555.4	300.0	 1.0	293	Si3N4 25nm	
+	2558.4	300.0	 1.0	293	Si3N4 25nm	
+	2561.4	300.0	 1.0	293	Si3N4 25nm	
+	2564.4	300.0	 1.0	293	Si3N4 25nm	
+	2567.4	300.0	 1.0	293	Si3N4 25nm	
+	2570.4	 0.0	 0.0	293	Si3N4 25nm	
+	2573.4	 0.0	 0.0	293	Si3N4 25nm	
+	2576.4	 0.0	 0.0	292	Si3N4 25nm	
+	2579.4	 0.0	 0.0	292	Si3N4 25nm	
+	2582.4	300.0	 1.0	292	Si3N4 25nm	
+	2585.4	300.0	 1.0	292	Si3N4 25nm	
+	2588.4	300.0	 1.0	292	Si3N4 25nm	
+	2591.4	300.0	 1.0	292	Si3N4 25nm	
+	2594.4	300.0	 1.0	292	Si3N4 25nm	
+	2597.4	 0.0	 0.0	292	Si3N4 25nm	
+	2600.4	 0.0	 0.0	292	Si3N4 25nm	
+	2603.4	 0.0	 0.0	291	Si3N4 25nm	
+	2606.4	 0.0	 0.0	291	Si3N4 25nm	
+	2609.4	300.0	 1.0	291	Si3N4 25nm	
+	2612.4	300.0	 1.0	291	Si3N4 25nm	
+	2615.4	300.0	 1.0	291	Si3N4 25nm	
+	2618.4	300.0	 1.0	291	Si3N4 25nm	
+	2621.4	300.0	 1.0	291	Si3N4 25nm	
+	2624.4	 0.0	 0.0	291	Si3N4 25nm	
+	2627.4	 0.0	 0.0	291	Si3N4 25nm	
+	2630.4	 0.0	 0.0	290	Si3N4 25nm	
+	2633.4	 0.0	 0.0	290	Si3N4 25nm	
+	2636.4	300.0	 0.0	290	Si3N4 25nm	
+	2639.4	300.0	 0.0	290	Si3N4 25nm	
+	2642.4	300.0	 0.0	290	Si3N4 25nm	
+	2645.4	300.0	 0.0	290	Si3N4 25nm	
+	2648.4	300.0	 0.0	290	Si3N4 25nm	
+	2651.4	 0.0	 0.0	290	Si3N4 25nm	
+	2654.4	 0.0	 0.0	290	Si3N4 25nm	
+	2657.4	 0.0	 0.0	289	Si3N4 25nm	
+	2660.4	 0.0	 0.0	289	Si3N4 25nm	
+	2663.4	300.0	 2.0	289	Si3N4 25nm	
+	2666.4	300.0	 2.0	289	Si3N4 25nm	
+	2669.4	300.0	 2.0	289	Si3N4 25nm	
+	2672.4	300.0	 2.0	289	Si3N4 25nm	
+	2675.4	300.0	 2.0	289	Si3N4 25nm	
+	2678.4	 0.0	 0.0	289	Si3N4 25nm	
+	2681.4	 0.0	 0.0	289	Si3N4 25nm	
+	2684.4	 0.0	 0.0	288	Si3N4 25nm	
+	2687.4	 0.0	 0.0	288	Si3N4 25nm	
+	2690.4	300.0	 0.0	288	Si3N4 25nm	
+	2693.4	300.0	 0.0	288	Si3N4 25nm	
+	2696.4	300.0	 0.0	288	Si3N4 25nm	
+	2699.4	300.0	 0.0	288	Si3N4 25nm	
+	2702.4	300.0	 0.0	288	Si3N4 25nm	
+	2705.4	 0.0	 0.0	288	Si3N4 25nm	
+	2708.4	 0.0	 0.0	288	Si3N4 25nm	
+	2711.4	 0.0	 0.0	287	Si3N4 25nm	
+	2714.4	 0.0	 0.0	287	Si3N4 25nm	
+	2717.4	300.0	 2.0	287	Si3N4 25nm	
+	2720.4	300.0	 2.0	287	Si3N4 25nm	
+	2723.4	300.0	 2.0	287	Si3N4 25nm	
+	2726.4	300.0	 2.0	287	Si3N4 25nm	
+	2729.4	300.0	 2.0	287	Si3N4 25nm	
+	2732.4	 0.0	 0.0	287	Si3N4 25nm	
+	2735.4	 0.0	 0.0	287	Si3N4 25nm	
+	2738.4	 0.0	 0.0	286	Si3N4 25nm	
+	2741.4	 0.0	 0.0	286	Si3N4 25nm	
+	2744.4	300.0	 2.0	286	Si3N4 25nm	
+	2747.4	300.0	 3.0	286	Si3N4 25nm	
+	2750.4	300.0	 3.0	286	Si3N4 25nm	
+	2753.4	300.0	 3.0	286	Si3N4 25nm	
+	2756.4	300.0	 3.0	286	Si3N4 25nm	
+	2759.4	 0.0	 0.0	286	Si3N4 25nm	
+	2762.4	 0.0	 0.0	286	Si3N4 25nm	
+	2765.4	 0.0	 0.0	285	Si3N4 25nm	
+	2768.4	 0.0	 0.0	285	Si3N4 25nm	
+	2771.4	300.0	 4.0	285	Si3N4 25nm	
+	2774.4	300.0	 3.0	285	Si3N4 25nm	
+	2777.4	300.0	 3.0	285	Si3N4 25nm	
+	2780.4	300.0	 3.0	285	Si3N4 25nm	
+	2783.4	300.0	 3.0	285	Si3N4 25nm	
+	2786.4	 0.0	 0.0	285	Si3N4 25nm	
+	2789.4	 0.0	 0.0	285	Si3N4 25nm	
+	2792.4	 0.0	 0.0	284	Si3N4 25nm	
+	2795.4	 0.0	 0.0	284	Si3N4 25nm	
+	2798.4	300.0	 0.0	284	Si3N4 25nm	
+	2801.4	300.0	 0.0	284	Si3N4 25nm	
+	2804.4	300.0	 0.0	284	Si3N4 25nm	
+	2807.4	300.0	 0.0	284	Si3N4 25nm	
+	2810.4	300.0	 0.0	284	Si3N4 25nm	
+	2813.4	 0.0	 0.0	284	Si3N4 25nm	
+	2816.4	 0.0	 0.0	284	Si3N4 25nm	
+	2819.4	 0.0	 0.0	283	Si3N4 25nm	
+	2822.4	 0.0	 0.0	283	Si3N4 25nm	
+	2825.4	300.0	 4.0	283	Si3N4 25nm	
+	2828.4	300.0	 3.0	283	Si3N4 25nm	
+	2831.4	300.0	 3.0	283	Si3N4 25nm	
+	2834.4	300.0	 3.0	283	Si3N4 25nm	
+	2837.4	300.0	 3.0	283	Si3N4 25nm	
+	2840.4	 0.0	 0.0	283	Si3N4 25nm	
+	2843.4	 0.0	 0.0	283	Si3N4 25nm	
+	2846.4	 0.0	 0.0	282	Si3N4 25nm	
+	2849.4	 0.0	 0.0	282	Si3N4 25nm	
+	2852.4	300.0	 4.0	282	Si3N4 25nm	
+	2855.4	300.0	 3.0	282	Si3N4 25nm	
+	2858.4	300.0	 3.0	282	Si3N4 25nm	
+	2861.4	300.0	 3.0	282	Si3N4 25nm	
+	2864.4	300.0	 3.0	282	Si3N4 25nm	
+	2867.4	 0.0	 0.0	282	Si3N4 25nm	
+	2870.4	 0.0	 0.0	282	Si3N4 25nm	
+	2873.4	 0.0	 0.0	281	Si3N4 25nm	
+	2876.4	 0.0	 0.0	281	Si3N4 25nm	
+	2879.4	300.0	 0.0	281	Si3N4 25nm	
+	2882.4	300.0	 0.0	281	Si3N4 25nm	
+	2885.4	300.0	 0.0	281	Si3N4 25nm	
+	2888.4	300.0	 0.0	281	Si3N4 25nm	
+	2891.4	300.0	 0.0	281	Si3N4 25nm	
+	2894.4	 0.0	 0.0	281	Si3N4 25nm	
+	2897.4	 0.0	 0.0	281	Si3N4 25nm	
+	2900.4	 0.0	 0.0	280	Si3N4 25nm	
+	2903.4	 0.0	 0.0	280	Si3N4 25nm	
+	2906.4	300.0	 0.0	280	Si3N4 25nm	
+	2909.4	300.0	 0.0	280	Si3N4 25nm	
+	2912.4	300.0	 0.0	280	Si3N4 25nm	
+	2915.4	300.0	 0.0	280	Si3N4 25nm	
+	2918.4	300.0	 0.0	280	Si3N4 25nm	
+	2921.4	 0.0	 0.0	280	Si3N4 25nm	
+	2924.4	 0.0	 0.0	280	Si3N4 25nm	
+	2927.4	 0.0	 0.0	279	Si3N4 25nm	
+	2930.4	 0.0	 0.0	279	Si3N4 25nm	
+	2933.4	300.0	 0.0	279	Si3N4 25nm	
+	2936.4	300.0	 0.0	279	Si3N4 25nm	
+	2939.4	300.0	 0.0	279	Si3N4 25nm	
+	2942.4	300.0	 0.0	279	Si3N4 25nm	
+	2945.4	300.0	 0.0	279	Si3N4 25nm	
+	2948.4	 0.0	 0.0	279	Si3N4 25nm	
+	2951.4	 0.0	 0.0	279	Si3N4 25nm	
+	2954.4	 0.0	 0.0	278	Si3N4 25nm	
+	2957.4	 0.0	 0.0	278	Si3N4 25nm	
+	2960.4	300.0	 4.0	278	Si3N4 25nm	
+	2963.4	300.0	 3.0	278	Si3N4 25nm	
+	2966.4	300.0	 3.0	278	Si3N4 25nm	
+	2969.4	300.0	 3.0	278	Si3N4 25nm	
+	2972.4	300.0	 3.0	278	Si3N4 25nm	
+	2975.4	 0.0	 0.0	278	Si3N4 25nm	
+	2978.4	 0.0	 0.0	278	Si3N4 25nm	
+	2981.4	 0.0	 0.0	277	Si3N4 25nm	
+	2984.4	 0.0	 0.0	277	Si3N4 25nm	
+	2987.4	300.0	 5.0	277	Si3N4 25nm	
+	2990.4	300.0	 3.0	277	Si3N4 25nm	
+	2993.4	300.0	 3.0	277	Si3N4 25nm	
+	2996.4	300.0	 3.0	277	Si3N4 25nm	
+	2999.4	300.0	 3.0	277	Si3N4 25nm	
+	3002.4	 0.0	 0.0	277	Si3N4 25nm	
+	3005.4	 0.0	 0.0	277	Si3N4 25nm	
+	3008.4	 0.0	 0.0	276	Si3N4 25nm	
+	3011.4	 0.0	 0.0	276	Si3N4 25nm	
+	3014.4	300.0	 0.0	276	Si3N4 25nm	
+	3017.4	300.0	 0.0	276	Si3N4 25nm	
+	3020.4	300.0	 0.0	276	Si3N4 25nm	
+	3023.4	300.0	 0.0	276	Si3N4 25nm	
+	3026.4	300.0	 0.0	276	Si3N4 25nm	
+	3029.4	 0.0	 0.0	276	Si3N4 25nm	
+	3032.4	 0.0	 0.0	276	Si3N4 25nm	
+	3035.4	 0.0	 0.0	275	Si3N4 25nm	
+	3038.4	 0.0	 0.0	275	Si3N4 25nm	
+	3041.4	300.0	 4.0	275	Si3N4 25nm	
+	3044.4	300.0	 3.0	275	Si3N4 25nm	
+	3047.4	300.0	 3.0	275	Si3N4 25nm	
+	3050.4	300.0	 3.0	275	Si3N4 25nm	
+	3053.4	300.0	 3.0	275	Si3N4 25nm	
+	3056.4	 0.0	 0.0	275	Si3N4 25nm	
+	3059.4	 0.0	 0.0	275	Si3N4 25nm	
+	3062.4	 0.0	 0.0	274	Si3N4 25nm	
+	3065.4	 0.0	 0.0	274	Si3N4 25nm	
+	3068.4	300.0	 3.0	274	Si3N4 25nm	
+	3071.4	300.0	 3.0	274	Si3N4 25nm	
+	3074.4	300.0	 3.0	274	Si3N4 25nm	
+	3077.4	300.0	 3.0	274	Si3N4 25nm	
+	3080.4	300.0	 3.0	274	Si3N4 25nm	
+	3083.4	 0.0	 0.0	274	Si3N4 25nm	
+	3086.4	 0.0	 0.0	274	Si3N4 25nm	goto;016313
+	3089.4	 0.0	 0.0	273	Si3N4 25nm	
+	3092.4	 0.0	 0.0	273	Si3N4 25nm	
+	3095.4	300.0	 2.0	273	Si3N4 25nm	
+	3098.4	300.0	 2.0	273	Si3N4 25nm	
+	3101.4	300.0	 2.0	273	Si3N4 25nm	
+	3104.4	300.0	 2.0	273	Si3N4 25nm	
+	3107.4	300.0	 2.0	273	Si3N4 25nm	
+	3110.4	 0.0	 0.0	273	Si3N4 25nm	
+	3113.4	 0.0	 0.0	273	Si3N4 25nm	goto;016313
+	3116.4	 0.0	 0.0	272	Si3N4 25nm	
+	3119.4	 0.0	 0.0	272	Si3N4 25nm	
+	3122.4	300.0	 2.0	272	Si3N4 25nm	
+	3125.4	300.0	 2.0	272	Si3N4 25nm	
+	3128.4	300.0	 2.0	272	Si3N4 25nm	
+	3131.4	300.0	 2.0	272	Si3N4 25nm	
+	3134.4	300.0	 2.0	272	Si3N4 25nm	
+	3137.4	 0.0	 0.0	272	Si3N4 25nm	
+	3140.4	 0.0	 0.0	271	Si3N4 25nm	
+	3143.4	 0.0	 0.0	271	Si3N4 25nm	
+	3146.4	 0.0	 0.0	271	Si3N4 25nm	
+	3149.4	300.0	 2.0	271	Si3N4 25nm	
+	3152.4	300.0	 1.0	271	Si3N4 25nm	
+	3155.4	300.0	 1.0	271	Si3N4 25nm	
+	3158.4	300.0	 1.0	271	Si3N4 25nm	
+	3161.4	300.0	 1.0	271	Si3N4 25nm	
+	3164.4	 0.0	 0.0	271	Si3N4 25nm	
+	3167.4	 0.0	 0.0	270	Si3N4 25nm	
+	3170.4	 0.0	 0.0	270	Si3N4 25nm	
+	3173.4	 0.0	 0.0	270	Si3N4 25nm	
+	3176.4	300.0	 4.0	270	Si3N4 25nm	
+	3179.4	300.0	 3.0	270	Si3N4 25nm	
+	3182.4	300.0	 3.0	270	Si3N4 25nm	
+	3185.4	300.0	 3.0	270	Si3N4 25nm	
+	3188.4	300.0	 3.0	270	Si3N4 25nm	
+	3191.4	 0.0	 0.0	270	Si3N4 25nm	
+	3194.4	 0.0	 0.0	269	Si3N4 25nm	
+	3197.4	 0.0	 0.0	269	Si3N4 25nm	
+	3200.4	 0.0	 0.0	269	Si3N4 25nm	
+	3203.4	300.0	 3.0	269	Si3N4 25nm	
+	3206.4	300.0	 3.0	269	Si3N4 25nm	
+	3209.4	300.0	 3.0	269	Si3N4 25nm	
+	3212.4	300.0	 3.0	269	Si3N4 25nm	
+	3215.4	300.0	 3.0	269	Si3N4 25nm	
+	3218.4	 0.0	 0.0	269	Si3N4 25nm	
+	3221.4	 0.0	 0.0	268	Si3N4 25nm	
+	3224.4	 0.0	 0.0	268	Si3N4 25nm	
+	3227.4	 0.0	 0.0	268	Si3N4 25nm	
+	3230.4	300.0	 2.0	268	Si3N4 25nm	
+	3233.4	300.0	 2.0	268	Si3N4 25nm	
+	3236.4	300.0	 2.0	268	Si3N4 25nm	
+	3239.4	300.0	 2.0	268	Si3N4 25nm	
+	3242.4	300.0	 2.0	268	Si3N4 25nm	
+	3245.4	 0.0	 0.0	268	Si3N4 25nm	
+	3248.4	 0.0	 0.0	267	Si3N4 25nm	
+	3251.4	 0.0	 0.0	267	Si3N4 25nm	
+	3254.4	 0.0	 0.0	267	Si3N4 25nm	
+	3257.4	300.0	 2.0	267	Si3N4 25nm	
+	3260.4	300.0	 2.0	267	Si3N4 25nm	
+	3263.4	300.0	 2.0	267	Si3N4 25nm	
+	3266.4	300.0	 2.0	267	Si3N4 25nm	
+	3269.4	300.0	 2.0	267	Si3N4 25nm	
+	3272.4	 0.0	 0.0	267	Si3N4 25nm	
+	3275.4	 0.0	 0.0	266	Si3N4 25nm	
+	3278.4	 0.0	 0.0	266	Si3N4 25nm	
+	3281.4	 0.0	 0.0	266	Si3N4 25nm	
+	3284.4	300.0	 2.0	266	Si3N4 25nm	
+	3287.4	300.0	 2.0	266	Si3N4 25nm	
+	3290.4	300.0	 2.0	266	Si3N4 25nm	
+	3293.4	300.0	 2.0	266	Si3N4 25nm	
+	3296.4	300.0	 2.0	266	Si3N4 25nm	
+	3299.4	 0.0	 0.0	266	Si3N4 25nm	
+	3302.4	 0.0	 0.0	265	Si3N4 25nm	
+	3305.4	 0.0	 0.0	265	Si3N4 25nm	
+	3308.4	 0.0	 0.0	265	Si3N4 25nm	
+	3311.4	300.0	 2.0	265	Si3N4 25nm	
+	3314.4	300.0	 2.0	265	Si3N4 25nm	
+	3317.4	300.0	 2.0	265	Si3N4 25nm	
+	3320.4	300.0	 2.0	265	Si3N4 25nm	
+	3323.4	300.0	 2.0	265	Si3N4 25nm	
+	3326.4	 0.0	 0.0	265	Si3N4 25nm	
+	3329.4	 0.0	 0.0	264	Si3N4 25nm	
+	3332.4	 0.0	 0.0	264	Si3N4 25nm	
+	3335.4	 0.0	 0.0	264	Si3N4 25nm	
+	3338.4	300.0	 3.0	264	Si3N4 25nm	
+	3341.4	300.0	 3.0	264	Si3N4 25nm	
+	3344.4	300.0	 3.0	264	Si3N4 25nm	
+	3347.4	300.0	 3.0	264	Si3N4 25nm	
+	3350.4	300.0	 3.0	264	Si3N4 25nm	
+	3353.4	 0.0	 0.0	264	Si3N4 25nm	
+	3356.4	 0.0	 0.0	263	Si3N4 25nm	
+	3359.4	 0.0	 0.0	263	Si3N4 25nm	
+	3362.4	 0.0	 0.0	263	Si3N4 25nm	
+	3365.4	300.0	 0.0	263	Si3N4 25nm	
+	3368.4	300.0	 0.0	263	Si3N4 25nm	
+	3371.4	300.0	 0.0	263	Si3N4 25nm	
+	3374.4	300.0	 0.0	263	Si3N4 25nm	
+	3377.4	300.0	 0.0	263	Si3N4 25nm	
+	3380.4	 0.0	 0.0	263	Si3N4 25nm	
+	3383.4	 0.0	 0.0	262	Si3N4 25nm	
+	3386.4	 0.0	 0.0	262	Si3N4 25nm	
+	3389.4	 0.0	 0.0	262	Si3N4 25nm	
+	3392.4	300.0	 2.0	262	Si3N4 25nm	
+	3395.4	300.0	 2.0	262	Si3N4 25nm	
+	3398.4	300.0	 2.0	262	Si3N4 25nm	
+	3401.4	300.0	 2.0	262	Si3N4 25nm	
+	3404.4	300.0	 2.0	262	Si3N4 25nm	
+	3407.4	 0.0	 0.0	262	Si3N4 25nm	
+	3410.4	 0.0	 0.0	261	Si3N4 25nm	
+	3413.4	 0.0	 0.0	261	Si3N4 25nm	
+	3416.4	 0.0	 0.0	261	Si3N4 25nm	
+	3419.4	300.0	 0.0	261	Si3N4 25nm	
+	3422.4	300.0	 0.0	261	Si3N4 25nm	
+	3425.4	300.0	 0.0	261	Si3N4 25nm	
+	3428.4	300.0	 0.0	261	Si3N4 25nm	
+	3431.4	300.0	 0.0	261	Si3N4 25nm	
+	3434.4	 0.0	 0.0	261	Si3N4 25nm	
+	3437.4	 0.0	 0.0	260	Si3N4 25nm	
+	3440.4	 0.0	 0.0	260	Si3N4 25nm	
+	3443.4	 0.0	 0.0	260	Si3N4 25nm	
+	3446.4	300.0	 0.0	260	Si3N4 25nm	
+	3449.4	300.0	 0.0	260	Si3N4 25nm	
+	3452.4	300.0	 0.0	260	Si3N4 25nm	
+	3455.4	300.0	 0.0	260	Si3N4 25nm	
+	3458.4	300.0	 0.0	260	Si3N4 25nm	
+	3461.4	 0.0	 0.0	260	Si3N4 25nm	
+	3464.4	 0.0	 0.0	259	Si3N4 25nm	
+	3467.4	 0.0	 0.0	259	Si3N4 25nm	
+	3470.4	 0.0	 0.0	259	Si3N4 25nm	
+	3473.4	300.0	 3.0	259	Si3N4 25nm	
+	3476.4	300.0	 3.0	259	Si3N4 25nm	
+	3479.4	300.0	 3.0	259	Si3N4 25nm	
+	3482.4	300.0	 3.0	259	Si3N4 25nm	
+	3485.4	300.0	 3.0	259	Si3N4 25nm	
+	3488.4	 0.0	 0.0	259	Si3N4 25nm	
+	3491.4	 0.0	 0.0	258	Si3N4 25nm	
+	3494.4	 0.0	 0.0	258	Si3N4 25nm	
+	3497.4	 0.0	 0.0	258	Si3N4 25nm	
+	3500.4	300.0	 3.0	258	Si3N4 25nm	
+	3503.4	300.0	 3.0	258	Si3N4 25nm	
+	3506.4	300.0	 3.0	258	Si3N4 25nm	
+	3509.4	300.0	 3.0	258	Si3N4 25nm	
+	3512.4	300.0	 3.0	258	Si3N4 25nm	
+	3515.4	 0.0	 0.0	258	Si3N4 25nm	
+	3518.4	 0.0	 0.0	257	Si3N4 25nm	
+	3521.4	 0.0	 0.0	257	Si3N4 25nm	
+	3524.4	 0.0	 0.0	257	Si3N4 25nm	
+	3527.4	300.0	 3.0	257	Si3N4 25nm	
+	3530.4	300.0	 3.0	257	Si3N4 25nm	
+	3533.4	300.0	 3.0	257	Si3N4 25nm	
+	3536.4	300.0	 3.0	257	Si3N4 25nm	
+	3539.4	300.0	 3.0	257	Si3N4 25nm	
+	3542.4	 0.0	 0.0	257	Si3N4 25nm	
+	3545.4	 0.0	 0.0	256	Si3N4 25nm	
+	3548.4	 0.0	 0.0	256	Si3N4 25nm	
+	3551.4	 0.0	 0.0	256	Si3N4 25nm	
+	3554.4	300.0	 2.0	256	Si3N4 25nm	
+	3557.4	300.0	 2.0	256	Si3N4 25nm	
+	3560.4	300.0	 2.0	256	Si3N4 25nm	
+	3563.4	300.0	 2.0	256	Si3N4 25nm	
+	3566.4	300.0	 2.0	256	Si3N4 25nm	
+	3569.4	 0.0	 0.0	256	Si3N4 25nm	
+	3572.4	 0.0	 0.0	255	Si3N4 25nm	
+	3575.4	 0.0	 0.0	255	Si3N4 25nm	
+	3578.4	 0.0	 0.0	255	Si3N4 25nm	
+	3581.4	300.0	 1.0	255	Si3N4 25nm	
+	3584.4	300.0	 1.0	255	Si3N4 25nm	
+	3587.4	300.0	 1.0	255	Si3N4 25nm	
+	3590.4	300.0	 1.0	255	Si3N4 25nm	
+	3593.4	300.0	 2.0	255	Si3N4 25nm	
+	3596.4	 0.0	 0.0	255	Si3N4 25nm	
+	3599.4	 0.0	 0.0	254	Si3N4 25nm	
+	3602.4	 0.0	 0.0	254	Si3N4 25nm	
+	3605.4	 0.0	 0.0	254	Si3N4 25nm	
+	3608.4	300.0	 1.0	254	Si3N4 25nm	
+	3611.4	300.0	 1.0	254	Si3N4 25nm	
+	3614.4	300.0	 1.0	254	Si3N4 25nm	
+	3617.4	300.0	 1.0	254	Si3N4 25nm	
+	3620.4	300.0	 1.0	254	Si3N4 25nm	
+	3623.4	 0.0	 0.0	254	Si3N4 25nm	
+	3626.4	 0.0	 0.0	253	Si3N4 25nm	
+	3629.4	 0.0	 0.0	253	Si3N4 25nm	
+	3632.4	 0.0	 0.0	253	Si3N4 25nm	
+	3635.4	300.0	 2.0	253	Si3N4 25nm	
+	3638.4	300.0	 2.0	253	Si3N4 25nm	
+	3641.4	300.0	 2.0	253	Si3N4 25nm	
+	3644.4	300.0	 2.0	253	Si3N4 25nm	
+	3647.4	300.0	 2.0	253	Si3N4 25nm	
+	3650.4	 0.0	 0.0	253	Si3N4 25nm	
+	3653.4	 0.0	 0.0	252	Si3N4 25nm	
+	3656.4	 0.0	 0.0	252	Si3N4 25nm	
+	3659.4	 0.0	 0.0	252	Si3N4 25nm	
+	3662.4	300.0	 2.0	252	Si3N4 25nm	
+	3665.4	300.0	 2.0	252	Si3N4 25nm	
+	3668.4	300.0	 2.0	252	Si3N4 25nm	
+	3671.4	300.0	 2.0	252	Si3N4 25nm	
+	3674.4	300.0	 2.0	252	Si3N4 25nm	
+	3677.4	 0.0	 0.0	252	Si3N4 25nm	
+	3680.4	 0.0	 0.0	251	Si3N4 25nm	
+	3683.4	 0.0	 0.0	251	Si3N4 25nm	
+	3686.4	180.0	50.0	251	Si3N4 25nm	
+	3689.4	300.0	 1.0	251	Si3N4 25nm	
+	3692.4	300.0	 1.0	251	Si3N4 25nm	
+	3695.4	300.0	 1.0	251	Si3N4 25nm	
+	3698.4	300.0	 2.0	251	Si3N4 25nm	
+	3701.4	300.0	 2.0	251	Si3N4 25nm	
+	3704.4	 0.0	 0.0	251	Si3N4 25nm	
+	3707.4	 0.0	 0.0	250	Si3N4 25nm	
+	3710.4	 0.0	 0.0	250	Si3N4 25nm	
+	3713.4	179.0	15.0	250	Si3N4 25nm	
+	3716.4	300.0	 0.0	250	Si3N4 25nm	
+	3719.4	300.0	 0.0	250	Si3N4 25nm	
+	3722.4	300.0	 0.0	250	Si3N4 25nm	
+	3725.4	300.0	 0.0	250	Si3N4 25nm	
+	3728.4	300.0	 0.0	250	Si3N4 25nm	
+	3731.4	 0.0	 0.0	250	Si3N4 25nm	
+	3734.4	 0.0	 0.0	249	Si3N4 25nm	
+	3737.4	 0.0	 0.0	249	Si3N4 25nm	
+	3740.4	269.0	 0.0	249	Si3N4 25nm	
+	3743.4	300.0	 0.0	249	Si3N4 25nm	
+	3746.4	300.0	 0.0	249	Si3N4 25nm	
+	3749.4	300.0	 0.0	249	Si3N4 25nm	
+	3752.4	300.0	 0.0	249	Si3N4 25nm	
+	3755.4	 0.0	 0.0	249	Si3N4 25nm	
+	3758.4	 0.0	 0.0	249	Si3N4 25nm	
+	3761.4	 0.0	 0.0	248	Si3N4 25nm	
+	3764.4	 0.0	 0.0	248	Si3N4 25nm	
+	3767.4	278.0	23.0	248	Si3N4 25nm	
+	3770.4	300.0	 3.0	248	Si3N4 25nm	
+	3773.4	300.0	 3.0	248	Si3N4 25nm	
+	3776.4	300.0	 3.0	248	Si3N4 25nm	
+	3779.4	300.0	 3.0	248	Si3N4 25nm	
+	3782.4	 0.0	 0.0	248	Si3N4 25nm	
+	3785.4	 0.0	 0.0	248	Si3N4 25nm	
+	3788.4	 0.0	 0.0	247	Si3N4 25nm	
+	3791.4	 0.0	 0.0	247	Si3N4 25nm	
+	3794.4	272.0	 0.0	247	Si3N4 25nm	
+	3797.4	300.0	 0.0	247	Si3N4 25nm	
+	3800.4	300.0	 0.0	247	Si3N4 25nm	
+	3803.4	300.0	 0.0	247	Si3N4 25nm	
+	3806.4	300.0	 0.0	247	Si3N4 25nm	
+	3809.4	 0.0	 0.0	247	Si3N4 25nm	
+	3812.4	 0.0	 0.0	247	Si3N4 25nm	
+	3815.4	 0.0	 0.0	246	Si3N4 25nm	
+	3818.4	 0.0	 0.0	246	Si3N4 25nm	
+	3821.4	281.0	24.0	246	Si3N4 25nm	
+	3824.4	300.0	 3.0	246	Si3N4 25nm	
+	3827.4	300.0	 3.0	246	Si3N4 25nm	
+	3830.4	300.0	 3.0	246	Si3N4 25nm	
+	3833.4	300.0	 3.0	246	Si3N4 25nm	
+	3836.4	 0.0	 0.0	246	Si3N4 25nm	
+	3839.4	 0.0	 0.0	246	Si3N4 25nm	
+	3842.4	 0.0	 0.0	245	Si3N4 25nm	
+	3845.4	 0.0	 0.0	245	Si3N4 25nm	
+	3848.4	323.0	 4.0	245	Si3N4 25nm	
+	3851.4	300.0	 2.0	245	Si3N4 25nm	
+	3854.4	300.0	 2.0	245	Si3N4 25nm	
+	3857.4	300.0	 2.0	245	Si3N4 25nm	
+	3860.4	300.0	 2.0	245	Si3N4 25nm	
+	3863.4	 0.0	 0.0	245	Si3N4 25nm	
+	3866.4	 0.0	 0.0	245	Si3N4 25nm	
+	3869.4	 0.0	 0.0	244	Si3N4 25nm	
+	3872.4	 0.0	 0.0	244	Si3N4 25nm	
+	3875.4	250.0	 0.0	244	Si3N4 25nm	
+	3878.4	300.0	 0.0	244	Si3N4 25nm	
+	3881.4	300.0	 0.0	244	Si3N4 25nm	
+	3884.4	300.0	 0.0	244	Si3N4 25nm	
+	3887.4	300.0	 0.0	244	Si3N4 25nm	
+	3890.4	 0.0	 0.0	244	Si3N4 25nm	
+	3893.4	 0.0	 0.0	244	Si3N4 25nm	
+	3896.4	 0.0	 0.0	243	Si3N4 25nm	
+	3899.4	 0.0	 0.0	243	Si3N4 25nm	
+	3902.4	319.0	 4.0	243	Si3N4 25nm	
+	3905.4	300.0	 2.0	243	Si3N4 25nm	
+	3908.4	300.0	 2.0	243	Si3N4 25nm	
+	3911.4	300.0	 2.0	243	Si3N4 25nm	
+	3914.4	300.0	 2.0	243	Si3N4 25nm	
+	3917.4	 0.0	 0.0	243	Si3N4 25nm	
+	3920.4	 0.0	 0.0	243	Si3N4 25nm	
+	3923.4	 0.0	 0.0	242	Si3N4 25nm	
+	3926.4	 0.0	 0.0	242	Si3N4 25nm	
+	3929.4	314.0	 3.0	242	Si3N4 25nm	
+	3932.4	300.0	 2.0	242	Si3N4 25nm	
+	3935.4	300.0	 2.0	242	Si3N4 25nm	
+	3938.4	300.0	 2.0	242	Si3N4 25nm	
+	3941.4	300.0	 2.0	242	Si3N4 25nm	
+	3944.4	 0.0	 0.0	242	Si3N4 25nm	
+	3947.4	 0.0	 0.0	242	Si3N4 25nm	
+	3950.4	 0.0	 0.0	241	Si3N4 25nm	
+	3953.4	 0.0	 0.0	241	Si3N4 25nm	
+	3956.4	300.0	 0.0	241	Si3N4 25nm	
+	3959.4	300.0	 0.0	241	Si3N4 25nm	
+	3962.4	300.0	 0.0	241	Si3N4 25nm	
+	3965.4	300.0	 0.0	241	Si3N4 25nm	
+	3968.4	300.0	 0.0	241	Si3N4 25nm	
+	3971.4	 0.0	 0.0	241	Si3N4 25nm	
+	3974.4	 0.0	 0.0	241	Si3N4 25nm	
+	3977.4	 0.0	 0.0	240	Si3N4 25nm	
+	3980.4	 0.0	 0.0	240	Si3N4 25nm	
+	3983.4	300.0	 2.0	240	Si3N4 25nm	
+	3986.4	300.0	 3.0	240	Si3N4 25nm	
+	3989.4	300.0	 3.0	240	Si3N4 25nm	
+	3992.4	300.0	 3.0	240	Si3N4 25nm	
+	3995.4	300.0	 3.0	240	Si3N4 25nm	
+	3998.4	 0.0	 0.0	240	Si3N4 25nm	
+	4001.4	 0.0	 0.0	240	Si3N4 25nm	
+	4004.4	 0.0	 0.0	239	Si3N4 25nm	
+	4007.4	 0.0	 0.0	239	Si3N4 25nm	
+	4010.4	300.0	 3.0	239	Si3N4 25nm	
+	4013.4	300.0	 2.0	239	Si3N4 25nm	
+	4016.4	300.0	 2.0	239	Si3N4 25nm	
+	4019.4	300.0	 2.0	239	Si3N4 25nm	
+	4022.4	300.0	 2.0	239	Si3N4 25nm	
+	4025.4	 0.0	 0.0	239	Si3N4 25nm	
+	4028.4	 0.0	 0.0	239	Si3N4 25nm	
+	4031.4	 0.0	 0.0	238	Si3N4 25nm	
+	4034.4	 0.0	 0.0	238	Si3N4 25nm	
+	4037.4	300.0	 3.0	238	Si3N4 25nm	
+	4040.4	300.0	 2.0	238	Si3N4 25nm	
+	4043.4	300.0	 2.0	238	Si3N4 25nm	
+	4046.4	300.0	 2.0	238	Si3N4 25nm	
+	4049.4	300.0	 2.0	238	Si3N4 25nm	
+	4052.4	 0.0	 0.0	238	Si3N4 25nm	
+	4055.4	 0.0	 0.0	238	Si3N4 25nm	
+	4058.4	 0.0	 0.0	237	Si3N4 25nm	
+	4061.4	 0.0	 0.0	237	Si3N4 25nm	
+	4064.4	300.0	 2.0	237	Si3N4 25nm	
+	4067.4	300.0	 2.0	237	Si3N4 25nm	
+	4070.4	300.0	 2.0	237	Si3N4 25nm	
+	4073.4	300.0	 2.0	237	Si3N4 25nm	
+	4076.4	300.0	 2.0	237	Si3N4 25nm	
+	4079.4	 0.0	 0.0	237	Si3N4 25nm	
+	4082.4	 0.0	 0.0	237	Si3N4 25nm	
+	4085.4	 0.0	 0.0	236	Si3N4 25nm	
+	4088.4	 0.0	 0.0	236	Si3N4 25nm	
+	4091.4	300.0	 0.0	236	Si3N4 25nm	
+	4094.4	300.0	 0.0	236	Si3N4 25nm	
+	4097.4	300.0	 0.0	236	Si3N4 25nm	
+	4100.4	300.0	 0.0	236	Si3N4 25nm	
+	4103.4	300.0	 0.0	236	Si3N4 25nm	
+	4106.4	 0.0	 0.0	236	Si3N4 25nm	
+	4109.4	 0.0	 0.0	236	Si3N4 25nm	
+	4112.4	 0.0	 0.0	235	Si3N4 25nm	
+	4115.4	 0.0	 0.0	235	Si3N4 25nm	
+	4118.4	300.0	 3.0	235	Si3N4 25nm	
+	4121.4	300.0	 3.0	235	Si3N4 25nm	
+	4124.4	300.0	 3.0	235	Si3N4 25nm	
+	4127.4	300.0	 3.0	235	Si3N4 25nm	
+	4130.4	300.0	 3.0	235	Si3N4 25nm	
+	4133.4	 0.0	 0.0	235	Si3N4 25nm	
+	4136.4	 0.0	 0.0	235	Si3N4 25nm	
+	4139.4	 0.0	 0.0	234	Si3N4 25nm	
+	4142.4	 0.0	 0.0	234	Si3N4 25nm	
+	4145.4	300.0	 3.0	234	Si3N4 25nm	
+	4148.4	300.0	 2.0	234	Si3N4 25nm	
+	4151.4	300.0	 2.0	234	Si3N4 25nm	
+	4154.4	300.0	 2.0	234	Si3N4 25nm	
+	4157.4	300.0	 2.0	234	Si3N4 25nm	
+	4160.4	 0.0	 0.0	234	Si3N4 25nm	
+	4163.4	 0.0	 0.0	234	Si3N4 25nm	
+	4166.4	 0.0	 0.0	233	Si3N4 25nm	
+	4169.4	 0.0	 0.0	233	Si3N4 25nm	
+	4172.4	300.0	 2.0	233	Si3N4 25nm	
+	4175.4	300.0	 2.0	233	Si3N4 25nm	
+	4178.4	300.0	 2.0	233	Si3N4 25nm	
+	4181.4	300.0	 2.0	233	Si3N4 25nm	
+	4184.4	300.0	 2.0	233	Si3N4 25nm	
+	4187.4	 0.0	 0.0	233	Si3N4 25nm	
+	4190.4	 0.0	 0.0	233	Si3N4 25nm	
+	4193.4	 0.0	 0.0	232	Si3N4 25nm	
+	4196.4	 0.0	 0.0	232	Si3N4 25nm	
+	4199.4	300.0	 2.0	232	Si3N4 25nm	
+	4202.4	300.0	 2.0	232	Si3N4 25nm	
+	4205.4	300.0	 2.0	232	Si3N4 25nm	
+	4208.4	300.0	 2.0	232	Si3N4 25nm	
+	4211.4	300.0	 2.0	232	Si3N4 25nm	
+	4214.4	 0.0	 0.0	232	Si3N4 25nm	
+	4217.4	 0.0	 0.0	232	Si3N4 25nm	
+	4220.4	 0.0	 0.0	231	Si3N4 25nm	
+	4223.4	 0.0	 0.0	231	Si3N4 25nm	
+	4226.4	300.0	 2.0	231	Si3N4 25nm	
+	4229.4	300.0	 1.0	231	Si3N4 25nm	
+	4232.4	300.0	 1.0	231	Si3N4 25nm	
+	4235.4	300.0	 1.0	231	Si3N4 25nm	
+	4238.4	300.0	 1.0	231	Si3N4 25nm	
+	4241.4	 0.0	 0.0	231	Si3N4 25nm	
+	4244.4	 0.0	 0.0	231	Si3N4 25nm	
+	4247.4	 0.0	 0.0	230	Si3N4 25nm	
+	4250.4	 0.0	 0.0	230	Si3N4 25nm	
+	4253.4	300.0	 1.0	230	Si3N4 25nm	
+	4256.4	300.0	 1.0	230	Si3N4 25nm	
+	4259.4	300.0	 1.0	230	Si3N4 25nm	
+	4262.4	300.0	 1.0	230	Si3N4 25nm	
+	4265.4	300.0	 1.0	230	Si3N4 25nm	
+	4268.4	 0.0	 0.0	230	Si3N4 25nm	
+	4271.4	 0.0	 0.0	230	Si3N4 25nm	
+	4274.4	 0.0	 0.0	229	Si3N4 25nm	
+	4277.4	 0.0	 0.0	229	Si3N4 25nm	
+	4280.4	300.0	 1.0	229	Si3N4 25nm	
+	4283.4	300.0	 1.0	229	Si3N4 25nm	
+	4286.4	300.0	 1.0	229	Si3N4 25nm	
+	4289.4	300.0	 1.0	229	Si3N4 25nm	
+	4292.4	300.0	 1.0	229	Si3N4 25nm	
+	4295.4	 0.0	 0.0	229	Si3N4 25nm	
+	4298.4	 0.0	 0.0	229	Si3N4 25nm	
+	4301.4	 0.0	 0.0	228	Si3N4 25nm	
+	4304.4	 0.0	 0.0	228	Si3N4 25nm	
+	4307.4	300.0	 6.0	228	Si3N4 25nm	
+	4310.4	300.0	 3.0	228	Si3N4 25nm	
+	4313.4	300.0	 3.0	228	Si3N4 25nm	
+	4316.4	300.0	 3.0	228	Si3N4 25nm	
+	4319.4	300.0	 3.0	228	Si3N4 25nm	
+	4322.4	 0.0	 0.0	228	Si3N4 25nm	
+	4325.4	 0.0	 0.0	228	Si3N4 25nm	
+	4328.4	 0.0	 0.0	227	Si3N4 25nm	
+	4331.4	 0.0	 0.0	227	Si3N4 25nm	
+	4334.4	300.0	 2.0	227	Si3N4 25nm	
+	4337.4	300.0	 2.0	227	Si3N4 25nm	
+	4340.4	300.0	 2.0	227	Si3N4 25nm	
+	4343.4	300.0	 2.0	227	Si3N4 25nm	
+	4346.4	300.0	 2.0	227	Si3N4 25nm	
+	4349.4	 0.0	 0.0	227	Si3N4 25nm	
+	4352.4	 0.0	 0.0	227	Si3N4 25nm	
+	4355.4	 0.0	 0.0	226	Si3N4 25nm	
+	4358.4	 0.0	 0.0	226	Si3N4 25nm	
+	4361.4	300.0	 2.0	226	Si3N4 25nm	
+	4364.4	300.0	 2.0	226	Si3N4 25nm	
+	4367.4	300.0	 2.0	226	Si3N4 25nm	
+	4370.4	300.0	 2.0	226	Si3N4 25nm	
+	4373.4	300.0	 2.0	226	Si3N4 25nm	
+	4376.4	 0.0	 0.0	226	Si3N4 25nm	
+	4379.4	 0.0	 0.0	226	Si3N4 25nm	
+	4382.4	 0.0	 0.0	225	Si3N4 25nm	
+	4385.4	 0.0	 0.0	225	Si3N4 25nm	
+	4388.4	300.0	 0.0	225	Si3N4 25nm	
+	4391.4	300.0	 0.0	225	Si3N4 25nm	
+	4394.4	300.0	 0.0	225	Si3N4 25nm	
+	4397.4	300.0	 0.0	225	Si3N4 25nm	
+	4400.4	300.0	 0.0	225	Si3N4 25nm	
+	4403.4	 0.0	 0.0	225	Si3N4 25nm	
+	4406.4	 0.0	 0.0	225	Si3N4 25nm	
+	4409.4	 0.0	 0.0	224	Si3N4 25nm	
+	4412.4	 0.0	 0.0	224	Si3N4 25nm	
+	4415.4	300.0	 0.0	224	Si3N4 25nm	
+	4418.4	300.0	 0.0	224	Si3N4 25nm	
+	4421.4	300.0	 0.0	224	Si3N4 25nm	
+	4424.4	300.0	 0.0	224	Si3N4 25nm	
+	4427.4	300.0	 0.0	224	Si3N4 25nm	
+	4430.4	 0.0	 0.0	224	Si3N4 25nm	
+	4433.4	 0.0	 0.0	224	Si3N4 25nm	
+	4436.4	 0.0	 0.0	223	Si3N4 25nm	
+	4439.4	 0.0	 0.0	223	Si3N4 25nm	
+	4442.4	300.0	 3.0	223	Si3N4 25nm	
+	4445.4	300.0	 3.0	223	Si3N4 25nm	
+	4448.4	300.0	 3.0	223	Si3N4 25nm	
+	4451.4	300.0	 3.0	223	Si3N4 25nm	
+	4454.4	300.0	 3.0	223	Si3N4 25nm	
+	4457.4	 0.0	 0.0	223	Si3N4 25nm	
+	4460.4	 0.0	 0.0	223	Si3N4 25nm	
+	4463.4	 0.0	 0.0	222	Si3N4 25nm	
+	4466.4	 0.0	 0.0	222	Si3N4 25nm	
+	4469.4	300.0	 2.0	222	Si3N4 25nm	
+	4472.4	300.0	 2.0	222	Si3N4 25nm	
+	4475.4	300.0	 2.0	222	Si3N4 25nm	
+	4478.4	300.0	 2.0	222	Si3N4 25nm	
+	4481.4	300.0	 2.0	222	Si3N4 25nm	
+	4484.4	 0.0	 0.0	222	Si3N4 25nm	
+	4487.4	 0.0	 0.0	222	Si3N4 25nm	
+	4490.4	 0.0	 0.0	221	Si3N4 25nm	
+	4493.4	 0.0	 0.0	221	Si3N4 25nm	
+	4496.4	300.0	 2.0	221	Si3N4 25nm	
+	4499.4	300.0	 1.0	221	Si3N4 25nm	
+	4502.4	300.0	 1.0	221	Si3N4 25nm	
+	4505.4	300.0	 1.0	221	Si3N4 25nm	
+	4508.4	300.0	 1.0	221	Si3N4 25nm	
+	4511.4	 0.0	 0.0	221	Si3N4 25nm	
+	4514.4	 0.0	 0.0	221	Si3N4 25nm	
+	4517.4	 0.0	 0.0	220	Si3N4 25nm	
+	4520.4	 0.0	 0.0	220	Si3N4 25nm	
+	4523.4	300.0	 1.0	220	Si3N4 25nm	
+	4526.4	300.0	 1.0	220	Si3N4 25nm	
+	4529.4	300.0	 1.0	220	Si3N4 25nm	
+	4532.4	300.0	 1.0	220	Si3N4 25nm	
+	4535.4	300.0	 1.0	220	Si3N4 25nm	
+	4538.4	 0.0	 0.0	220	Si3N4 25nm	
+	4541.4	 0.0	 0.0	220	Si3N4 25nm	
+	4544.4	 0.0	 0.0	219	Si3N4 25nm	
+	4547.4	 0.0	 0.0	219	Si3N4 25nm	
+	4550.4	300.0	 0.0	219	Si3N4 25nm	
+	4553.4	300.0	 0.0	219	Si3N4 25nm	
+	4556.4	300.0	 0.0	219	Si3N4 25nm	
+	4559.4	300.0	 0.0	219	Si3N4 25nm	
+	4562.4	300.0	 0.0	219	Si3N4 25nm	
+	4565.4	 0.0	 0.0	219	Si3N4 25nm	
+	4568.4	 0.0	 0.0	219	Si3N4 25nm	
+	4571.4	 0.0	 0.0	218	Si3N4 25nm	
+	4574.4	 0.0	 0.0	218	Si3N4 25nm	
+	4577.4	300.0	 3.0	218	Si3N4 25nm	
+	4580.4	300.0	 3.0	218	Si3N4 25nm	
+	4583.4	300.0	 3.0	218	Si3N4 25nm	
+	4586.4	300.0	 3.0	218	Si3N4 25nm	
+	4589.4	300.0	 3.0	218	Si3N4 25nm	
+	4592.4	 0.0	 0.0	218	Si3N4 25nm	
+	4595.4	 0.0	 0.0	218	Si3N4 25nm	
+	4598.4	 0.0	 0.0	217	Si3N4 25nm	
+	4601.4	 0.0	 0.0	217	Si3N4 25nm	
+	4604.4	300.0	 2.0	217	Si3N4 25nm	
+	4607.4	300.0	 2.0	217	Si3N4 25nm	
+	4610.4	300.0	 2.0	217	Si3N4 25nm	
+	4613.4	300.0	 2.0	217	Si3N4 25nm	
+	4616.4	300.0	 2.0	217	Si3N4 25nm	
+	4619.4	 0.0	 0.0	217	Si3N4 25nm	
+	4622.4	 0.0	 0.0	217	Si3N4 25nm	
+	4625.4	 0.0	 0.0	216	Si3N4 25nm	
+	4628.4	 0.0	 0.0	216	Si3N4 25nm	
+	4631.4	300.0	 4.0	216	Si3N4 25nm	
+	4634.4	300.0	 3.0	216	Si3N4 25nm	
+	4637.4	300.0	 3.0	216	Si3N4 25nm	
+	4640.4	300.0	 3.0	216	Si3N4 25nm	
+	4643.4	300.0	 3.0	216	Si3N4 25nm	
+	4646.4	 0.0	 0.0	216	Si3N4 25nm	
+	4649.4	 0.0	 0.0	216	Si3N4 25nm	
+	4652.4	 0.0	 0.0	215	Si3N4 25nm	
+	4655.4	 0.0	 0.0	215	Si3N4 25nm	
+	4658.4	300.0	 2.0	215	Si3N4 25nm	
+	4661.4	300.0	 2.0	215	Si3N4 25nm	
+	4664.4	300.0	 2.0	215	Si3N4 25nm	
+	4667.4	300.0	 2.0	215	Si3N4 25nm	
+	4670.4	300.0	 2.0	215	Si3N4 25nm	
+	4673.4	 0.0	 0.0	215	Si3N4 25nm	
+	4676.4	 0.0	 0.0	215	Si3N4 25nm	goto;016313
+	4679.4	 0.0	 0.0	214	Si3N4 25nm	
+	4682.4	 0.0	 0.0	214	Si3N4 25nm	
+	4685.4	300.0	 2.0	214	Si3N4 25nm	
+	4688.4	300.0	 1.0	214	Si3N4 25nm	
+	4691.4	300.0	 1.0	214	Si3N4 25nm	
+	4694.4	300.0	 1.0	214	Si3N4 25nm	
+	4697.4	300.0	 1.0	214	Si3N4 25nm	
+	4700.4	 0.0	 0.0	214	Si3N4 25nm	
+	4703.4	 0.0	 0.0	214	Si3N4 25nm	
+	4706.4	 0.0	 0.0	213	Si3N4 25nm	
+	4709.4	 0.0	 0.0	213	Si3N4 25nm	
+	4712.4	300.0	 3.0	213	Si3N4 25nm	
+	4715.4	300.0	 3.0	213	Si3N4 25nm	
+	4718.4	300.0	 3.0	213	Si3N4 25nm	
+	4721.4	300.0	 3.0	213	Si3N4 25nm	
+	4724.4	300.0	 3.0	213	Si3N4 25nm	
+	4727.4	 0.0	 0.0	213	Si3N4 25nm	
+	4730.4	 0.0	 0.0	213	Si3N4 25nm	goto;016313
+	4733.4	 0.0	 0.0	212	Si3N4 25nm	
+	4736.4	 0.0	 0.0	212	Si3N4 25nm	
+	4739.4	300.0	 2.0	212	Si3N4 25nm	
+	4742.4	300.0	 2.0	212	Si3N4 25nm	
+	4745.4	300.0	 2.0	212	Si3N4 25nm	
+	4748.4	300.0	 2.0	212	Si3N4 25nm	
+	4751.4	300.0	 2.0	212	Si3N4 25nm	
+	4754.4	 0.0	 0.0	212	Si3N4 25nm	
+	4757.4	 0.0	 0.0	212	Si3N4 25nm	
+	4760.4	 0.0	 0.0	211	Si3N4 25nm	
+	4763.4	 0.0	 0.0	211	Si3N4 25nm	
+	4766.4	300.0	 0.0	211	Si3N4 25nm	
+	4769.4	300.0	 0.0	211	Si3N4 25nm	
+	4772.4	300.0	 0.0	211	Si3N4 25nm	
+	4775.4	300.0	 0.0	211	Si3N4 25nm	
+	4778.4	300.0	 0.0	211	Si3N4 25nm	
+	4781.4	 0.0	 0.0	211	Si3N4 25nm	
+	4784.4	 0.0	 0.0	211	Si3N4 25nm	goto;016313
+	4787.4	 0.0	 0.0	210	Si3N4 25nm	
+	4790.4	 0.0	 0.0	210	Si3N4 25nm	
+	4793.4	300.0	 2.0	210	Si3N4 25nm	
+	4796.4	300.0	 2.0	210	Si3N4 25nm	
+	4799.4	300.0	 2.0	210	Si3N4 25nm	
+	4802.4	300.0	 2.0	210	Si3N4 25nm	
+	4805.4	300.0	 2.0	210	Si3N4 25nm	
+	4808.4	 0.0	 0.0	210	Si3N4 25nm	
+	4811.4	 0.0	 0.0	210	Si3N4 25nm	
+	4814.4	 0.0	 0.0	209	Si3N4 25nm	
+	4817.4	 0.0	 0.0	209	Si3N4 25nm	
+	4820.4	300.0	 2.0	209	Si3N4 25nm	
+	4823.4	300.0	 1.0	209	Si3N4 25nm	
+	4826.4	300.0	 1.0	209	Si3N4 25nm	
+	4829.4	300.0	 1.0	209	Si3N4 25nm	
+	4832.4	300.0	 1.0	209	Si3N4 25nm	
+	4835.4	 0.0	 0.0	209	Si3N4 25nm	
+	4838.4	 0.0	 0.0	209	Si3N4 25nm	goto;016313
+	4841.4	 0.0	 0.0	208	Si3N4 25nm	
+	4844.4	 0.0	 0.0	208	Si3N4 25nm	
+	4847.4	300.0	 0.0	208	Si3N4 25nm	
+	4850.4	300.0	 0.0	208	Si3N4 25nm	
+	4853.4	300.0	 0.0	208	Si3N4 25nm	
+	4856.4	300.0	 0.0	208	Si3N4 25nm	
+	4859.4	300.0	 0.0	208	Si3N4 25nm	
+	4862.4	 0.0	 0.0	208	Si3N4 25nm	
+	4865.4	 0.0	 0.0	208	Si3N4 25nm	
+	4868.4	 0.0	 0.0	207	Si3N4 25nm	
+	4871.4	 0.0	 0.0	207	Si3N4 25nm	
+	4874.4	300.0	 4.0	207	Si3N4 25nm	
+	4877.4	300.0	 3.0	207	Si3N4 25nm	
+	4880.4	300.0	 3.0	207	Si3N4 25nm	
+	4883.4	300.0	 3.0	207	Si3N4 25nm	
+	4886.4	300.0	 3.0	207	Si3N4 25nm	
+	4889.4	 0.0	 0.0	207	Si3N4 25nm	
+	4892.4	 0.0	 0.0	207	Si3N4 25nm	goto;016313
+	4895.4	 0.0	 0.0	206	Si3N4 25nm	
+	4898.4	 0.0	 0.0	206	Si3N4 25nm	
+	4901.4	300.0	 3.0	206	Si3N4 25nm	
+	4904.4	300.0	 3.0	206	Si3N4 25nm	
+	4907.4	300.0	 3.0	206	Si3N4 25nm	
+	4910.4	300.0	 3.0	206	Si3N4 25nm	
+	4913.4	300.0	 3.0	206	Si3N4 25nm	
+	4916.4	 0.0	 0.0	206	Si3N4 25nm	
+	4919.4	 0.0	 0.0	206	Si3N4 25nm	
+	4922.4	 0.0	 0.0	205	Si3N4 25nm	
+	4925.4	 0.0	 0.0	205	Si3N4 25nm	
+	4928.4	300.0	 6.0	205	Si3N4 25nm	
+	4931.4	300.0	 3.0	205	Si3N4 25nm	
+	4934.4	300.0	 3.0	205	Si3N4 25nm	
+	4937.4	300.0	 3.0	205	Si3N4 25nm	
+	4940.4	300.0	 3.0	205	Si3N4 25nm	
+	4943.4	 0.0	 0.0	205	Si3N4 25nm	
+	4946.4	 0.0	 0.0	205	Si3N4 25nm	goto;016313
+	4949.4	 0.0	 0.0	204	Si3N4 25nm	
+	4952.4	 0.0	 0.0	204	Si3N4 25nm	
+	4955.4	300.0	 4.0	204	Si3N4 25nm	
+	4958.4	300.0	 3.0	204	Si3N4 25nm	
+	4961.4	300.0	 3.0	204	Si3N4 25nm	
+	4964.4	300.0	 3.0	204	Si3N4 25nm	
+	4967.4	300.0	 3.0	204	Si3N4 25nm	
+	4970.4	 0.0	 0.0	204	Si3N4 25nm	
+	4973.4	 0.0	 0.0	204	Si3N4 25nm	
+	4976.4	 0.0	 0.0	203	Si3N4 25nm	
+	4979.4	 0.0	 0.0	203	Si3N4 25nm	
+	4982.4	300.0	 2.0	203	Si3N4 25nm	
+	4985.4	300.0	 2.0	203	Si3N4 25nm	
+	4988.4	300.0	 2.0	203	Si3N4 25nm	
+	4991.4	300.0	 2.0	203	Si3N4 25nm	
+	4994.4	300.0	 2.0	203	Si3N4 25nm	
+	4997.4	 0.0	 0.0	203	Si3N4 25nm	
+	5000.4	 0.0	 0.0	203	Si3N4 25nm	
+	5003.4	 0.0	 0.0	202	Si3N4 25nm	
+	5006.4	 0.0	 0.0	202	Si3N4 25nm	
+	5009.4	300.0	 0.0	202	Si3N4 25nm	
+	5012.4	300.0	 0.0	202	Si3N4 25nm	
+	5015.4	300.0	 0.0	202	Si3N4 25nm	
+	5018.4	300.0	 0.0	202	Si3N4 25nm	
+	5021.4	300.0	 0.0	202	Si3N4 25nm	
+	5024.4	 0.0	 0.0	202	Si3N4 25nm	
+	5027.4	 0.0	 0.0	202	Si3N4 25nm	goto;016313
+	5030.4	 0.0	 0.0	201	Si3N4 25nm	
+	5033.4	 0.0	 0.0	201	Si3N4 25nm	
+	5036.4	300.0	 3.0	201	Si3N4 25nm	
+	5039.4	300.0	 3.0	201	Si3N4 25nm	
+	5042.4	300.0	 3.0	201	Si3N4 25nm	
+	5045.4	300.0	 3.0	201	Si3N4 25nm	
+	5048.4	300.0	 3.0	201	Si3N4 25nm	
+	5051.4	 0.0	 0.0	201	Si3N4 25nm	
+	5054.4	 0.0	 0.0	201	Si3N4 25nm	goto;016313
+	5057.4	 0.0	 0.0	200	Si3N4 25nm	
+	5060.4	 0.0	 0.0	200	Si3N4 25nm	
+	5063.4	300.0	 2.0	200	Si3N4 25nm	
+	5066.4	300.0	 2.0	200	Si3N4 25nm	
+	5069.4	300.0	 2.0	200	Si3N4 25nm	
+	5072.4	300.0	 2.0	200	Si3N4 25nm	
+	5075.4	300.0	 2.0	200	Si3N4 25nm	
+	5078.4	 0.0	 0.0	200	Si3N4 25nm	
+	5081.4	 0.0	 0.0	199	Si3N4 25nm	
+	5084.4	 0.0	 0.0	199	Si3N4 25nm	
+	5087.4	 0.0	 0.0	199	Si3N4 25nm	
+	5090.4	300.0	 2.0	199	Si3N4 25nm	
+	5093.4	300.0	 1.0	199	Si3N4 25nm	
+	5096.4	300.0	 1.0	199	Si3N4 25nm	
+	5099.4	300.0	 1.0	199	Si3N4 25nm	
+	5102.4	300.0	 2.0	199	Si3N4 25nm	
+	5105.4	 0.0	 0.0	199	Si3N4 25nm	
+	5108.4	 0.0	 0.0	198	Si3N4 25nm	
+	5111.4	 0.0	 0.0	198	Si3N4 25nm	
+	5114.4	 0.0	 0.0	198	Si3N4 25nm	
+	5117.4	300.0	 2.0	198	Si3N4 25nm	
+	5120.4	300.0	 2.0	198	Si3N4 25nm	
+	5123.4	300.0	 2.0	198	Si3N4 25nm	
+	5126.4	300.0	 2.0	198	Si3N4 25nm	
+	5129.4	300.0	 2.0	198	Si3N4 25nm	
+	5132.4	 0.0	 0.0	198	Si3N4 25nm	
+	5135.4	 0.0	 0.0	197	Si3N4 25nm	
+	5138.4	 0.0	 0.0	197	Si3N4 25nm	
+	5141.4	 0.0	 0.0	197	Si3N4 25nm	
+	5144.4	300.0	 5.0	197	Si3N4 25nm	
+	5147.4	300.0	 3.0	197	Si3N4 25nm	
+	5150.4	300.0	 3.0	197	Si3N4 25nm	
+	5153.4	300.0	 3.0	197	Si3N4 25nm	
+	5156.4	300.0	 3.0	197	Si3N4 25nm	
+	5159.4	 0.0	 0.0	197	Si3N4 25nm	
+	5162.4	 0.0	 0.0	196	Si3N4 25nm	
+	5165.4	 0.0	 0.0	196	Si3N4 25nm	
+	5168.4	 0.0	 0.0	196	Si3N4 25nm	
+	5171.4	300.0	 3.0	196	Si3N4 25nm	
+	5174.4	300.0	 3.0	196	Si3N4 25nm	
+	5177.4	300.0	 3.0	196	Si3N4 25nm	
+	5180.4	300.0	 3.0	196	Si3N4 25nm	
+	5183.4	300.0	 3.0	196	Si3N4 25nm	
+	5186.4	 0.0	 0.0	196	Si3N4 25nm	
+	5189.4	 0.0	 0.0	195	Si3N4 25nm	
+	5192.4	 0.0	 0.0	195	Si3N4 25nm	
+	5195.4	 0.0	 0.0	195	Si3N4 25nm	
+	5198.4	300.0	 3.0	195	Si3N4 25nm	
+	5201.4	300.0	 3.0	195	Si3N4 25nm	
+	5204.4	300.0	 3.0	195	Si3N4 25nm	
+	5207.4	300.0	 3.0	195	Si3N4 25nm	
+	5210.4	300.0	 3.0	195	Si3N4 25nm	
+	5213.4	 0.0	 0.0	195	Si3N4 25nm	
+	5216.4	 0.0	 0.0	194	Si3N4 25nm	
+	5219.4	 0.0	 0.0	194	Si3N4 25nm	
+	5222.4	 0.0	 0.0	194	Si3N4 25nm	
+	5225.4	300.0	 0.0	194	Si3N4 25nm	
+	5228.4	300.0	 0.0	194	Si3N4 25nm	
+	5231.4	300.0	 0.0	194	Si3N4 25nm	
+	5234.4	300.0	 0.0	194	Si3N4 25nm	
+	5237.4	300.0	 0.0	194	Si3N4 25nm	
+	5240.4	 0.0	 0.0	194	Si3N4 25nm	
+	5243.4	 0.0	 0.0	193	Si3N4 25nm	
+	5246.4	 0.0	 0.0	193	Si3N4 25nm	
+	5249.4	 0.0	 0.0	193	Si3N4 25nm	
+	5252.4	300.0	 0.0	193	Si3N4 25nm	
+	5255.4	300.0	 0.0	193	Si3N4 25nm	
+	5258.4	300.0	 0.0	193	Si3N4 25nm	
+	5261.4	300.0	 0.0	193	Si3N4 25nm	
+	5264.4	300.0	 0.0	193	Si3N4 25nm	
+	5267.4	 0.0	 0.0	193	Si3N4 25nm	
+	5270.4	 0.0	 0.0	192	Si3N4 25nm	
+	5273.4	 0.0	 0.0	192	Si3N4 25nm	
+	5276.4	 0.0	 0.0	192	Si3N4 25nm	
+	5279.4	300.0	 2.0	192	Si3N4 25nm	
+	5282.4	300.0	 3.0	192	Si3N4 25nm	
+	5285.4	300.0	 2.0	192	Si3N4 25nm	
+	5288.4	300.0	 3.0	192	Si3N4 25nm	
+	5291.4	300.0	 3.0	192	Si3N4 25nm	
+	5294.4	 0.0	 0.0	192	Si3N4 25nm	
+	5297.4	 0.0	 0.0	191	Si3N4 25nm	
+	5300.4	 0.0	 0.0	191	Si3N4 25nm	
+	5303.4	 0.0	 0.0	191	Si3N4 25nm	
+	5306.4	300.0	 3.0	191	Si3N4 25nm	
+	5309.4	300.0	 3.0	191	Si3N4 25nm	
+	5312.4	300.0	 3.0	191	Si3N4 25nm	
+	5315.4	300.0	 3.0	191	Si3N4 25nm	
+	5318.4	300.0	 3.0	191	Si3N4 25nm	
+	5321.4	 0.0	 0.0	191	Si3N4 25nm	
+	5324.4	 0.0	 0.0	190	Si3N4 25nm	
+	5327.4	 0.0	 0.0	190	Si3N4 25nm	
+	5330.4	 0.0	 0.0	190	Si3N4 25nm	
+	5333.4	300.0	 2.0	190	Si3N4 25nm	
+	5336.4	300.0	 2.0	190	Si3N4 25nm	
+	5339.4	300.0	 2.0	190	Si3N4 25nm	
+	5342.4	300.0	 2.0	190	Si3N4 25nm	
+	5345.4	300.0	 2.0	190	Si3N4 25nm	
+	5348.4	 0.0	 0.0	190	Si3N4 25nm	
+	5351.4	 0.0	 0.0	189	Si3N4 25nm	
+	5354.4	 0.0	 0.0	189	Si3N4 25nm	
+	5357.4	 0.0	 0.0	189	Si3N4 25nm	
+	5360.4	300.0	 3.0	189	Si3N4 25nm	
+	5363.4	300.0	 3.0	189	Si3N4 25nm	
+	5366.4	300.0	 3.0	189	Si3N4 25nm	
+	5369.4	300.0	 3.0	189	Si3N4 25nm	
+	5372.4	300.0	 3.0	189	Si3N4 25nm	
+	5375.4	 0.0	 0.0	189	Si3N4 25nm	
+	5378.4	 0.0	 0.0	188	Si3N4 25nm	
+	5381.4	 0.0	 0.0	188	Si3N4 25nm	
+	5384.4	 0.0	 0.0	188	Si3N4 25nm	
+	5387.4	300.0	 0.0	188	Si3N4 25nm	
+	5390.4	300.0	 0.0	188	Si3N4 25nm	
+	5393.4	300.0	 0.0	188	Si3N4 25nm	
+	5396.4	300.0	 0.0	188	Si3N4 25nm	
+	5399.4	300.0	 0.0	188	Si3N4 25nm	
+	5402.4	 0.0	 0.0	188	Si3N4 25nm	
+	5405.4	 0.0	 0.0	187	Si3N4 25nm	
+	5408.4	 0.0	 0.0	187	Si3N4 25nm	
+	5411.4	 0.0	 0.0	187	Si3N4 25nm	
+	5414.4	300.0	 3.0	187	Si3N4 25nm	
+	5417.4	300.0	 3.0	187	Si3N4 25nm	
+	5420.4	300.0	 3.0	187	Si3N4 25nm	
+	5423.4	300.0	 3.0	187	Si3N4 25nm	
+	5426.4	300.0	 3.0	187	Si3N4 25nm	
+	5429.4	 0.0	 0.0	187	Si3N4 25nm	
+	5432.4	 0.0	 0.0	186	Si3N4 25nm	
+	5435.4	 0.0	 0.0	186	Si3N4 25nm	
+	5438.4	 0.0	 0.0	186	Si3N4 25nm	
+	5441.4	300.0	 2.0	186	Si3N4 25nm	
+	5444.4	300.0	 2.0	186	Si3N4 25nm	
+	5447.4	300.0	 2.0	186	Si3N4 25nm	
+	5450.4	300.0	 2.0	186	Si3N4 25nm	
+	5453.4	300.0	 2.0	186	Si3N4 25nm	
+	5456.4	 0.0	 0.0	186	Si3N4 25nm	
+	5459.4	 0.0	 0.0	185	Si3N4 25nm	
+	5462.4	 0.0	 0.0	185	Si3N4 25nm	
+	5465.4	 0.0	 0.0	185	Si3N4 25nm	
+	5468.4	300.0	 3.0	185	Si3N4 25nm	
+	5471.4	300.0	 3.0	185	Si3N4 25nm	
+	5474.4	300.0	 3.0	185	Si3N4 25nm	
+	5477.4	300.0	 3.0	185	Si3N4 25nm	
+	5480.4	300.0	 3.0	185	Si3N4 25nm	
+	5483.4	 0.0	 0.0	185	Si3N4 25nm	
+	5486.4	 0.0	 0.0	184	Si3N4 25nm	
+	5489.4	 0.0	 0.0	184	Si3N4 25nm	
+	5492.4	 0.0	 0.0	184	Si3N4 25nm	
+	5495.4	300.0	 3.0	184	Si3N4 25nm	
+	5498.4	300.0	 3.0	184	Si3N4 25nm	
+	5501.4	300.0	 3.0	184	Si3N4 25nm	
+	5504.4	300.0	 3.0	184	Si3N4 25nm	
+	5507.4	300.0	 3.0	184	Si3N4 25nm	
+	5510.4	 0.0	 0.0	184	Si3N4 25nm	
+	5513.4	 0.0	 0.0	183	Si3N4 25nm	
+	5516.4	 0.0	 0.0	183	Si3N4 25nm	
+	5519.4	 0.0	 0.0	183	Si3N4 25nm	
+	5522.4	300.0	 2.0	183	Si3N4 25nm	
+	5525.4	300.0	 2.0	183	Si3N4 25nm	
+	5528.4	300.0	 2.0	183	Si3N4 25nm	
+	5531.4	300.0	 2.0	183	Si3N4 25nm	
+	5534.4	300.0	 2.0	183	Si3N4 25nm	
+	5537.4	 0.0	 0.0	183	Si3N4 25nm	
+	5540.4	 0.0	 0.0	182	Si3N4 25nm	
+	5543.4	 0.0	 0.0	182	Si3N4 25nm	
+	5546.4	 0.0	 0.0	182	Si3N4 25nm	
+	5549.4	300.0	 3.0	182	Si3N4 25nm	
+	5552.4	300.0	 3.0	182	Si3N4 25nm	
+	5555.4	300.0	 3.0	182	Si3N4 25nm	
+	5558.4	300.0	 3.0	182	Si3N4 25nm	
+	5561.4	300.0	 3.0	182	Si3N4 25nm	
+	5564.4	 0.0	 0.0	182	Si3N4 25nm	
+	5567.4	 0.0	 0.0	181	Si3N4 25nm	
+	5570.4	 0.0	 0.0	181	Si3N4 25nm	
+	5573.4	 0.0	 0.0	181	Si3N4 25nm	
+	5576.4	300.0	 3.0	181	Si3N4 25nm	
+	5579.4	300.0	 3.0	181	Si3N4 25nm	
+	5582.4	300.0	 3.0	181	Si3N4 25nm	
+	5585.4	300.0	 3.0	181	Si3N4 25nm	
+	5588.4	300.0	 3.0	181	Si3N4 25nm	
+	5591.4	 0.0	 0.0	181	Si3N4 25nm	
+	5594.4	 0.0	 0.0	180	Si3N4 25nm	
+	5597.4	 0.0	 0.0	180	Si3N4 25nm	
+	5600.4	 0.0	 0.0	180	Si3N4 25nm	
+	5603.4	300.0	 0.0	180	Si3N4 25nm	
+	5606.4	300.0	 0.0	180	Si3N4 25nm	
+	5609.4	300.0	 0.0	180	Si3N4 25nm	
+	5612.4	300.0	 0.0	180	Si3N4 25nm	
+	5615.4	300.0	 0.0	180	Si3N4 25nm	
+	5618.4	 0.0	 0.0	180	Si3N4 25nm	
+	5621.4	 0.0	 0.0	179	Si3N4 25nm	
+	5624.4	 0.0	 0.0	179	Si3N4 25nm	
+	5627.4	182.0	50.0	179	Si3N4 25nm	
+	5630.4	300.0	 3.0	179	Si3N4 25nm	
+	5633.4	300.0	 3.0	179	Si3N4 25nm	
+	5636.4	300.0	 3.0	179	Si3N4 25nm	
+	5639.4	300.0	 3.0	179	Si3N4 25nm	
+	5642.4	300.0	 3.0	179	Si3N4 25nm	
+	5645.4	 0.0	 0.0	179	Si3N4 25nm	
+	5648.4	 0.0	 0.0	178	Si3N4 25nm	
+	5651.4	 0.0	 0.0	178	Si3N4 25nm	
+	5654.4	182.0	50.0	178	Si3N4 25nm	
+	5657.4	300.0	 2.0	178	Si3N4 25nm	
+	5660.4	300.0	 2.0	178	Si3N4 25nm	
+	5663.4	300.0	 2.0	178	Si3N4 25nm	
+	5666.4	300.0	 2.0	178	Si3N4 25nm	
+	5669.4	300.0	 2.0	178	Si3N4 25nm	
+	5672.4	 0.0	 0.0	178	Si3N4 25nm	
+	5675.4	 0.0	 0.0	177	Si3N4 25nm	
+	5678.4	 0.0	 0.0	177	Si3N4 25nm	
+	5681.4	187.0	 0.0	177	Si3N4 25nm	
+	5684.4	300.0	 0.0	177	Si3N4 25nm	
+	5687.4	300.0	 0.0	177	Si3N4 25nm	
+	5690.4	300.0	 0.0	177	Si3N4 25nm	
+	5693.4	300.0	 0.0	177	Si3N4 25nm	
+	5696.4	 0.0	 0.0	177	Si3N4 25nm	
+	5699.4	 0.0	 0.0	177	Si3N4 25nm	
+	5702.4	 0.0	 0.0	176	Si3N4 25nm	
+	5705.4	 0.0	 0.0	176	Si3N4 25nm	
+	5708.4	276.0	21.0	176	Si3N4 25nm	
+	5711.4	300.0	 0.0	176	Si3N4 25nm	
+	5714.4	300.0	 0.0	176	Si3N4 25nm	
+	5717.4	300.0	 0.0	176	Si3N4 25nm	
+	5720.4	300.0	 0.0	176	Si3N4 25nm	
+	5723.4	 0.0	 0.0	176	Si3N4 25nm	
+	5726.4	 0.0	 0.0	176	Si3N4 25nm	
+	5729.4	 0.0	 0.0	175	Si3N4 25nm	
+	5732.4	 0.0	 0.0	175	Si3N4 25nm	
+	5735.4	275.0	 0.0	175	Si3N4 25nm	
+	5738.4	300.0	 0.0	175	Si3N4 25nm	
+	5741.4	300.0	 0.0	175	Si3N4 25nm	
+	5744.4	300.0	 0.0	175	Si3N4 25nm	
+	5747.4	300.0	 0.0	175	Si3N4 25nm	
+	5750.4	 0.0	 0.0	175	Si3N4 25nm	
+	5753.4	 0.0	 0.0	175	Si3N4 25nm	
+	5756.4	 0.0	 0.0	174	Si3N4 25nm	
+	5759.4	 0.0	 0.0	174	Si3N4 25nm	
+	5762.4	300.0	16.0	174	Si3N4 25nm	
+	5765.4	300.0	 3.0	174	Si3N4 25nm	
+	5768.4	300.0	 3.0	174	Si3N4 25nm	
+	5771.4	300.0	 3.0	174	Si3N4 25nm	
+	5774.4	300.0	 3.0	174	Si3N4 25nm	
+	5777.4	 0.0	 0.0	174	Si3N4 25nm	
+	5780.4	 0.0	 0.0	174	Si3N4 25nm	
+	5783.4	 0.0	 0.0	173	Si3N4 25nm	
+	5786.4	 0.0	 0.0	173	Si3N4 25nm	
+	5789.4	214.0	13.0	173	Si3N4 25nm	
+	5792.4	300.0	 3.0	173	Si3N4 25nm	
+	5795.4	300.0	 3.0	173	Si3N4 25nm	
+	5798.4	300.0	 3.0	173	Si3N4 25nm	
+	5801.4	300.0	 3.0	173	Si3N4 25nm	
+	5804.4	 0.0	 0.0	173	Si3N4 25nm	
+	5807.4	 0.0	 0.0	173	Si3N4 25nm	
+	5810.4	 0.0	 0.0	172	Si3N4 25nm	
+	5813.4	 0.0	 0.0	172	Si3N4 25nm	
+	5816.4	330.0	 7.0	172	Si3N4 25nm	
+	5819.4	300.0	 2.0	172	Si3N4 25nm	
+	5822.4	300.0	 2.0	172	Si3N4 25nm	
+	5825.4	300.0	 2.0	172	Si3N4 25nm	
+	5828.4	300.0	 2.0	172	Si3N4 25nm	
+	5831.4	 0.0	 0.0	172	Si3N4 25nm	
+	5834.4	 0.0	 0.0	172	Si3N4 25nm	
+	5837.4	 0.0	 0.0	171	Si3N4 25nm	
+	5840.4	 0.0	 0.0	171	Si3N4 25nm	
+	5843.4	275.0	21.0	171	Si3N4 25nm	
+	5846.4	300.0	 3.0	171	Si3N4 25nm	
+	5849.4	300.0	 3.0	171	Si3N4 25nm	
+	5852.4	300.0	 3.0	171	Si3N4 25nm	
+	5855.4	300.0	 3.0	171	Si3N4 25nm	
+	5858.4	 0.0	 0.0	171	Si3N4 25nm	
+	5861.4	 0.0	 0.0	171	Si3N4 25nm	
+	5864.4	 0.0	 0.0	170	Si3N4 25nm	
+	5867.4	 0.0	 0.0	170	Si3N4 25nm	
+	5870.4	312.0	 4.0	170	Si3N4 25nm	
+	5873.4	300.0	 3.0	170	Si3N4 25nm	
+	5876.4	300.0	 3.0	170	Si3N4 25nm	
+	5879.4	300.0	 3.0	170	Si3N4 25nm	
+	5882.4	300.0	 3.0	170	Si3N4 25nm	
+	5885.4	 0.0	 0.0	170	Si3N4 25nm	
+	5888.4	 0.0	 0.0	170	Si3N4 25nm	
+	5891.4	 0.0	 0.0	169	Si3N4 25nm	
+	5894.4	 0.0	 0.0	169	Si3N4 25nm	
+	5897.4	287.0	 2.0	169	Si3N4 25nm	
+	5900.4	300.0	 3.0	169	Si3N4 25nm	
+	5903.4	300.0	 3.0	169	Si3N4 25nm	
+	5906.4	300.0	 3.0	169	Si3N4 25nm	
+	5909.4	300.0	 3.0	169	Si3N4 25nm	
+	5912.4	 0.0	 0.0	169	Si3N4 25nm	
+	5915.4	 0.0	 0.0	169	Si3N4 25nm	
+	5918.4	 0.0	 0.0	168	Si3N4 25nm	
+	5921.4	 0.0	 0.0	168	Si3N4 25nm	
+	5924.4	258.0	 4.0	168	Si3N4 25nm	
+	5927.4	300.0	 3.0	168	Si3N4 25nm	
+	5930.4	300.0	 3.0	168	Si3N4 25nm	
+	5933.4	300.0	 3.0	168	Si3N4 25nm	
+	5936.4	300.0	 3.0	168	Si3N4 25nm	
+	5939.4	 0.0	 0.0	168	Si3N4 25nm	
+	5942.4	 0.0	 0.0	168	Si3N4 25nm	
+	5945.4	 0.0	 0.0	167	Si3N4 25nm	
+	5948.4	 0.0	 0.0	167	Si3N4 25nm	
+	5951.4	300.0	 3.0	167	Si3N4 25nm	
+	5954.4	300.0	 3.0	167	Si3N4 25nm	
+	5957.4	300.0	 3.0	167	Si3N4 25nm	
+	5960.4	300.0	 3.0	167	Si3N4 25nm	
+	5963.4	300.0	 3.0	167	Si3N4 25nm	
+	5966.4	 0.0	 0.0	167	Si3N4 25nm	
+	5969.4	 0.0	 0.0	167	Si3N4 25nm	
+	5972.4	 0.0	 0.0	166	Si3N4 25nm	
+	5975.4	 0.0	 0.0	166	Si3N4 25nm	
+	5978.4	300.0	 5.0	166	Si3N4 25nm	
+	5981.4	300.0	 3.0	166	Si3N4 25nm	
+	5984.4	300.0	 3.0	166	Si3N4 25nm	
+	5987.4	300.0	 3.0	166	Si3N4 25nm	
+	5990.4	300.0	 3.0	166	Si3N4 25nm	
+	5993.4	 0.0	 0.0	166	Si3N4 25nm	
+	5996.4	 0.0	 0.0	166	Si3N4 25nm	
+	5999.4	 0.0	 0.0	165	Si3N4 25nm	
+	6002.4	 0.0	 0.0	165	Si3N4 25nm	
+	6005.4	300.0	 4.0	165	Si3N4 25nm	
+	6008.4	300.0	 3.0	165	Si3N4 25nm	
+	6011.4	300.0	 3.0	165	Si3N4 25nm	
+	6014.4	300.0	 3.0	165	Si3N4 25nm	
+	6017.4	300.0	 3.0	165	Si3N4 25nm	
+	6020.4	 0.0	 0.0	165	Si3N4 25nm	
+	6023.4	 0.0	 0.0	165	Si3N4 25nm	
+	6026.4	 0.0	 0.0	164	Si3N4 25nm	
+	6029.4	 0.0	 0.0	164	Si3N4 25nm	
+	6032.4	300.0	 0.0	164	Si3N4 25nm	
+	6035.4	300.0	 0.0	164	Si3N4 25nm	
+	6038.4	300.0	 0.0	164	Si3N4 25nm	
+	6041.4	300.0	 0.0	164	Si3N4 25nm	
+	6044.4	300.0	 0.0	164	Si3N4 25nm	
+	6047.4	 0.0	 0.0	164	Si3N4 25nm	
+	6050.4	 0.0	 0.0	164	Si3N4 25nm	
+	6053.4	 0.0	 0.0	163	Si3N4 25nm	
+	6056.4	 0.0	 0.0	163	Si3N4 25nm	
+	6059.4	279.0	12.0	163	Si3N4 25nm	
+	6062.4	300.0	 3.0	163	Si3N4 25nm	
+	6065.4	300.0	 3.0	163	Si3N4 25nm	
+	6068.4	300.0	 3.0	163	Si3N4 25nm	
+	6071.4	300.0	 3.0	163	Si3N4 25nm	
+	6074.4	 0.0	 0.0	163	Si3N4 25nm	
+	6077.4	 0.0	 0.0	163	Si3N4 25nm	
+	6080.4	 0.0	 0.0	162	Si3N4 25nm	
+	6083.4	 0.0	 0.0	162	Si3N4 25nm	
+	6086.4	300.0	 0.0	162	Si3N4 25nm	
+	6089.4	300.0	 0.0	162	Si3N4 25nm	
+	6092.4	300.0	 0.0	162	Si3N4 25nm	
+	6095.4	300.0	 0.0	162	Si3N4 25nm	
+	6098.4	300.0	 0.0	162	Si3N4 25nm	
+	6101.4	 0.0	 0.0	162	Si3N4 25nm	
+	6104.4	 0.0	 0.0	162	Si3N4 25nm	
+	6107.4	 0.0	 0.0	161	Si3N4 25nm	
+	6110.4	 0.0	 0.0	161	Si3N4 25nm	
+	6113.4	300.0	 0.0	161	Si3N4 25nm	
+	6116.4	300.0	 0.0	161	Si3N4 25nm	
+	6119.4	300.0	 0.0	161	Si3N4 25nm	
+	6122.4	300.0	 0.0	161	Si3N4 25nm	
+	6125.4	300.0	 0.0	161	Si3N4 25nm	
+	6128.4	 0.0	 0.0	161	Si3N4 25nm	
+	6131.4	 0.0	 0.0	161	Si3N4 25nm	
+	6134.4	 0.0	 0.0	160	Si3N4 25nm	
+	6137.4	 0.0	 0.0	160	Si3N4 25nm	
+	6140.4	300.0	 0.0	160	Si3N4 25nm	
+	6143.4	300.0	 0.0	160	Si3N4 25nm	
+	6146.4	300.0	 0.0	160	Si3N4 25nm	
+	6149.4	300.0	 0.0	160	Si3N4 25nm	
+	6152.4	300.0	 0.0	160	Si3N4 25nm	
+	6155.4	 0.0	 0.0	160	Si3N4 25nm	
+	6158.4	 0.0	 0.0	160	Si3N4 25nm	
+	6161.4	 0.0	 0.0	159	Si3N4 25nm	
+	6164.4	 0.0	 0.0	159	Si3N4 25nm	
+	6167.4	300.0	 4.0	159	Si3N4 25nm	
+	6170.4	300.0	 3.0	159	Si3N4 25nm	
+	6173.4	300.0	 3.0	159	Si3N4 25nm	
+	6176.4	300.0	 3.0	159	Si3N4 25nm	
+	6179.4	300.0	 3.0	159	Si3N4 25nm	
+	6182.4	 0.0	 0.0	159	Si3N4 25nm	
+	6185.4	 0.0	 0.0	159	Si3N4 25nm	
+	6188.4	 0.0	 0.0	158	Si3N4 25nm	
+	6191.4	 0.0	 0.0	158	Si3N4 25nm	
+	6194.4	300.0	 3.0	158	Si3N4 25nm	
+	6197.4	300.0	 2.0	158	Si3N4 25nm	
+	6200.4	300.0	 2.0	158	Si3N4 25nm	
+	6203.4	300.0	 2.0	158	Si3N4 25nm	
+	6206.4	300.0	 2.0	158	Si3N4 25nm	
+	6209.4	 0.0	 0.0	158	Si3N4 25nm	
+	6212.4	 0.0	 0.0	158	Si3N4 25nm	
+	6215.4	 0.0	 0.0	157	Si3N4 25nm	
+	6218.4	 0.0	 0.0	157	Si3N4 25nm	
+	6221.4	300.0	 7.0	157	Si3N4 25nm	
+	6224.4	300.0	 3.0	157	Si3N4 25nm	
+	6227.4	300.0	 3.0	157	Si3N4 25nm	
+	6230.4	300.0	 3.0	157	Si3N4 25nm	
+	6233.4	300.0	 3.0	157	Si3N4 25nm	
+	6236.4	 0.0	 0.0	157	Si3N4 25nm	
+	6239.4	 0.0	 0.0	157	Si3N4 25nm	
+	6242.4	 0.0	 0.0	156	Si3N4 25nm	
+	6245.4	 0.0	 0.0	156	Si3N4 25nm	
+	6248.4	300.0	 4.0	156	Si3N4 25nm	
+	6251.4	300.0	 3.0	156	Si3N4 25nm	
+	6254.4	300.0	 3.0	156	Si3N4 25nm	
+	6257.4	300.0	 3.0	156	Si3N4 25nm	
+	6260.4	300.0	 3.0	156	Si3N4 25nm	
+	6263.4	 0.0	 0.0	156	Si3N4 25nm	
+	6266.4	 0.0	 0.0	156	Si3N4 25nm	
+	6269.4	 0.0	 0.0	155	Si3N4 25nm	
+	6272.4	 0.0	 0.0	155	Si3N4 25nm	
+	6275.4	300.0	 3.0	155	Si3N4 25nm	
+	6278.4	300.0	 3.0	155	Si3N4 25nm	
+	6281.4	300.0	 3.0	155	Si3N4 25nm	
+	6284.4	300.0	 3.0	155	Si3N4 25nm	
+	6287.4	300.0	 3.0	155	Si3N4 25nm	
+	6290.4	 0.0	 0.0	155	Si3N4 25nm	
+	6293.4	 0.0	 0.0	155	Si3N4 25nm	
+	6296.4	 0.0	 0.0	154	Si3N4 25nm	
+	6299.4	 0.0	 0.0	154	Si3N4 25nm	
+	6302.4	300.0	 3.0	154	Si3N4 25nm	
+	6305.4	300.0	 2.0	154	Si3N4 25nm	
+	6308.4	300.0	 2.0	154	Si3N4 25nm	
+	6311.4	300.0	 2.0	154	Si3N4 25nm	
+	6314.4	300.0	 2.0	154	Si3N4 25nm	
+	6317.4	 0.0	 0.0	154	Si3N4 25nm	
+	6320.4	 0.0	 0.0	154	Si3N4 25nm	
+	6323.4	 0.0	 0.0	153	Si3N4 25nm	
+	6326.4	 0.0	 0.0	153	Si3N4 25nm	
+	6329.4	300.0	 4.0	153	Si3N4 25nm	
+	6332.4	300.0	 3.0	153	Si3N4 25nm	
+	6335.4	300.0	 3.0	153	Si3N4 25nm	
+	6338.4	300.0	 3.0	153	Si3N4 25nm	
+	6341.4	300.0	 3.0	153	Si3N4 25nm	
+	6344.4	 0.0	 0.0	153	Si3N4 25nm	
+	6347.4	 0.0	 0.0	153	Si3N4 25nm	
+	6350.4	 0.0	 0.0	152	Si3N4 25nm	
+	6353.4	 0.0	 0.0	152	Si3N4 25nm	
+	6356.4	300.0	 3.0	152	Si3N4 25nm	
+	6359.4	300.0	 3.0	152	Si3N4 25nm	
+	6362.4	300.0	 3.0	152	Si3N4 25nm	
+	6365.4	300.0	 3.0	152	Si3N4 25nm	
+	6368.4	300.0	 3.0	152	Si3N4 25nm	
+	6371.4	 0.0	 0.0	152	Si3N4 25nm	
+	6374.4	 0.0	 0.0	152	Si3N4 25nm	
+	6377.4	 0.0	 0.0	151	Si3N4 25nm	
+	6380.4	 0.0	 0.0	151	Si3N4 25nm	
+	6383.4	300.0	 2.0	151	Si3N4 25nm	
+	6386.4	300.0	 2.0	151	Si3N4 25nm	
+	6389.4	300.0	 2.0	151	Si3N4 25nm	
+	6392.4	300.0	 2.0	151	Si3N4 25nm	
+	6395.4	300.0	 2.0	151	Si3N4 25nm	
+	6398.4	 0.0	 0.0	151	Si3N4 25nm	
+	6401.4	 0.0	 0.0	151	Si3N4 25nm	
+	6404.4	 0.0	 0.0	150	Si3N4 25nm	
+	6407.4	 0.0	 0.0	150	Si3N4 25nm	
+	6410.4	300.0	 0.0	150	Si3N4 25nm	
+	6413.4	300.0	 0.0	150	Si3N4 25nm	
+	6416.4	300.0	 0.0	150	Si3N4 25nm	
+	6419.4	300.0	 0.0	150	Si3N4 25nm	
+	6422.4	300.0	 0.0	150	Si3N4 25nm	
+	6425.4	 0.0	 0.0	150	Si3N4 25nm	
+	6428.4	 0.0	 0.0	150	Si3N4 25nm	
+	6431.4	 0.0	 0.0	149	Si3N4 25nm	
+	6434.4	 0.0	 0.0	149	Si3N4 25nm	
+	6437.4	300.0	 0.0	149	Si3N4 25nm	
+	6440.4	300.0	 0.0	149	Si3N4 25nm	
+	6443.4	300.0	 0.0	149	Si3N4 25nm	
+	6446.4	300.0	 0.0	149	Si3N4 25nm	
+	6449.4	300.0	 0.0	149	Si3N4 25nm	
+	6452.4	 0.0	 0.0	149	Si3N4 25nm	
+	6455.4	 0.0	 0.0	149	Si3N4 25nm	
+	6458.4	 0.0	 0.0	148	Si3N4 25nm	
+	6461.4	 0.0	 0.0	148	Si3N4 25nm	
+	6464.4	300.0	 2.0	148	Si3N4 25nm	
+	6467.4	300.0	 2.0	148	Si3N4 25nm	
+	6470.4	300.0	 2.0	148	Si3N4 25nm	
+	6473.4	300.0	 2.0	148	Si3N4 25nm	
+	6476.4	300.0	 2.0	148	Si3N4 25nm	
+	6479.4	 0.0	 0.0	148	Si3N4 25nm	
+	6482.4	 0.0	 0.0	148	Si3N4 25nm	
+	6485.4	 0.0	 0.0	147	Si3N4 25nm	
+	6488.4	 0.0	 0.0	147	Si3N4 25nm	
+	6491.4	300.0	 2.0	147	Si3N4 25nm	
+	6494.4	300.0	 2.0	147	Si3N4 25nm	
+	6497.4	300.0	 2.0	147	Si3N4 25nm	
+	6500.4	300.0	 2.0	147	Si3N4 25nm	
+	6503.4	300.0	 2.0	147	Si3N4 25nm	
+	6506.4	 0.0	 0.0	147	Si3N4 25nm	
+	6509.4	 0.0	 0.0	147	Si3N4 25nm	
+	6512.4	 0.0	 0.0	146	Si3N4 25nm	
+	6515.4	 0.0	 0.0	146	Si3N4 25nm	
+	6518.4	300.0	 0.0	146	Si3N4 25nm	
+	6521.4	300.0	 0.0	146	Si3N4 25nm	
+	6524.4	300.0	 0.0	146	Si3N4 25nm	
+	6527.4	300.0	 0.0	146	Si3N4 25nm	
+	6530.4	300.0	 0.0	146	Si3N4 25nm	
+	6533.4	 0.0	 0.0	146	Si3N4 25nm	
+	6536.4	 0.0	 0.0	146	Si3N4 25nm	
+	6539.4	 0.0	 0.0	145	Si3N4 25nm	
+	6542.4	 0.0	 0.0	145	Si3N4 25nm	
+	6545.4	300.0	 3.0	145	Si3N4 25nm	
+	6548.4	300.0	 3.0	145	Si3N4 25nm	
+	6551.4	300.0	 3.0	145	Si3N4 25nm	
+	6554.4	300.0	 3.0	145	Si3N4 25nm	
+	6557.4	300.0	 3.0	145	Si3N4 25nm	
+	6560.4	 0.0	 0.0	145	Si3N4 25nm	
+	6563.4	 0.0	 0.0	145	Si3N4 25nm	
+	6566.4	 0.0	 0.0	144	Si3N4 25nm	
+	6569.4	 0.0	 0.0	144	Si3N4 25nm	
+	6572.4	300.0	 8.0	144	Si3N4 25nm	
+	6575.4	300.0	 3.0	144	Si3N4 25nm	
+	6578.4	300.0	 3.0	144	Si3N4 25nm	
+	6581.4	300.0	 3.0	144	Si3N4 25nm	
+	6584.4	300.0	 3.0	144	Si3N4 25nm	
+	6587.4	 0.0	 0.0	144	Si3N4 25nm	
+	6590.4	 0.0	 0.0	144	Si3N4 25nm	
+	6593.4	 0.0	 0.0	143	Si3N4 25nm	
+	6596.4	 0.0	 0.0	143	Si3N4 25nm	
+	6599.4	300.0	 0.0	143	Si3N4 25nm	
+	6602.4	300.0	 0.0	143	Si3N4 25nm	
+	6605.4	300.0	 0.0	143	Si3N4 25nm	
+	6608.4	300.0	 0.0	143	Si3N4 25nm	
+	6611.4	300.0	 0.0	143	Si3N4 25nm	
+	6614.4	 0.0	 0.0	143	Si3N4 25nm	
+	6617.4	 0.0	 0.0	143	Si3N4 25nm	
+	6620.4	 0.0	 0.0	142	Si3N4 25nm	
+	6623.4	 0.0	 0.0	142	Si3N4 25nm	
+	6626.4	300.0	 4.0	142	Si3N4 25nm	
+	6629.4	300.0	 3.0	142	Si3N4 25nm	
+	6632.4	300.0	 3.0	142	Si3N4 25nm	
+	6635.4	300.0	 3.0	142	Si3N4 25nm	
+	6638.4	300.0	 3.0	142	Si3N4 25nm	
+	6641.4	 0.0	 0.0	142	Si3N4 25nm	
+	6644.4	 0.0	 0.0	142	Si3N4 25nm	
+	6647.4	 0.0	 0.0	141	Si3N4 25nm	
+	6650.4	 0.0	 0.0	141	Si3N4 25nm	
+	6653.4	300.0	 2.0	141	Si3N4 25nm	
+	6656.4	300.0	 2.0	141	Si3N4 25nm	
+	6659.4	300.0	 2.0	141	Si3N4 25nm	
+	6662.4	300.0	 2.0	141	Si3N4 25nm	
+	6665.4	300.0	 2.0	141	Si3N4 25nm	
+	6668.4	 0.0	 0.0	141	Si3N4 25nm	
+	6671.4	 0.0	 0.0	141	Si3N4 25nm	
+	6674.4	 0.0	 0.0	140	Si3N4 25nm	
+	6677.4	 0.0	 0.0	140	Si3N4 25nm	
+	6680.4	300.0	 4.0	140	Si3N4 25nm	
+	6683.4	300.0	 3.0	140	Si3N4 25nm	
+	6686.4	300.0	 3.0	140	Si3N4 25nm	
+	6689.4	300.0	 3.0	140	Si3N4 25nm	
+	6692.4	300.0	 3.0	140	Si3N4 25nm	
+	6695.4	 0.0	 0.0	140	Si3N4 25nm	
+	6698.4	 0.0	 0.0	140	Si3N4 25nm	goto;016313
+	6701.4	 0.0	 0.0	139	Si3N4 25nm	
+	6704.4	 0.0	 0.0	139	Si3N4 25nm	
+	6707.4	300.0	 2.0	139	Si3N4 25nm	
+	6710.4	300.0	 2.0	139	Si3N4 25nm	
+	6713.4	300.0	 2.0	139	Si3N4 25nm	
+	6716.4	300.0	 2.0	139	Si3N4 25nm	
+	6719.4	300.0	 2.0	139	Si3N4 25nm	
+	6722.4	 0.0	 0.0	139	Si3N4 25nm	
+	6725.4	 0.0	 0.0	138	Si3N4 25nm	
+	6728.4	 0.0	 0.0	138	Si3N4 25nm	
+	6731.4	 0.0	 0.0	138	Si3N4 25nm	
+	6734.4	300.0	 2.0	138	Si3N4 25nm	
+	6737.4	300.0	 2.0	138	Si3N4 25nm	
+	6740.4	300.0	 2.0	138	Si3N4 25nm	
+	6743.4	300.0	 2.0	138	Si3N4 25nm	
+	6746.4	300.0	 2.0	138	Si3N4 25nm	
+	6749.4	 0.0	 0.0	138	Si3N4 25nm	
+	6752.4	 0.0	 0.0	137	Si3N4 25nm	
+	6755.4	 0.0	 0.0	137	Si3N4 25nm	
+	6758.4	 0.0	 0.0	137	Si3N4 25nm	
+	6761.4	300.0	 3.0	137	Si3N4 25nm	
+	6764.4	300.0	 3.0	137	Si3N4 25nm	
+	6767.4	300.0	 3.0	137	Si3N4 25nm	
+	6770.4	300.0	 3.0	137	Si3N4 25nm	
+	6773.4	300.0	 3.0	137	Si3N4 25nm	
+	6776.4	 0.0	 0.0	137	Si3N4 25nm	
+	6779.4	 0.0	 0.0	136	Si3N4 25nm	
+	6782.4	 0.0	 0.0	136	Si3N4 25nm	
+	6785.4	 0.0	 0.0	136	Si3N4 25nm	
+	6788.4	300.0	 3.0	136	Si3N4 25nm	
+	6791.4	300.0	 3.0	136	Si3N4 25nm	
+	6794.4	300.0	 3.0	136	Si3N4 25nm	
+	6797.4	300.0	 3.0	136	Si3N4 25nm	
+	6800.4	300.0	 3.0	136	Si3N4 25nm	
+	6803.4	 0.0	 0.0	136	Si3N4 25nm	
+	6806.4	 0.0	 0.0	135	Si3N4 25nm	
+	6809.4	 0.0	 0.0	135	Si3N4 25nm	
+	6812.4	 0.0	 0.0	135	Si3N4 25nm	
+	6815.4	300.0	 2.0	135	Si3N4 25nm	
+	6818.4	300.0	 2.0	135	Si3N4 25nm	
+	6821.4	300.0	 2.0	135	Si3N4 25nm	
+	6824.4	300.0	 2.0	135	Si3N4 25nm	
+	6827.4	300.0	 2.0	135	Si3N4 25nm	
+	6830.4	 0.0	 0.0	135	Si3N4 25nm	
+	6833.4	 0.0	 0.0	134	Si3N4 25nm	
+	6836.4	 0.0	 0.0	134	Si3N4 25nm	
+	6839.4	 0.0	 0.0	134	Si3N4 25nm	
+	6842.4	300.0	 0.0	134	Si3N4 25nm	
+	6845.4	300.0	 0.0	134	Si3N4 25nm	
+	6848.4	300.0	 0.0	134	Si3N4 25nm	
+	6851.4	300.0	 0.0	134	Si3N4 25nm	
+	6854.4	300.0	 0.0	134	Si3N4 25nm	
+	6857.4	 0.0	 0.0	134	Si3N4 25nm	
+	6860.4	 0.0	 0.0	133	Si3N4 25nm	
+	6863.4	 0.0	 0.0	133	Si3N4 25nm	
+	6866.4	 0.0	 0.0	133	Si3N4 25nm	
+	6869.4	300.0	 0.0	133	Si3N4 25nm	
+	6872.4	300.0	 0.0	133	Si3N4 25nm	
+	6875.4	300.0	 0.0	133	Si3N4 25nm	
+	6878.4	300.0	 0.0	133	Si3N4 25nm	
+	6881.4	300.0	 0.0	133	Si3N4 25nm	
+	6884.4	 0.0	 0.0	133	Si3N4 25nm	
+	6887.4	 0.0	 0.0	132	Si3N4 25nm	
+	6890.4	 0.0	 0.0	132	Si3N4 25nm	
+	6893.4	 0.0	 0.0	132	Si3N4 25nm	
+	6896.4	300.0	 2.0	132	Si3N4 25nm	
+	6899.4	300.0	 2.0	132	Si3N4 25nm	
+	6902.4	300.0	 2.0	132	Si3N4 25nm	
+	6905.4	300.0	 2.0	132	Si3N4 25nm	
+	6908.4	300.0	 2.0	132	Si3N4 25nm	
+	6911.4	 0.0	 0.0	132	Si3N4 25nm	
+	6914.4	 0.0	 0.0	131	Si3N4 25nm	
+	6917.4	 0.0	 0.0	131	Si3N4 25nm	
+	6920.4	 0.0	 0.0	131	Si3N4 25nm	
+	6923.4	300.0	 0.0	131	Si3N4 25nm	
+	6926.4	300.0	 0.0	131	Si3N4 25nm	
+	6929.4	300.0	 0.0	131	Si3N4 25nm	
+	6932.4	300.0	 0.0	131	Si3N4 25nm	
+	6935.4	300.0	 0.0	131	Si3N4 25nm	
+	6938.4	 0.0	 0.0	131	Si3N4 25nm	
+	6941.4	 0.0	 0.0	130	Si3N4 25nm	
+	6944.4	 0.0	 0.0	130	Si3N4 25nm	
+	6947.4	 0.0	 0.0	130	Si3N4 25nm	
+	6950.4	300.0	 2.0	130	Si3N4 25nm	
+	6953.4	300.0	 2.0	130	Si3N4 25nm	
+	6956.4	300.0	 2.0	130	Si3N4 25nm	
+	6959.4	300.0	 2.0	130	Si3N4 25nm	
+	6962.4	300.0	 2.0	130	Si3N4 25nm	
+	6965.4	 0.0	 0.0	130	Si3N4 25nm	
+	6968.4	 0.0	 0.0	129	Si3N4 25nm	
+	6971.4	 0.0	 0.0	129	Si3N4 25nm	
+	6974.4	 0.0	 0.0	129	Si3N4 25nm	
+	6977.4	300.0	 2.0	129	Si3N4 25nm	
+	6980.4	300.0	 2.0	129	Si3N4 25nm	
+	6983.4	300.0	 2.0	129	Si3N4 25nm	
+	6986.4	300.0	 2.0	129	Si3N4 25nm	
+	6989.4	300.0	 2.0	129	Si3N4 25nm	
+	6992.4	 0.0	 0.0	129	Si3N4 25nm	
+	6995.4	 0.0	 0.0	128	Si3N4 25nm	
+	6998.4	 0.0	 0.0	128	Si3N4 25nm	
+	7001.4	 0.0	 0.0	128	Si3N4 25nm	
+	7004.4	300.0	 0.0	128	Si3N4 25nm	
+	7007.4	300.0	 0.0	128	Si3N4 25nm	
+	7010.4	300.0	 0.0	128	Si3N4 25nm	
+	7013.4	300.0	 0.0	128	Si3N4 25nm	
+	7016.4	300.0	 0.0	128	Si3N4 25nm	
+	7019.4	 0.0	 0.0	128	Si3N4 25nm	
+	7022.4	 0.0	 0.0	127	Si3N4 25nm	
+	7025.4	 0.0	 0.0	127	Si3N4 25nm	
+	7028.4	 0.0	 0.0	127	Si3N4 25nm	
+	7031.4	300.0	 2.0	127	Si3N4 25nm	
+	7034.4	300.0	 2.0	127	Si3N4 25nm	
+	7037.4	300.0	 2.0	127	Si3N4 25nm	
+	7040.4	300.0	 2.0	127	Si3N4 25nm	
+	7043.4	300.0	 2.0	127	Si3N4 25nm	
+	7046.4	 0.0	 0.0	127	Si3N4 25nm	
+	7049.4	 0.0	 0.0	126	Si3N4 25nm	
+	7052.4	 0.0	 0.0	126	Si3N4 25nm	
+	7055.4	 0.0	 0.0	126	Si3N4 25nm	
+	7058.4	300.0	 1.0	126	Si3N4 25nm	
+	7061.4	300.0	 2.0	126	Si3N4 25nm	
+	7064.4	300.0	 1.0	126	Si3N4 25nm	
+	7067.4	300.0	 2.0	126	Si3N4 25nm	
+	7070.4	300.0	 2.0	126	Si3N4 25nm	
+	7073.4	 0.0	 0.0	126	Si3N4 25nm	
+	7076.4	 0.0	 0.0	125	Si3N4 25nm	
+	7079.4	 0.0	 0.0	125	Si3N4 25nm	
+	7082.4	 0.0	 0.0	125	Si3N4 25nm	
+	7085.4	300.0	 2.0	125	Si3N4 25nm	
+	7088.4	300.0	 2.0	125	Si3N4 25nm	
+	7091.4	300.0	 2.0	125	Si3N4 25nm	
+	7094.4	300.0	 2.0	125	Si3N4 25nm	
+	7097.4	300.0	 2.0	125	Si3N4 25nm	
+	7100.4	 0.0	 0.0	125	Si3N4 25nm	
+	7103.4	 0.0	 0.0	124	Si3N4 25nm	
+	7106.4	 0.0	 0.0	124	Si3N4 25nm	
+	7109.4	 0.0	 0.0	124	Si3N4 25nm	
+	7112.4	300.0	 2.0	124	Si3N4 25nm	
+	7115.4	300.0	 2.0	124	Si3N4 25nm	
+	7118.4	300.0	 2.0	124	Si3N4 25nm	
+	7121.4	300.0	 2.0	124	Si3N4 25nm	
+	7124.4	300.0	 2.0	124	Si3N4 25nm	
+	7127.4	 0.0	 0.0	124	Si3N4 25nm	
+	7130.4	 0.0	 0.0	123	Si3N4 25nm	
+	7133.4	 0.0	 0.0	123	Si3N4 25nm	
+	7136.4	 0.0	 0.0	123	Si3N4 25nm	
+	7139.4	300.0	 3.0	123	Si3N4 25nm	
+	7142.4	300.0	 3.0	123	Si3N4 25nm	
+	7145.4	300.0	 3.0	123	Si3N4 25nm	
+	7148.4	300.0	 3.0	123	Si3N4 25nm	
+	7151.4	300.0	 3.0	123	Si3N4 25nm	
+	7154.4	 0.0	 0.0	123	Si3N4 25nm	
+	7157.4	 0.0	 0.0	122	Si3N4 25nm	
+	7160.4	 0.0	 0.0	122	Si3N4 25nm	
+	7163.4	 0.0	 0.0	122	Si3N4 25nm	
+	7166.4	300.0	 2.0	122	Si3N4 25nm	
+	7169.4	300.0	 2.0	122	Si3N4 25nm	
+	7172.4	300.0	 2.0	122	Si3N4 25nm	
+	7175.4	300.0	 2.0	122	Si3N4 25nm	
+	7178.4	300.0	 2.0	122	Si3N4 25nm	
+	7181.4	 0.0	 0.0	122	Si3N4 25nm	
+	7184.4	 0.0	 0.0	121	Si3N4 25nm	
+	7187.4	 0.0	 0.0	121	Si3N4 25nm	
+	7190.4	 0.0	 0.0	121	Si3N4 25nm	
+	7193.4	300.0	 0.0	121	Si3N4 25nm	
+	7196.4	300.0	 0.0	121	Si3N4 25nm	
+	7199.4	300.0	 0.0	121	Si3N4 25nm	
+	7202.4	300.0	 0.0	121	Si3N4 25nm	
+	7205.4	300.0	 0.0	121	Si3N4 25nm	
+	7208.4	 0.0	 0.0	121	Si3N4 25nm	
+	7211.4	 0.0	 0.0	120	Si3N4 25nm	
+	7214.4	 0.0	 0.0	120	Si3N4 25nm	
+	7217.4	 0.0	 0.0	120	Si3N4 25nm	
+	7220.4	300.0	 0.0	120	Si3N4 25nm	
+	7223.4	300.0	 0.0	120	Si3N4 25nm	
+	7226.4	300.0	 0.0	120	Si3N4 25nm	
+	7229.4	300.0	 0.0	120	Si3N4 25nm	
+	7232.4	300.0	 0.0	120	Si3N4 25nm	
+	7235.4	 0.0	 0.0	120	Si3N4 25nm	
+	7238.4	 0.0	 0.0	119	Si3N4 25nm	
+	7241.4	 0.0	 0.0	119	Si3N4 25nm	
+	7244.4	 0.0	 0.0	119	Si3N4 25nm	
+	7247.4	300.0	 4.0	119	Si3N4 25nm	
+	7250.4	300.0	 3.0	119	Si3N4 25nm	
+	7253.4	300.0	 3.0	119	Si3N4 25nm	
+	7256.4	300.0	 3.0	119	Si3N4 25nm	
+	7259.4	300.0	 3.0	119	Si3N4 25nm	
+	7262.4	 0.0	 0.0	119	Si3N4 25nm	
+	7265.4	 0.0	 0.0	118	Si3N4 25nm	
+	7268.4	 0.0	 0.0	118	Si3N4 25nm	
+	7271.4	 0.0	 0.0	118	Si3N4 25nm	
+	7274.4	300.0	 3.0	118	Si3N4 25nm	
+	7277.4	300.0	 3.0	118	Si3N4 25nm	
+	7280.4	300.0	 3.0	118	Si3N4 25nm	
+	7283.4	300.0	 3.0	118	Si3N4 25nm	
+	7286.4	300.0	 3.0	118	Si3N4 25nm	
+	7289.4	 0.0	 0.0	118	Si3N4 25nm	
+	7292.4	 0.0	 0.0	117	Si3N4 25nm	
+	7295.4	 0.0	 0.0	117	Si3N4 25nm	
+	7298.4	 0.0	 0.0	117	Si3N4 25nm	
+	7301.4	300.0	 2.0	117	Si3N4 25nm	
+	7304.4	300.0	 2.0	117	Si3N4 25nm	
+	7307.4	300.0	 2.0	117	Si3N4 25nm	
+	7310.4	300.0	 2.0	117	Si3N4 25nm	
+	7313.4	300.0	 2.0	117	Si3N4 25nm	
+	7316.4	 0.0	 0.0	117	Si3N4 25nm	
+	7319.4	 0.0	 0.0	116	Si3N4 25nm	
+	7322.4	 0.0	 0.0	116	Si3N4 25nm	
+	7325.4	157.0	 0.0	116	Si3N4 25nm	
+	7328.4	300.0	 0.0	116	Si3N4 25nm	
+	7331.4	300.0	 0.0	116	Si3N4 25nm	
+	7334.4	300.0	 0.0	116	Si3N4 25nm	
+	7337.4	300.0	 0.0	116	Si3N4 25nm	
+	7340.4	300.0	 0.0	116	Si3N4 25nm	
+	7343.4	 0.0	 0.0	116	Si3N4 25nm	
+	7346.4	 0.0	 0.0	115	Si3N4 25nm	
+	7349.4	 0.0	 0.0	115	Si3N4 25nm	
+	7352.4	329.0	 8.0	115	Si3N4 25nm	
+	7355.4	300.0	 2.0	115	Si3N4 25nm	
+	7358.4	300.0	 2.0	115	Si3N4 25nm	
+	7361.4	300.0	 2.0	115	Si3N4 25nm	
+	7364.4	300.0	 2.0	115	Si3N4 25nm	
+	7367.4	300.0	 2.0	115	Si3N4 25nm	
+	7370.4	 0.0	 0.0	115	Si3N4 25nm	
+	7373.4	 0.0	 0.0	114	Si3N4 25nm	
+	7376.4	 0.0	 0.0	114	Si3N4 25nm	
+	7379.4	300.0	12.0	114	Si3N4 25nm	
+	7382.4	300.0	 3.0	114	Si3N4 25nm	
+	7385.4	300.0	 3.0	114	Si3N4 25nm	
+	7388.4	300.0	 3.0	114	Si3N4 25nm	
+	7391.4	300.0	 3.0	114	Si3N4 25nm	
+	7394.4	 0.0	 0.0	114	Si3N4 25nm	
+	7397.4	 0.0	 0.0	114	Si3N4 25nm	
+	7400.4	 0.0	 0.0	113	Si3N4 25nm	
+	7403.4	 0.0	 0.0	113	Si3N4 25nm	
+	7406.4	317.0	 4.0	113	Si3N4 25nm	
+	7409.4	300.0	 2.0	113	Si3N4 25nm	
+	7412.4	300.0	 2.0	113	Si3N4 25nm	
+	7415.4	300.0	 2.0	113	Si3N4 25nm	
+	7418.4	300.0	 2.0	113	Si3N4 25nm	
+	7421.4	 0.0	 0.0	113	Si3N4 25nm	
+	7424.4	 0.0	 0.0	113	Si3N4 25nm	
+	7427.4	 0.0	 0.0	112	Si3N4 25nm	
+	7430.4	 0.0	 0.0	112	Si3N4 25nm	
+	7433.4	271.0	 0.0	112	Si3N4 25nm	
+	7436.4	300.0	 0.0	112	Si3N4 25nm	
+	7439.4	300.0	 0.0	112	Si3N4 25nm	
+	7442.4	300.0	 0.0	112	Si3N4 25nm	
+	7445.4	300.0	 0.0	112	Si3N4 25nm	
+	7448.4	 0.0	 0.0	112	Si3N4 25nm	
+	7451.4	 0.0	 0.0	112	Si3N4 25nm	
+	7454.4	 0.0	 0.0	111	Si3N4 25nm	
+	7457.4	 0.0	 0.0	111	Si3N4 25nm	
+	7460.4	251.0	 0.0	111	Si3N4 25nm	
+	7463.4	300.0	 0.0	111	Si3N4 25nm	
+	7466.4	300.0	 0.0	111	Si3N4 25nm	
+	7469.4	300.0	 0.0	111	Si3N4 25nm	
+	7472.4	300.0	 0.0	111	Si3N4 25nm	
+	7475.4	 0.0	 0.0	111	Si3N4 25nm	
+	7478.4	 0.0	 0.0	111	Si3N4 25nm	
+	7481.4	 0.0	 0.0	110	Si3N4 25nm	
+	7484.4	 0.0	 0.0	110	Si3N4 25nm	
+	7487.4	312.0	 3.0	110	Si3N4 25nm	
+	7490.4	300.0	 2.0	110	Si3N4 25nm	
+	7493.4	300.0	 2.0	110	Si3N4 25nm	
+	7496.4	300.0	 2.0	110	Si3N4 25nm	
+	7499.4	300.0	 2.0	110	Si3N4 25nm	
+	7502.4	 0.0	 0.0	110	Si3N4 25nm	
+	7505.4	 0.0	 0.0	110	Si3N4 25nm	
+	7508.4	 0.0	 0.0	109	Si3N4 25nm	
+	7511.4	 0.0	 0.0	109	Si3N4 25nm	
+	7514.4	285.0	 6.0	109	Si3N4 25nm	
+	7517.4	300.0	 3.0	109	Si3N4 25nm	
+	7520.4	300.0	 3.0	109	Si3N4 25nm	
+	7523.4	300.0	 3.0	109	Si3N4 25nm	
+	7526.4	300.0	 3.0	109	Si3N4 25nm	
+	7529.4	 0.0	 0.0	109	Si3N4 25nm	
+	7532.4	 0.0	 0.0	109	Si3N4 25nm	
+	7535.4	 0.0	 0.0	108	Si3N4 25nm	
+	7538.4	 0.0	 0.0	108	Si3N4 25nm	
+	7541.4	286.0	 0.0	108	Si3N4 25nm	
+	7544.4	300.0	 0.0	108	Si3N4 25nm	
+	7547.4	300.0	 0.0	108	Si3N4 25nm	
+	7550.4	300.0	 0.0	108	Si3N4 25nm	
+	7553.4	300.0	 0.0	108	Si3N4 25nm	
+	7556.4	 0.0	 0.0	108	Si3N4 25nm	
+	7559.4	 0.0	 0.0	108	Si3N4 25nm	
+	7562.4	 0.0	 0.0	107	Si3N4 25nm	
+	7565.4	 0.0	 0.0	107	Si3N4 25nm	
+	7568.4	300.0	 4.0	107	Si3N4 25nm	
+	7571.4	300.0	 3.0	107	Si3N4 25nm	
+	7574.4	300.0	 3.0	107	Si3N4 25nm	
+	7577.4	300.0	 3.0	107	Si3N4 25nm	
+	7580.4	300.0	 3.0	107	Si3N4 25nm	
+	7583.4	 0.0	 0.0	107	Si3N4 25nm	
+	7586.4	 0.0	 0.0	107	Si3N4 25nm	
+	7589.4	 0.0	 0.0	106	Si3N4 25nm	
+	7592.4	 0.0	 0.0	106	Si3N4 25nm	
+	7595.4	300.0	 3.0	106	Si3N4 25nm	
+	7598.4	300.0	 2.0	106	Si3N4 25nm	
+	7601.4	300.0	 2.0	106	Si3N4 25nm	
+	7604.4	300.0	 2.0	106	Si3N4 25nm	
+	7607.4	300.0	 2.0	106	Si3N4 25nm	
+	7610.4	 0.0	 0.0	106	Si3N4 25nm	
+	7613.4	 0.0	 0.0	106	Si3N4 25nm	
+	7616.4	 0.0	 0.0	105	Si3N4 25nm	
+	7619.4	 0.0	 0.0	105	Si3N4 25nm	
+	7622.4	300.0	 3.0	105	Si3N4 25nm	
+	7625.4	300.0	 2.0	105	Si3N4 25nm	
+	7628.4	300.0	 2.0	105	Si3N4 25nm	
+	7631.4	300.0	 2.0	105	Si3N4 25nm	
+	7634.4	300.0	 2.0	105	Si3N4 25nm	
+	7637.4	 0.0	 0.0	105	Si3N4 25nm	
+	7640.4	 0.0	 0.0	105	Si3N4 25nm	
+	7643.4	 0.0	 0.0	104	Si3N4 25nm	
+	7646.4	 0.0	 0.0	104	Si3N4 25nm	
+	7649.4	300.0	 2.0	104	Si3N4 25nm	
+	7652.4	300.0	 2.0	104	Si3N4 25nm	
+	7655.4	300.0	 2.0	104	Si3N4 25nm	
+	7658.4	300.0	 2.0	104	Si3N4 25nm	
+	7661.4	300.0	 2.0	104	Si3N4 25nm	
+	7664.4	 0.0	 0.0	104	Si3N4 25nm	
+	7667.4	 0.0	 0.0	104	Si3N4 25nm	
+	7670.4	 0.0	 0.0	103	Si3N4 25nm	
+	7673.4	 0.0	 0.0	103	Si3N4 25nm	
+	7676.4	300.0	 2.0	103	Si3N4 25nm	
+	7679.4	300.0	 1.0	103	Si3N4 25nm	
+	7682.4	300.0	 1.0	103	Si3N4 25nm	
+	7685.4	300.0	 1.0	103	Si3N4 25nm	
+	7688.4	300.0	 1.0	103	Si3N4 25nm	
+	7691.4	 0.0	 0.0	103	Si3N4 25nm	
+	7694.4	 0.0	 0.0	103	Si3N4 25nm	
+	7697.4	 0.0	 0.0	102	Si3N4 25nm	
+	7700.4	 0.0	 0.0	102	Si3N4 25nm	
+	7703.4	300.0	 2.0	102	Si3N4 25nm	
+	7706.4	300.0	 1.0	102	Si3N4 25nm	
+	7709.4	300.0	 1.0	102	Si3N4 25nm	
+	7712.4	300.0	 1.0	102	Si3N4 25nm	
+	7715.4	300.0	 1.0	102	Si3N4 25nm	
+	7718.4	 0.0	 0.0	102	Si3N4 25nm	
+	7721.4	 0.0	 0.0	102	Si3N4 25nm	
+	7724.4	 0.0	 0.0	101	Si3N4 25nm	
+	7727.4	 0.0	 0.0	101	Si3N4 25nm	
+	7730.4	300.0	 2.0	101	Si3N4 25nm	
+	7733.4	300.0	 1.0	101	Si3N4 25nm	
+	7736.4	300.0	 1.0	101	Si3N4 25nm	
+	7739.4	300.0	 1.0	101	Si3N4 25nm	
+	7742.4	300.0	 1.0	101	Si3N4 25nm	
+	7745.4	 0.0	 0.0	101	Si3N4 25nm	
+	7748.4	 0.0	 0.0	101	Si3N4 25nm	
+	7751.4	 0.0	 0.0	100	Si3N4 25nm	
+	7754.4	 0.0	 0.0	100	Si3N4 25nm	
+	7757.4	300.0	 5.0	100	Si3N4 25nm	
+	7760.4	300.0	 3.0	100	Si3N4 25nm	
+	7763.4	300.0	 3.0	100	Si3N4 25nm	
+	7766.4	300.0	 3.0	100	Si3N4 25nm	
+	7769.4	300.0	 3.0	100	Si3N4 25nm	
+	7772.4	 0.0	 0.0	100	Si3N4 25nm	
+	7775.4	 0.0	 0.0	100	Si3N4 25nm	
+	7778.4	 0.0	 0.0	99	Si3N4 25nm	
+	7781.4	 0.0	 0.0	99	Si3N4 25nm	
+	7784.4	300.0	 5.0	99	Si3N4 25nm	
+	7787.4	300.0	 3.0	99	Si3N4 25nm	
+	7790.4	300.0	 3.0	99	Si3N4 25nm	
+	7793.4	300.0	 3.0	99	Si3N4 25nm	
+	7796.4	300.0	 3.0	99	Si3N4 25nm	
+	7799.4	 0.0	 0.0	99	Si3N4 25nm	
+	7802.4	 0.0	 0.0	99	Si3N4 25nm	
+	7805.4	 0.0	 0.0	98	Si3N4 25nm	
+	7808.4	 0.0	 0.0	98	Si3N4 25nm	
+	7811.4	300.0	 4.0	98	Si3N4 25nm	
+	7814.4	300.0	 3.0	98	Si3N4 25nm	
+	7817.4	300.0	 3.0	98	Si3N4 25nm	
+	7820.4	300.0	 3.0	98	Si3N4 25nm	
+	7823.4	300.0	 3.0	98	Si3N4 25nm	
+	7826.4	 0.0	 0.0	98	Si3N4 25nm	
+	7829.4	 0.0	 0.0	98	Si3N4 25nm	
+	7832.4	 0.0	 0.0	97	Si3N4 25nm	
+	7835.4	 0.0	 0.0	97	Si3N4 25nm	
+	7838.4	300.0	 0.0	97	Si3N4 25nm	
+	7841.4	300.0	 0.0	97	Si3N4 25nm	
+	7844.4	300.0	 0.0	97	Si3N4 25nm	
+	7847.4	300.0	 0.0	97	Si3N4 25nm	
+	7850.4	300.0	 0.0	97	Si3N4 25nm	
+	7853.4	 0.0	 0.0	97	Si3N4 25nm	
+	7856.4	 0.0	 0.0	97	Si3N4 25nm	
+	7859.4	 0.0	 0.0	96	Si3N4 25nm	
+	7862.4	 0.0	 0.0	96	Si3N4 25nm	
+	7865.4	300.0	 4.0	96	Si3N4 25nm	
+	7868.4	300.0	 3.0	96	Si3N4 25nm	
+	7871.4	300.0	 3.0	96	Si3N4 25nm	
+	7874.4	300.0	 3.0	96	Si3N4 25nm	
+	7877.4	300.0	 3.0	96	Si3N4 25nm	
+	7880.4	 0.0	 0.0	96	Si3N4 25nm	
+	7883.4	 0.0	 0.0	96	Si3N4 25nm	
+	7886.4	 0.0	 0.0	95	Si3N4 25nm	
+	7889.4	 0.0	 0.0	95	Si3N4 25nm	
+	7892.4	300.0	 6.0	95	Si3N4 25nm	
+	7895.4	300.0	 3.0	95	Si3N4 25nm	
+	7898.4	300.0	 3.0	95	Si3N4 25nm	
+	7901.4	300.0	 3.0	95	Si3N4 25nm	
+	7904.4	300.0	 3.0	95	Si3N4 25nm	
+	7907.4	 0.0	 0.0	95	Si3N4 25nm	
+	7910.4	 0.0	 0.0	95	Si3N4 25nm	
+	7913.4	 0.0	 0.0	94	Si3N4 25nm	
+	7916.4	 0.0	 0.0	94	Si3N4 25nm	
+	7919.4	300.0	 3.0	94	Si3N4 25nm	
+	7922.4	300.0	 2.0	94	Si3N4 25nm	
+	7925.4	300.0	 2.0	94	Si3N4 25nm	
+	7928.4	300.0	 2.0	94	Si3N4 25nm	
+	7931.4	300.0	 2.0	94	Si3N4 25nm	
+	7934.4	 0.0	 0.0	94	Si3N4 25nm	
+	7937.4	 0.0	 0.0	94	Si3N4 25nm	
+	7940.4	 0.0	 0.0	93	Si3N4 25nm	
+	7943.4	 0.0	 0.0	93	Si3N4 25nm	
+	7946.4	284.0	13.0	93	Si3N4 25nm	
+	7949.4	300.0	 3.0	93	Si3N4 25nm	
+	7952.4	300.0	 3.0	93	Si3N4 25nm	
+	7955.4	300.0	 3.0	93	Si3N4 25nm	
+	7958.4	300.0	 3.0	93	Si3N4 25nm	
+	7961.4	 0.0	 0.0	93	Si3N4 25nm	
+	7964.4	 0.0	 0.0	93	Si3N4 25nm	
+	7967.4	 0.0	 0.0	92	Si3N4 25nm	
+	7970.4	 0.0	 0.0	92	Si3N4 25nm	
+	7973.4	300.0	 3.0	92	Si3N4 25nm	
+	7976.4	300.0	 2.0	92	Si3N4 25nm	
+	7979.4	300.0	 2.0	92	Si3N4 25nm	
+	7982.4	300.0	 2.0	92	Si3N4 25nm	
+	7985.4	300.0	 2.0	92	Si3N4 25nm	
+	7988.4	 0.0	 0.0	92	Si3N4 25nm	
+	7991.4	 0.0	 0.0	92	Si3N4 25nm	
+	7994.4	 0.0	 0.0	91	Si3N4 25nm	
+	7997.4	 0.0	 0.0	91	Si3N4 25nm	
+	8000.4	300.0	 2.0	91	Si3N4 25nm	
+	8003.4	300.0	 2.0	91	Si3N4 25nm	
+	8006.4	300.0	 2.0	91	Si3N4 25nm	
+	8009.4	300.0	 2.0	91	Si3N4 25nm	
+	8012.4	300.0	 2.0	91	Si3N4 25nm	
+	8015.4	 0.0	 0.0	91	Si3N4 25nm	
+	8018.4	 0.0	 0.0	91	Si3N4 25nm	
+	8021.4	 0.0	 0.0	90	Si3N4 25nm	
+	8024.4	 0.0	 0.0	90	Si3N4 25nm	
+	8027.4	290.0	11.0	90	Si3N4 25nm	
+	8030.4	300.0	 3.0	90	Si3N4 25nm	
+	8033.4	300.0	 3.0	90	Si3N4 25nm	
+	8036.4	300.0	 3.0	90	Si3N4 25nm	
+	8039.4	300.0	 3.0	90	Si3N4 25nm	
+	8042.4	 0.0	 0.0	90	Si3N4 25nm	
+	8045.4	 0.0	 0.0	90	Si3N4 25nm	
+	8048.4	 0.0	 0.0	89	Si3N4 25nm	
+	8051.4	 0.0	 0.0	89	Si3N4 25nm	
+	8054.4	300.0	 5.0	89	Si3N4 25nm	
+	8057.4	300.0	 3.0	89	Si3N4 25nm	
+	8060.4	300.0	 3.0	89	Si3N4 25nm	
+	8063.4	300.0	 3.0	89	Si3N4 25nm	
+	8066.4	300.0	 3.0	89	Si3N4 25nm	
+	8069.4	 0.0	 0.0	89	Si3N4 25nm	
+	8072.4	 0.0	 0.0	89	Si3N4 25nm	
+	8075.4	 0.0	 0.0	88	Si3N4 25nm	
+	8078.4	 0.0	 0.0	88	Si3N4 25nm	
+	8081.4	300.0	 5.0	88	Si3N4 25nm	
+	8084.4	300.0	 3.0	88	Si3N4 25nm	
+	8087.4	300.0	 3.0	88	Si3N4 25nm	
+	8090.4	300.0	 3.0	88	Si3N4 25nm	
+	8093.4	300.0	 3.0	88	Si3N4 25nm	
+	8096.4	 0.0	 0.0	88	Si3N4 25nm	
+	8099.4	 0.0	 0.0	88	Si3N4 25nm	
+	8102.4	 0.0	 0.0	87	Si3N4 25nm	
+	8105.4	 0.0	 0.0	87	Si3N4 25nm	
+	8108.4	300.0	 3.0	87	Si3N4 25nm	
+	8111.4	300.0	 3.0	87	Si3N4 25nm	
+	8114.4	300.0	 3.0	87	Si3N4 25nm	
+	8117.4	300.0	 3.0	87	Si3N4 25nm	
+	8120.4	300.0	 3.0	87	Si3N4 25nm	
+	8123.4	 0.0	 0.0	87	Si3N4 25nm	
+	8126.4	 0.0	 0.0	87	Si3N4 25nm	
+	8129.4	 0.0	 0.0	86	Si3N4 25nm	
+	8132.4	 0.0	 0.0	86	Si3N4 25nm	
+	8135.4	300.0	 3.0	86	Si3N4 25nm	
+	8138.4	300.0	 3.0	86	Si3N4 25nm	
+	8141.4	300.0	 3.0	86	Si3N4 25nm	
+	8144.4	300.0	 3.0	86	Si3N4 25nm	
+	8147.4	300.0	 3.0	86	Si3N4 25nm	
+	8150.4	 0.0	 0.0	86	Si3N4 25nm	
+	8153.4	 0.0	 0.0	86	Si3N4 25nm	
+	8156.4	 0.0	 0.0	85	Si3N4 25nm	
+	8159.4	 0.0	 0.0	85	Si3N4 25nm	
+	8162.4	300.0	 9.0	85	Si3N4 25nm	
+	8165.4	300.0	 3.0	85	Si3N4 25nm	
+	8168.4	300.0	 3.0	85	Si3N4 25nm	
+	8171.4	300.0	 3.0	85	Si3N4 25nm	
+	8174.4	300.0	 3.0	85	Si3N4 25nm	
+	8177.4	 0.0	 0.0	85	Si3N4 25nm	
+	8180.4	 0.0	 0.0	85	Si3N4 25nm	
+	8183.4	 0.0	 0.0	84	Si3N4 25nm	
+	8186.4	 0.0	 0.0	84	Si3N4 25nm	
+	8189.4	300.0	 0.0	84	Si3N4 25nm	
+	8192.4	300.0	 0.0	84	Si3N4 25nm	
+	8195.4	300.0	 0.0	84	Si3N4 25nm	
+	8198.4	300.0	 0.0	84	Si3N4 25nm	
+	8201.4	300.0	 0.0	84	Si3N4 25nm	
+	8204.4	 0.0	 0.0	84	Si3N4 25nm	
+	8207.4	 0.0	 0.0	84	Si3N4 25nm	
+	8210.4	 0.0	 0.0	83	Si3N4 25nm	
+	8213.4	 0.0	 0.0	83	Si3N4 25nm	
+	8216.4	300.0	 3.0	83	Si3N4 25nm	
+	8219.4	300.0	 2.0	83	Si3N4 25nm	
+	8222.4	300.0	 2.0	83	Si3N4 25nm	
+	8225.4	300.0	 3.0	83	Si3N4 25nm	
+	8228.4	300.0	 3.0	83	Si3N4 25nm	
+	8231.4	 0.0	 0.0	83	Si3N4 25nm	
+	8234.4	 0.0	 0.0	83	Si3N4 25nm	
+	8237.4	 0.0	 0.0	82	Si3N4 25nm	
+	8240.4	 0.0	 0.0	82	Si3N4 25nm	
+	8243.4	300.0	 4.0	82	Si3N4 25nm	
+	8246.4	300.0	 3.0	82	Si3N4 25nm	
+	8249.4	300.0	 3.0	82	Si3N4 25nm	
+	8252.4	300.0	 3.0	82	Si3N4 25nm	
+	8255.4	300.0	 3.0	82	Si3N4 25nm	
+	8258.4	 0.0	 0.0	82	Si3N4 25nm	
+	8261.4	 0.0	 0.0	82	Si3N4 25nm	
+	8264.4	 0.0	 0.0	81	Si3N4 25nm	
+	8267.4	 0.0	 0.0	81	Si3N4 25nm	
+	8270.4	300.0	 2.0	81	Si3N4 25nm	
+	8273.4	300.0	 2.0	81	Si3N4 25nm	
+	8276.4	300.0	 2.0	81	Si3N4 25nm	
+	8279.4	300.0	 2.0	81	Si3N4 25nm	
+	8282.4	300.0	 2.0	81	Si3N4 25nm	
+	8285.4	 0.0	 0.0	81	Si3N4 25nm	
+	8288.4	 0.0	 0.0	81	Si3N4 25nm	
+	8291.4	 0.0	 0.0	80	Si3N4 25nm	
+	8294.4	 0.0	 0.0	80	Si3N4 25nm	
+	8297.4	300.0	 0.0	80	Si3N4 25nm	
+	8300.4	300.0	 0.0	80	Si3N4 25nm	
+	8303.4	300.0	 0.0	80	Si3N4 25nm	
+	8306.4	300.0	 0.0	80	Si3N4 25nm	
+	8309.4	300.0	 0.0	80	Si3N4 25nm	
+	8312.4	 0.0	 0.0	80	Si3N4 25nm	
+	8315.4	 0.0	 0.0	80	Si3N4 25nm	
+	8318.4	 0.0	 0.0	79	Si3N4 25nm	
+	8321.4	 0.0	 0.0	79	Si3N4 25nm	
+	8324.4	300.0	 4.0	79	Si3N4 25nm	
+	8327.4	300.0	 3.0	79	Si3N4 25nm	
+	8330.4	300.0	 3.0	79	Si3N4 25nm	
+	8333.4	300.0	 3.0	79	Si3N4 25nm	
+	8336.4	300.0	 3.0	79	Si3N4 25nm	
+	8339.4	 0.0	 0.0	79	Si3N4 25nm	
+	8342.4	 0.0	 0.0	79	Si3N4 25nm	
+	8345.4	 0.0	 0.0	78	Si3N4 25nm	
+	8348.4	 0.0	 0.0	78	Si3N4 25nm	
+	8351.4	300.0	 2.0	78	Si3N4 25nm	
+	8354.4	300.0	 2.0	78	Si3N4 25nm	
+	8357.4	300.0	 2.0	78	Si3N4 25nm	
+	8360.4	300.0	 2.0	78	Si3N4 25nm	
+	8363.4	300.0	 2.0	78	Si3N4 25nm	
+	8366.4	 0.0	 0.0	78	Si3N4 25nm	
+	8369.4	 0.0	 0.0	78	Si3N4 25nm	
+	8372.4	 0.0	 0.0	77	Si3N4 25nm	
+	8375.4	 0.0	 0.0	77	Si3N4 25nm	
+	8378.4	300.0	 0.0	77	Si3N4 25nm	
+	8381.4	300.0	 0.0	77	Si3N4 25nm	
+	8384.4	300.0	 0.0	77	Si3N4 25nm	
+	8387.4	300.0	 0.0	77	Si3N4 25nm	
+	8390.4	300.0	 0.0	77	Si3N4 25nm	
+	8393.4	 0.0	 0.0	77	Si3N4 25nm	
+	8396.4	 0.0	 0.0	77	Si3N4 25nm	
+	8399.4	 0.0	 0.0	76	Si3N4 25nm	
+	8402.4	 0.0	 0.0	76	Si3N4 25nm	
+	8405.4	300.0	 3.0	76	Si3N4 25nm	
+	8408.4	300.0	 3.0	76	Si3N4 25nm	
+	8411.4	300.0	 3.0	76	Si3N4 25nm	
+	8414.4	300.0	 3.0	76	Si3N4 25nm	
+	8417.4	300.0	 3.0	76	Si3N4 25nm	
+	8420.4	 0.0	 0.0	76	Si3N4 25nm	
+	8423.4	 0.0	 0.0	76	Si3N4 25nm	
+	8426.4	 0.0	 0.0	75	Si3N4 25nm	
+	8429.4	 0.0	 0.0	75	Si3N4 25nm	
+	8432.4	300.0	 2.0	75	Si3N4 25nm	
+	8435.4	300.0	 2.0	75	Si3N4 25nm	
+	8438.4	300.0	 3.0	75	Si3N4 25nm	
+	8441.4	300.0	 3.0	75	Si3N4 25nm	
+	8444.4	300.0	 3.0	75	Si3N4 25nm	
+	8447.4	 0.0	 0.0	75	Si3N4 25nm	
+	8450.4	 0.0	 0.0	75	Si3N4 25nm	goto;016313
+	8453.4	 0.0	 0.0	74	Si3N4 25nm	
+	8456.4	 0.0	 0.0	74	Si3N4 25nm	
+	8459.4	300.0	 0.0	74	Si3N4 25nm	
+	8462.4	300.0	 0.0	74	Si3N4 25nm	
+	8465.4	300.0	 0.0	74	Si3N4 25nm	
+	8468.4	300.0	 0.0	74	Si3N4 25nm	
+	8471.4	300.0	 0.0	74	Si3N4 25nm	
+	8474.4	 0.0	 0.0	74	Si3N4 25nm	
+	8477.4	 0.0	 0.0	73	Si3N4 25nm	
+	8480.4	 0.0	 0.0	73	Si3N4 25nm	
+	8483.4	 0.0	 0.0	73	Si3N4 25nm	
+	8486.4	300.0	 4.0	73	Si3N4 25nm	
+	8489.4	300.0	 3.0	73	Si3N4 25nm	
+	8492.4	300.0	 3.0	73	Si3N4 25nm	
+	8495.4	300.0	 3.0	73	Si3N4 25nm	
+	8498.4	300.0	 3.0	73	Si3N4 25nm	
+	8501.4	 0.0	 0.0	73	Si3N4 25nm	
+	8504.4	 0.0	 0.0	72	Si3N4 25nm	
+	8507.4	 0.0	 0.0	72	Si3N4 25nm	
+	8510.4	 0.0	 0.0	72	Si3N4 25nm	
+	8513.4	300.0	 2.0	72	Si3N4 25nm	
+	8516.4	300.0	 2.0	72	Si3N4 25nm	
+	8519.4	300.0	 2.0	72	Si3N4 25nm	
+	8522.4	300.0	 2.0	72	Si3N4 25nm	
+	8525.4	300.0	 2.0	72	Si3N4 25nm	
+	8528.4	 0.0	 0.0	72	Si3N4 25nm	
+	8531.4	 0.0	 0.0	71	Si3N4 25nm	
+	8534.4	 0.0	 0.0	71	Si3N4 25nm	
+	8537.4	 0.0	 0.0	71	Si3N4 25nm	
+	8540.4	300.0	 3.0	71	Si3N4 25nm	
+	8543.4	300.0	 3.0	71	Si3N4 25nm	
+	8546.4	300.0	 3.0	71	Si3N4 25nm	
+	8549.4	300.0	 3.0	71	Si3N4 25nm	
+	8552.4	300.0	 3.0	71	Si3N4 25nm	
+	8555.4	 0.0	 0.0	71	Si3N4 25nm	
+	8558.4	 0.0	 0.0	70	Si3N4 25nm	
+	8561.4	 0.0	 0.0	70	Si3N4 25nm	
+	8564.4	 0.0	 0.0	70	Si3N4 25nm	
+	8567.4	300.0	 2.0	70	Si3N4 25nm	
+	8570.4	300.0	 2.0	70	Si3N4 25nm	
+	8573.4	300.0	 2.0	70	Si3N4 25nm	
+	8576.4	300.0	 2.0	70	Si3N4 25nm	
+	8579.4	300.0	 2.0	70	Si3N4 25nm	
+	8582.4	 0.0	 0.0	70	Si3N4 25nm	
+	8585.4	 0.0	 0.0	69	Si3N4 25nm	
+	8588.4	 0.0	 0.0	69	Si3N4 25nm	
+	8591.4	 0.0	 0.0	69	Si3N4 25nm	
+	8594.4	300.0	 0.0	69	Si3N4 25nm	
+	8597.4	300.0	 0.0	69	Si3N4 25nm	
+	8600.4	300.0	 0.0	69	Si3N4 25nm	
+	8603.4	300.0	 0.0	69	Si3N4 25nm	
+	8606.4	300.0	 0.0	69	Si3N4 25nm	
+	8609.4	 0.0	 0.0	69	Si3N4 25nm	
+	8612.4	 0.0	 0.0	68	Si3N4 25nm	
+	8615.4	 0.0	 0.0	68	Si3N4 25nm	
+	8618.4	 0.0	 0.0	68	Si3N4 25nm	
+	8621.4	300.0	 4.0	68	Si3N4 25nm	
+	8624.4	300.0	 3.0	68	Si3N4 25nm	
+	8627.4	300.0	 3.0	68	Si3N4 25nm	
+	8630.4	300.0	 3.0	68	Si3N4 25nm	
+	8633.4	300.0	 3.0	68	Si3N4 25nm	
+	8636.4	 0.0	 0.0	68	Si3N4 25nm	
+	8639.4	 0.0	 0.0	67	Si3N4 25nm	
+	8642.4	 0.0	 0.0	67	Si3N4 25nm	
+	8645.4	 0.0	 0.0	67	Si3N4 25nm	
+	8648.4	300.0	 0.0	67	Si3N4 25nm	
+	8651.4	300.0	 0.0	67	Si3N4 25nm	
+	8654.4	300.0	 0.0	67	Si3N4 25nm	
+	8657.4	300.0	 0.0	67	Si3N4 25nm	
+	8660.4	300.0	 0.0	67	Si3N4 25nm	
+	8663.4	 0.0	 0.0	67	Si3N4 25nm	
+	8666.4	 0.0	 0.0	66	Si3N4 25nm	
+	8669.4	 0.0	 0.0	66	Si3N4 25nm	
+	8672.4	 0.0	 0.0	66	Si3N4 25nm	
+	8675.4	300.0	 0.0	66	Si3N4 25nm	
+	8678.4	300.0	 0.0	66	Si3N4 25nm	
+	8681.4	300.0	 0.0	66	Si3N4 25nm	
+	8684.4	300.0	 0.0	66	Si3N4 25nm	
+	8687.4	300.0	 0.0	66	Si3N4 25nm	
+	8690.4	 0.0	 0.0	66	Si3N4 25nm	
+	8693.4	 0.0	 0.0	65	Si3N4 25nm	
+	8696.4	 0.0	 0.0	65	Si3N4 25nm	
+	8699.4	 0.0	 0.0	65	Si3N4 25nm	
+	8702.4	300.0	 3.0	65	Si3N4 25nm	
+	8705.4	300.0	 3.0	65	Si3N4 25nm	
+	8708.4	300.0	 3.0	65	Si3N4 25nm	
+	8711.4	300.0	 3.0	65	Si3N4 25nm	
+	8714.4	300.0	 3.0	65	Si3N4 25nm	
+	8717.4	 0.0	 0.0	65	Si3N4 25nm	
+	8720.4	 0.0	 0.0	64	Si3N4 25nm	
+	8723.4	 0.0	 0.0	64	Si3N4 25nm	
+	8726.4	 0.0	 0.0	64	Si3N4 25nm	
+	8729.4	300.0	 0.0	64	Si3N4 25nm	
+	8732.4	300.0	 0.0	64	Si3N4 25nm	
+	8735.4	300.0	 0.0	64	Si3N4 25nm	
+	8738.4	300.0	 0.0	64	Si3N4 25nm	
+	8741.4	300.0	 0.0	64	Si3N4 25nm	
+	8744.4	 0.0	 0.0	64	Si3N4 25nm	
+	8747.4	 0.0	 0.0	63	Si3N4 25nm	
+	8750.4	 0.0	 0.0	63	Si3N4 25nm	
+	8753.4	 0.0	 0.0	63	Si3N4 25nm	
+	8756.4	300.0	 3.0	63	Si3N4 25nm	
+	8759.4	300.0	 3.0	63	Si3N4 25nm	
+	8762.4	300.0	 3.0	63	Si3N4 25nm	
+	8765.4	300.0	 3.0	63	Si3N4 25nm	
+	8768.4	300.0	 3.0	63	Si3N4 25nm	
+	8771.4	 0.0	 0.0	63	Si3N4 25nm	
+	8774.4	 0.0	 0.0	62	Si3N4 25nm	
+	8777.4	 0.0	 0.0	62	Si3N4 25nm	

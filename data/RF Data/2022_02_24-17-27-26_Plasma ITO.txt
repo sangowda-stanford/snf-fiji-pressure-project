@@ -1,0 +1,18 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 1.5	 0.0	 0.0	11	Plasma ITO	
+	 4.5	 0.0	 0.0	11	Plasma ITO	
+	 7.5	 0.0	 0.0	11	Plasma ITO	
+	10.5	 0.0	 0.0	11	Plasma ITO	
+	13.5	 0.0	 0.0	11	Plasma ITO	
+	16.5	 0.0	 0.0	11	Plasma ITO	
+	19.5	 0.0	 0.0	11	Plasma ITO	
+	22.5	 0.0	 0.0	11	Plasma ITO	
+	25.5	 0.0	 0.0	11	Plasma ITO	
+	28.5	 0.0	 0.0	11	Plasma ITO	
+	31.5	 0.0	 0.0	11	Plasma ITO	
+	34.5	 0.0	 0.0	11	Plasma ITO	
+	37.5	 0.0	 0.0	11	Plasma ITO	
+	40.5	 0.0	 0.0	11	Plasma ITO	
+	43.5	 0.0	 0.0	11	Plasma ITO	
+	46.5	 0.0	 0.0	11	Plasma ITO	
+	49.5	 0.0	 0.0	11	Plasma ITO	

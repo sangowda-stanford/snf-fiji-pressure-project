@@ -1,0 +1,813 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 2.3	 0.0	 0.0	54		
+	 5.3	 0.0	 0.0	54		
+	 8.3	 0.0	 0.0	54		
+	11.3	 0.0	 0.0	54		
+	14.3	 0.0	 0.0	54		
+	17.3	 0.0	 0.0	54		
+	20.3	 0.0	 0.0	54		
+	23.3	 0.0	 0.0	54		
+	26.3	 0.0	 0.0	54		
+	29.3	 0.0	 0.0	54		
+	32.3	 0.0	 0.0	54		
+	35.3	 0.0	 0.0	54		
+	38.3	 0.0	 0.0	54		
+	41.3	 0.0	 0.0	54		
+	44.3	 0.0	 0.0	54		
+	47.3	 0.0	 0.0	54		
+	50.3	 0.0	 0.0	54		
+	53.3	 0.0	 0.0	54		
+	56.3	 0.0	 0.0	54		
+	59.3	 0.0	 0.0	54		
+	62.3	 0.0	 0.0	54		
+	65.3	 0.0	 0.0	54		
+	68.3	 0.0	 0.0	54		
+	71.3	 0.0	 0.0	54		
+	74.3	 0.0	 0.0	54		
+	77.3	 0.0	 0.0	54		
+	80.3	 0.0	 0.0	54		
+	83.3	 0.0	 0.0	54		
+	86.3	 0.0	 0.0	54		
+	89.3	 0.0	 0.0	54		
+	92.3	 0.0	 0.0	54		
+	95.3	 0.0	 0.0	54		
+	98.3	 0.0	 0.0	54		
+	101.3	 0.0	 0.0	54		
+	104.3	 0.0	 0.0	54		
+	107.3	 0.0	 0.0	54		
+	110.3	 0.0	 0.0	54		
+	113.3	 0.0	 0.0	54		
+	116.3	 0.0	 0.0	54		
+	119.3	 0.0	 0.0	54		
+	122.3	 0.0	 0.0	54		
+	125.3	 0.0	 0.0	54		
+	128.3	 0.0	 0.0	54		
+	131.3	 0.0	 0.0	54		
+	134.3	 0.0	 0.0	54		
+	137.3	 0.0	 0.0	54		
+	140.3	 0.0	 0.0	54		
+	143.3	 0.0	 0.0	54		
+	146.3	 0.0	 0.0	54		
+	149.3	 0.0	 0.0	54		
+	152.3	 0.0	 0.0	54		
+	155.3	 0.0	 0.0	54		
+	158.3	 0.0	 0.0	54		
+	161.3	 0.0	 0.0	54		
+	164.3	 0.0	 0.0	54		
+	167.3	 0.0	 0.0	54		
+	170.3	 0.0	 0.0	54		
+	173.3	 0.0	 0.0	54		
+	176.3	 0.0	 0.0	54		
+	179.3	 0.0	 0.0	54		
+	182.3	 0.0	 0.0	54		
+	185.3	 0.0	 0.0	54		
+	188.3	 0.0	 0.0	54		
+	191.3	 0.0	 0.0	54		
+	194.3	 0.0	 0.0	54		
+	197.3	 0.0	 0.0	54		
+	200.3	 0.0	 0.0	54		
+	203.3	 0.0	 0.0	54		
+	206.3	 0.0	 0.0	54		
+	209.3	 0.0	 0.0	54		
+	212.3	 0.0	 0.0	54		
+	215.3	 0.0	 0.0	54		
+	218.3	 0.0	 0.0	54		
+	221.3	 0.0	 0.0	54		
+	224.3	 0.0	 0.0	54		
+	227.3	 0.0	 0.0	54		
+	230.3	 0.0	 0.0	54		
+	233.3	 0.0	 0.0	54		
+	236.3	300.0	 8.0	54		
+	239.3	300.0	 6.0	54		
+	242.3	300.0	 2.0	54		
+	245.3	300.0	 3.0	54		
+	248.3	300.0	 3.0	54		
+	251.3	300.0	 3.0	54		
+	254.3	 0.0	 0.0	54		
+	257.3	 0.0	 0.0	54		
+	260.3	 0.0	 0.0	54		
+	263.3	 0.0	 0.0	54		
+	266.3	 0.0	 0.0	23		
+	269.3	 0.0	 0.0	23		
+	272.3	 0.0	 0.0	23		
+	275.3	 0.0	 0.0	23		
+	278.3	300.0	 2.0	23		
+	281.3	300.0	 2.0	23		
+	284.3	300.0	 2.0	23		
+	287.3	300.0	 2.0	23		
+	290.3	300.0	 2.0	23		
+	293.3	300.0	 2.0	23		
+	296.3	 0.0	 0.0	23		
+	299.3	 0.0	 0.0	23		
+	302.3	 0.0	 0.0	23		
+	305.3	 0.0	 0.0	23		
+	308.3	 0.0	 0.0	22		
+	311.3	 0.0	 0.0	22		
+	314.3	 0.0	 0.0	22		
+	317.3	 0.0	 0.0	22		
+	320.3	300.0	 0.0	22		
+	323.3	300.0	 0.0	22		
+	326.3	300.0	 0.0	22		
+	329.3	300.0	 0.0	22		
+	332.3	300.0	 0.0	22		
+	335.3	300.0	 0.0	22		
+	338.3	 0.0	 0.0	22		
+	341.3	 0.0	 0.0	22		
+	344.3	 0.0	 0.0	22		
+	347.3	 0.0	 0.0	22		
+	350.3	 0.0	 0.0	21		
+	353.3	 0.0	 0.0	21		
+	356.3	 0.0	 0.0	21		
+	359.3	 0.0	 0.0	21		
+	362.3	300.0	 0.0	21		
+	365.3	300.0	 0.0	21		
+	368.3	300.0	 0.0	21		
+	371.3	300.0	 0.0	21		
+	374.3	300.0	 0.0	21		
+	377.3	300.0	 0.0	21		
+	380.3	 0.0	 0.0	21		
+	383.3	 0.0	 0.0	21		
+	386.3	 0.0	 0.0	21		
+	389.3	 0.0	 0.0	20		
+	392.3	 0.0	 0.0	20		
+	395.3	 0.0	 0.0	20		
+	398.3	 0.0	 0.0	20		
+	401.3	282.0	35.0	20		
+	404.3	300.0	 0.0	20		
+	407.3	300.0	 0.0	20		
+	410.3	300.0	 0.0	20		
+	413.3	300.0	 0.0	20		
+	416.3	300.0	 0.0	20		
+	419.3	300.0	 0.0	20		
+	422.3	 0.0	 0.0	20		
+	425.3	 0.0	 0.0	20		
+	428.3	 0.0	 0.0	20		
+	431.3	 0.0	 0.0	19		
+	434.3	 0.0	 0.0	19		
+	437.3	 0.0	 0.0	19		
+	440.3	 0.0	 0.0	19		
+	443.3	300.0	19.0	19		
+	446.3	300.0	 0.0	19		
+	449.3	300.0	 0.0	19		
+	452.3	300.0	 0.0	19		
+	455.3	300.0	 0.0	19		
+	458.3	300.0	 0.0	19		
+	461.3	300.0	 0.0	19		
+	464.3	 0.0	 0.0	19		
+	467.3	 0.0	 0.0	19		
+	470.3	 0.0	 0.0	19		
+	473.3	 0.0	 0.0	18		
+	476.3	 0.0	 0.0	18		
+	479.3	 0.0	 0.0	18		
+	482.3	 0.0	 0.0	18		
+	485.3	321.0	11.0	18		
+	488.3	300.0	 0.0	18		
+	491.3	300.0	 0.0	18		
+	494.3	300.0	 0.0	18		
+	497.3	300.0	 0.0	18		
+	500.3	300.0	 0.0	18		
+	503.3	300.0	 0.0	18		
+	506.3	 0.0	 0.0	18		
+	509.3	 0.0	 0.0	18		
+	512.3	 0.0	 0.0	18		
+	515.3	 0.0	 0.0	17		
+	518.3	 0.0	 0.0	17		
+	521.3	 0.0	 0.0	17		
+	524.3	 0.0	 0.0	17		
+	527.3	300.0	29.0	17		
+	530.3	300.0	 3.0	17		
+	533.3	300.0	 3.0	17		
+	536.3	300.0	 3.0	17		
+	539.3	300.0	 3.0	17		
+	542.3	300.0	 3.0	17		
+	545.3	300.0	 3.0	17		
+	548.3	 0.0	 0.0	17		
+	551.3	 0.0	 0.0	17		
+	554.3	 0.0	 0.0	17		
+	557.3	 0.0	 0.0	16		
+	560.3	 0.0	 0.0	16		
+	563.3	 0.0	 0.0	16		
+	566.3	 0.0	 0.0	16		
+	569.3	300.0	 0.0	16		
+	572.3	300.0	 0.0	16		
+	575.3	300.0	 0.0	16		
+	578.3	300.0	 0.0	16		
+	581.3	300.0	 0.0	16		
+	584.3	300.0	 0.0	16		
+	587.3	300.0	 0.0	16		
+	590.3	 0.0	 0.0	16		
+	593.3	 0.0	 0.0	16		
+	596.3	 0.0	 0.0	16		
+	599.3	 0.0	 0.0	15		
+	602.3	 0.0	 0.0	15		
+	605.3	 0.0	 0.0	15		
+	608.3	 0.0	 0.0	15		
+	611.3	315.0	 7.0	15		
+	614.3	300.0	 3.0	15		
+	617.3	300.0	 3.0	15		
+	620.3	300.0	 3.0	15		
+	623.3	300.0	 3.0	15		
+	626.3	300.0	 3.0	15		
+	629.3	300.0	 3.0	15		
+	632.3	 0.0	 0.0	15		
+	635.3	 0.0	 0.0	15		
+	638.3	 0.0	 0.0	15		
+	641.3	 0.0	 0.0	14		
+	644.3	 0.0	 0.0	14		
+	647.3	 0.0	 0.0	14		
+	650.3	 0.0	 0.0	14		
+	653.3	300.0	 0.0	14		
+	656.3	300.0	 0.0	14		
+	659.3	300.0	 0.0	14		
+	662.3	300.0	 0.0	14		
+	665.3	300.0	 0.0	14		
+	668.3	300.0	 0.0	14		
+	671.3	300.0	 0.0	14		
+	674.3	 0.0	 0.0	14		
+	677.3	 0.0	 0.0	14		
+	680.3	 0.0	 0.0	14		
+	683.3	 0.0	 0.0	13		
+	686.3	 0.0	 0.0	13		
+	689.3	 0.0	 0.0	13		
+	692.3	 0.0	 0.0	13		
+	695.3	300.0	 0.0	13		
+	698.3	300.0	 1.0	13		
+	701.3	300.0	 1.0	13		
+	704.3	300.0	 1.0	13		
+	707.3	300.0	 1.0	13		
+	710.3	300.0	 1.0	13		
+	713.3	300.0	 1.0	13		
+	716.3	 0.0	 0.0	13		
+	719.3	 0.0	 0.0	13		
+	722.3	 0.0	 0.0	13		
+	725.3	 0.0	 0.0	12		
+	728.3	 0.0	 0.0	12		
+	731.3	 0.0	 0.0	12		
+	734.3	 0.0	 0.0	12		
+	737.3	300.0	 3.0	12		
+	740.3	300.0	 3.0	12		
+	743.3	300.0	 3.0	12		
+	746.3	300.0	 3.0	12		
+	749.3	300.0	 3.0	12		
+	752.3	300.0	 3.0	12		
+	755.3	 0.0	 0.0	12		
+	758.3	 0.0	 0.0	12	Plasma IWO with boost_quantum	
+	761.3	 0.0	 0.0	12	Plasma IWO with boost_quantum	
+	764.3	 0.0	 0.0	12	Plasma IWO with boost_quantum	
+	767.3	 0.0	 0.0	11	Plasma IWO with boost_quantum	
+	770.3	 0.0	 0.0	11	Plasma IWO with boost_quantum	
+	773.3	 0.0	 0.0	11	Plasma IWO with boost_quantum	
+	776.3	 0.0	 0.0	11	Plasma IWO with boost_quantum	
+	779.3	300.0	 0.0	11	Plasma IWO with boost_quantum	
+	782.3	300.0	 0.0	11	Plasma IWO with boost_quantum	
+	785.3	300.0	 0.0	11	Plasma IWO with boost_quantum	
+	788.3	300.0	 0.0	11	Plasma IWO with boost_quantum	
+	791.3	300.0	 0.0	11	Plasma IWO with boost_quantum	
+	794.3	300.0	 0.0	11	Plasma IWO with boost_quantum	
+	797.3	 0.0	 0.0	11	Plasma IWO with boost_quantum	
+	800.3	 0.0	 0.0	11	Plasma IWO with boost_quantum	
+	803.3	 0.0	 0.0	11	Plasma IWO with boost_quantum	
+	806.3	 0.0	 0.0	11	Plasma IWO with boost_quantum	
+	809.3	 0.0	 0.0	10	Plasma IWO with boost_quantum	
+	812.3	 0.0	 0.0	10	Plasma IWO with boost_quantum	
+	815.3	 0.0	 0.0	10	Plasma IWO with boost_quantum	
+	818.3	 0.0	 0.0	10	Plasma IWO with boost_quantum	
+	821.3	300.0	 3.0	10	Plasma IWO with boost_quantum	
+	824.3	300.0	 3.0	10	Plasma IWO with boost_quantum	
+	827.3	300.0	 3.0	10	Plasma IWO with boost_quantum	
+	830.3	300.0	 3.0	10	Plasma IWO with boost_quantum	
+	833.3	300.0	 3.0	10	Plasma IWO with boost_quantum	
+	836.3	300.0	 3.0	10	Plasma IWO with boost_quantum	
+	839.3	 0.0	 0.0	10	Plasma IWO with boost_quantum	
+	842.3	 0.0	 0.0	10	Plasma IWO with boost_quantum	
+	845.3	 0.0	 0.0	10	Plasma IWO with boost_quantum	
+	848.3	 0.0	 0.0	10	Plasma IWO with boost_quantum	
+	851.3	 0.0	 0.0	9	Plasma IWO with boost_quantum	
+	854.3	 0.0	 0.0	9	Plasma IWO with boost_quantum	
+	857.3	 0.0	 0.0	9	Plasma IWO with boost_quantum	
+	860.3	104.0	50.0	9	Plasma IWO with boost_quantum	
+	863.3	300.0	 0.0	9	Plasma IWO with boost_quantum	
+	866.3	300.0	 0.0	9	Plasma IWO with boost_quantum	
+	869.3	300.0	 0.0	9	Plasma IWO with boost_quantum	
+	872.3	300.0	 0.0	9	Plasma IWO with boost_quantum	
+	875.3	300.0	 0.0	9	Plasma IWO with boost_quantum	
+	878.3	300.0	 0.0	9	Plasma IWO with boost_quantum	
+	881.3	 0.0	 0.0	9	Plasma IWO with boost_quantum	
+	884.3	 0.0	 0.0	9	Plasma IWO with boost_quantum	
+	887.3	 0.0	 0.0	9	Plasma IWO with boost_quantum	
+	890.3	 0.0	 0.0	8	Plasma IWO with boost_quantum	
+	893.3	 0.0	 0.0	8	Plasma IWO with boost_quantum	
+	896.3	 0.0	 0.0	8	Plasma IWO with boost_quantum	
+	899.3	 0.0	 0.0	8	Plasma IWO with boost_quantum	
+	902.3	131.0	50.0	8	Plasma IWO with boost_quantum	
+	905.3	300.0	 3.0	8	Plasma IWO with boost_quantum	
+	908.3	300.0	 3.0	8	Plasma IWO with boost_quantum	
+	911.3	300.0	 3.0	8	Plasma IWO with boost_quantum	
+	914.3	300.0	 3.0	8	Plasma IWO with boost_quantum	
+	917.3	300.0	 3.0	8	Plasma IWO with boost_quantum	
+	920.3	300.0	 3.0	8	Plasma IWO with boost_quantum	
+	923.3	 0.0	 0.0	8	Plasma IWO with boost_quantum	
+	926.3	 0.0	 0.0	8	Plasma IWO with boost_quantum	
+	929.3	 0.0	 0.0	8	Plasma IWO with boost_quantum	
+	932.3	 0.0	 0.0	7	Plasma IWO with boost_quantum	
+	935.3	 0.0	 0.0	7	Plasma IWO with boost_quantum	
+	938.3	 0.0	 0.0	7	Plasma IWO with boost_quantum	
+	941.3	 0.0	 0.0	7	Plasma IWO with boost_quantum	
+	944.3	281.0	36.0	7	Plasma IWO with boost_quantum	
+	947.3	300.0	 0.0	7	Plasma IWO with boost_quantum	
+	950.3	300.0	 0.0	7	Plasma IWO with boost_quantum	
+	953.3	300.0	 0.0	7	Plasma IWO with boost_quantum	
+	956.3	300.0	 0.0	7	Plasma IWO with boost_quantum	
+	959.3	300.0	 0.0	7	Plasma IWO with boost_quantum	
+	962.3	300.0	 0.0	7	Plasma IWO with boost_quantum	
+	965.3	 0.0	 0.0	7	Plasma IWO with boost_quantum	
+	968.3	 0.0	 0.0	7	Plasma IWO with boost_quantum	
+	971.3	 0.0	 0.0	7	Plasma IWO with boost_quantum	
+	974.3	 0.0	 0.0	6	Plasma IWO with boost_quantum	
+	977.3	 0.0	 0.0	6	Plasma IWO with boost_quantum	
+	980.3	 0.0	 0.0	6	Plasma IWO with boost_quantum	
+	983.3	 0.0	 0.0	6	Plasma IWO with boost_quantum	
+	986.3	287.0	 5.0	6	Plasma IWO with boost_quantum	
+	989.3	300.0	 0.0	6	Plasma IWO with boost_quantum	
+	992.3	300.0	 0.0	6	Plasma IWO with boost_quantum	
+	995.3	300.0	 0.0	6	Plasma IWO with boost_quantum	
+	998.3	300.0	 0.0	6	Plasma IWO with boost_quantum	
+	1001.3	300.0	 0.0	6	Plasma IWO with boost_quantum	
+	1004.3	300.0	 0.0	6	Plasma IWO with boost_quantum	
+	1007.3	 0.0	 0.0	6	Plasma IWO with boost_quantum	
+	1010.3	 0.0	 0.0	6	Plasma IWO with boost_quantum	
+	1013.3	 0.0	 0.0	6	Plasma IWO with boost_quantum	
+	1016.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1019.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1022.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1025.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1028.3	326.0	 0.0	5	Plasma IWO with boost_quantum	
+	1031.3	300.0	 0.0	5	Plasma IWO with boost_quantum	
+	1034.3	300.0	 0.0	5	Plasma IWO with boost_quantum	
+	1037.3	300.0	 0.0	5	Plasma IWO with boost_quantum	
+	1040.3	300.0	 0.0	5	Plasma IWO with boost_quantum	
+	1043.3	300.0	 0.0	5	Plasma IWO with boost_quantum	
+	1046.3	300.0	 0.0	5	Plasma IWO with boost_quantum	
+	1049.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1052.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1055.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1058.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1061.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1064.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1067.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1070.3	319.0	16.0	4	Plasma IWO with boost_quantum	
+	1073.3	300.0	 3.0	4	Plasma IWO with boost_quantum	
+	1076.3	300.0	 3.0	4	Plasma IWO with boost_quantum	
+	1079.3	300.0	 3.0	4	Plasma IWO with boost_quantum	
+	1082.3	300.0	 3.0	4	Plasma IWO with boost_quantum	
+	1085.3	300.0	 3.0	4	Plasma IWO with boost_quantum	
+	1088.3	300.0	 3.0	4	Plasma IWO with boost_quantum	
+	1091.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1094.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1097.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1100.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1103.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1106.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1109.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1112.3	320.0	16.0	3	Plasma IWO with boost_quantum	
+	1115.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1118.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1121.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1124.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1127.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1130.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1133.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1136.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1139.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1142.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1145.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1148.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1151.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1154.3	311.0	 8.0	2	Plasma IWO with boost_quantum	
+	1157.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1160.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1163.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1166.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1169.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1172.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1175.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1178.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1181.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1184.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1187.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1190.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1193.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1196.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1199.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1202.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1205.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1208.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1211.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1214.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1217.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1220.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1223.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1226.3	 0.0	 0.0	0	Plasma IWO with boost_quantum	
+	1229.3	 0.0	 0.0	0	Plasma IWO with boost_quantum	
+	1232.3	 0.0	 0.0	0	Plasma IWO with boost_quantum	
+	1235.3	 0.0	 0.0	0	Plasma IWO with boost_quantum	
+	1238.3	 0.0	 0.0	0	Plasma IWO with boost_quantum	
+	1241.3	300.0	 0.0	0	Plasma IWO with boost_quantum	
+	1244.3	300.0	 0.0	0	Plasma IWO with boost_quantum	
+	1247.3	300.0	 0.0	0	Plasma IWO with boost_quantum	
+	1250.3	 0.0	 0.0	0	Plasma IWO with boost_quantum	
+	1253.3	 0.0	 0.0	0	Plasma IWO with boost_quantum	
+	1256.3	 0.0	 0.0	0	Plasma IWO with boost_quantum	
+	1259.3	 0.0	 0.0	0	Plasma IWO with boost_quantum	
+	1262.3	 0.0	 0.0	0	Plasma IWO with boost_quantum	
+	1265.3	 0.0	 0.0	0	Plasma IWO with boost_quantum	
+	1268.3	 0.0	 0.0	0	Plasma IWO with boost_quantum	
+	1271.3	289.0	30.0	0	Plasma IWO with boost_quantum	
+	1274.3	300.0	 0.0	0	Plasma IWO with boost_quantum	
+	1277.3	300.0	 0.0	0	Plasma IWO with boost_quantum	
+	1280.3	300.0	 0.0	0	Plasma IWO with boost_quantum	
+	1283.3	300.0	 0.0	0	Plasma IWO with boost_quantum	
+	1286.3	300.0	 0.0	0	Plasma IWO with boost_quantum	
+	1289.3	300.0	 0.0	0	Plasma IWO with boost_quantum	
+	1292.3	 0.0	 0.0	0	Plasma IWO with boost_quantum	
+	1295.3	 0.0	 0.0	0	Plasma IWO with boost_quantum	
+	1298.3	 0.0	 0.0	0	Plasma IWO with boost_quantum	
+	1301.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1304.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1307.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1310.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1313.3	271.0	43.0	3	Plasma IWO with boost_quantum	
+	1316.3	300.0	 1.0	3	Plasma IWO with boost_quantum	
+	1319.3	300.0	 2.0	3	Plasma IWO with boost_quantum	
+	1322.3	300.0	 2.0	3	Plasma IWO with boost_quantum	
+	1325.3	300.0	 2.0	3	Plasma IWO with boost_quantum	
+	1328.3	300.0	 2.0	3	Plasma IWO with boost_quantum	
+	1331.3	300.0	 2.0	3	Plasma IWO with boost_quantum	
+	1334.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1337.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1340.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1343.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1346.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1349.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1352.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1355.3	327.0	 7.0	2	Plasma IWO with boost_quantum	
+	1358.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1361.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1364.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1367.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1370.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1373.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1376.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1379.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1382.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1385.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1388.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1391.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1394.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1397.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1400.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1403.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1406.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1409.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1412.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1415.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1418.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1421.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1424.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1427.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1430.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1433.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1436.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1439.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1442.3	300.0	 0.0	5	Plasma IWO with boost_quantum	
+	1445.3	300.0	 0.0	5	Plasma IWO with boost_quantum	
+	1448.3	300.0	 0.0	5	Plasma IWO with boost_quantum	
+	1451.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1454.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1457.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1460.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1463.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1466.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1469.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1472.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1475.3	300.0	 3.0	5	Plasma IWO with boost_quantum	
+	1478.3	300.0	 3.0	5	Plasma IWO with boost_quantum	
+	1481.3	300.0	 3.0	5	Plasma IWO with boost_quantum	
+	1484.3	300.0	 3.0	5	Plasma IWO with boost_quantum	
+	1487.3	300.0	 3.0	5	Plasma IWO with boost_quantum	
+	1490.3	300.0	 3.0	5	Plasma IWO with boost_quantum	
+	1493.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1496.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1499.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1502.3	 0.0	 0.0	5	Plasma IWO with boost_quantum	
+	1505.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1508.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1511.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1514.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1517.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1520.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1523.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1526.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1529.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1532.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1535.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1538.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1541.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1544.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1547.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1550.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1553.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1556.3	124.0	16.0	2	Plasma IWO with boost_quantum	
+	1559.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	1562.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	1565.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	1568.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	1571.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	1574.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	1577.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1580.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1583.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1586.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1589.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1592.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1595.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1598.3	172.0	50.0	1	Plasma IWO with boost_quantum	
+	1601.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	1604.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	1607.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	1610.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	1613.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	1616.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	1619.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1622.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1625.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1628.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1631.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1634.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1637.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1640.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1643.3	197.0	50.0	4	Plasma IWO with boost_quantum	
+	1646.3	300.0	 3.0	4	Plasma IWO with boost_quantum	
+	1649.3	300.0	 3.0	4	Plasma IWO with boost_quantum	
+	1652.3	300.0	 3.0	4	Plasma IWO with boost_quantum	
+	1655.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1658.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1661.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1664.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1667.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1670.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1673.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1676.3	300.0	 0.0	4	Plasma IWO with boost_quantum	
+	1679.3	300.0	 0.0	4	Plasma IWO with boost_quantum	
+	1682.3	300.0	 0.0	4	Plasma IWO with boost_quantum	
+	1685.3	300.0	 0.0	4	Plasma IWO with boost_quantum	
+	1688.3	300.0	 0.0	4	Plasma IWO with boost_quantum	
+	1691.3	300.0	 0.0	4	Plasma IWO with boost_quantum	
+	1694.3	300.0	 0.0	4	Plasma IWO with boost_quantum	
+	1697.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1700.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1703.3	 0.0	 0.0	4	Plasma IWO with boost_quantum	
+	1706.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1709.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1712.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1715.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1718.3	300.0	 5.0	3	Plasma IWO with boost_quantum	
+	1721.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1724.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1727.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1730.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1733.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1736.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1739.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1742.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1745.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1748.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1751.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1754.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1757.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1760.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1763.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1766.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1769.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1772.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1775.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	1778.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1781.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1784.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1787.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1790.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1793.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1796.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1799.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1802.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1805.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1808.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1811.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1814.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1817.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	1820.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1823.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1826.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1829.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1832.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1835.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1838.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1841.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1844.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1847.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1850.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1853.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1856.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1859.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1862.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1865.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1868.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1871.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1874.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1877.3	321.0	 3.0	3	Plasma IWO with boost_quantum	
+	1880.3	300.0	 2.0	3	Plasma IWO with boost_quantum	
+	1883.3	300.0	 2.0	3	Plasma IWO with boost_quantum	
+	1886.3	300.0	 2.0	3	Plasma IWO with boost_quantum	
+	1889.3	300.0	 2.0	3	Plasma IWO with boost_quantum	
+	1892.3	300.0	 2.0	3	Plasma IWO with boost_quantum	
+	1895.3	300.0	 2.0	3	Plasma IWO with boost_quantum	
+	1898.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1901.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1904.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1907.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1910.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1913.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1916.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1919.3	321.0	16.0	3	Plasma IWO with boost_quantum	
+	1922.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1925.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1928.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1931.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1934.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1937.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	1940.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1943.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1946.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	1949.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1952.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1955.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1958.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1961.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	1964.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	1967.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	1970.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	1973.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	1976.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	1979.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	1982.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1985.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1988.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	1991.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1994.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	1997.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2000.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2003.3	300.0	 4.0	1	Plasma IWO with boost_quantum	
+	2006.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2009.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2012.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2015.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2018.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2021.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2024.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2027.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2030.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2033.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2036.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2039.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2042.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2045.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2048.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	2051.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	2054.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	2057.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2060.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2063.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2066.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2069.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2072.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2075.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2078.3	284.0	36.0	2	Plasma IWO with boost_quantum	
+	2081.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	2084.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	2087.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	2090.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	2093.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	2096.3	300.0	 0.0	2	Plasma IWO with boost_quantum	
+	2099.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2102.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2105.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2108.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	2111.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	2114.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	2117.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	2120.3	161.0	50.0	3	Plasma IWO with boost_quantum	
+	2123.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	2126.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	2129.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	2132.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	2135.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	2138.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	2141.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	2144.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	2147.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	2150.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2153.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2156.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2159.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2162.3	216.0	50.0	2	Plasma IWO with boost_quantum	
+	2165.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	2168.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	2171.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	2174.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	2177.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	2180.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	2183.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2186.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2189.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2192.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2195.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2198.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2201.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2204.3	311.0	 5.0	1	Plasma IWO with boost_quantum	
+	2207.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	2210.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	2213.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	2216.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	2219.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	2222.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	2225.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2228.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2231.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2234.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2237.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2240.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2243.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2246.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2249.3	331.0	 0.0	1	Plasma IWO with boost_quantum	
+	2252.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	2255.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	2258.3	300.0	 0.0	1	Plasma IWO with boost_quantum	
+	2261.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2264.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2267.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2270.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2273.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2276.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2279.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2282.3	300.0	 4.0	1	Plasma IWO with boost_quantum	
+	2285.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2288.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2291.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2294.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2297.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2300.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2303.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2306.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2309.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2312.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	2315.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	2318.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	2321.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	2324.3	300.0	 4.0	3	Plasma IWO with boost_quantum	
+	2327.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	2330.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	2333.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	2336.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	2339.3	300.0	 3.0	3	Plasma IWO with boost_quantum	
+	2342.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	2345.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	2348.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	2351.3	 0.0	 0.0	3	Plasma IWO with boost_quantum	
+	2354.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2357.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2360.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2363.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2366.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	2369.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	2372.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	2375.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	2378.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	2381.3	300.0	 3.0	2	Plasma IWO with boost_quantum	
+	2384.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2387.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2390.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	
+	2393.3	 0.0	 0.0	2	Plasma IWO with boost_quantum	goto;1344
+	2396.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2399.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2402.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2405.3	105.0	50.0	1	Plasma IWO with boost_quantum	
+	2408.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2411.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2414.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2417.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2420.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2423.3	300.0	 3.0	1	Plasma IWO with boost_quantum	
+	2426.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2429.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2432.3	 0.0	 0.0	1	Plasma IWO with boost_quantum	
+	2435.3	 0.0	 0.0	0	Plasma IWO with boost_quantum	

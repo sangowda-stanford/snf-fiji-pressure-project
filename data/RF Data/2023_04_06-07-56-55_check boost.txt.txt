@@ -1,0 +1,18 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 1.5	 0.0	 0.0	20	check boost.txt	
+	 4.5	 0.0	 0.0	20	check boost.txt	
+	 7.5	 0.0	 0.0	20	check boost.txt	
+	10.5	 0.0	 0.0	20	check boost.txt	
+	13.5	 0.0	 0.0	20	check boost.txt	
+	16.5	 0.0	 0.0	20	check boost.txt	
+	19.5	 0.0	 0.0	20	check boost.txt	
+	22.5	 0.0	 0.0	20	check boost.txt	
+	25.5	 0.0	 0.0	20	check boost.txt	
+	28.5	 0.0	 0.0	19	check boost.txt	
+	31.5	 0.0	 0.0	19	check boost.txt	
+	34.5	 0.0	 0.0	19	check boost.txt	
+	37.5	 0.0	 0.0	19	check boost.txt	
+	40.5	 0.0	 0.0	18	check boost.txt	
+	43.5	 0.0	 0.0	18	check boost.txt	
+	46.5	 0.0	 0.0	18	check boost.txt	
+	49.5	 0.0	 0.0	18	check boost.txt	

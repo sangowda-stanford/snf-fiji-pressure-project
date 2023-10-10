@@ -1,0 +1,6 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 1.3	 0.0	 0.0	100	Plasma AlN_H2N2_5s_purge_season_20220808.txt	
+	 4.3	 0.0	 0.0	100	Plasma AlN_H2N2_5s_purge_season_20220808.txt	
+	 7.3	 0.0	 0.0	100	Plasma AlN_H2N2_5s_purge_season_20220808.txt	
+	10.3	 0.0	 0.0	100	Plasma AlN_H2N2_5s_purge_season_20220808.txt	
+	13.3	300.0	 0.0	100	Plasma AlN_H2N2_5s_purge_season_20220808.txt	

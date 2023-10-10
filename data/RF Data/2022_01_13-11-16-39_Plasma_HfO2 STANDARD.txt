@@ -1,0 +1,5 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 1.8	 0.0	 0.0	100	Plasma_HfO2 STANDARD	
+	 4.8	 0.0	 0.0	100	Plasma_HfO2 STANDARD	
+	 7.8	 0.0	 0.0	100	Plasma_HfO2 STANDARD	
+	10.8	 0.0	 0.0	100	Plasma_HfO2 STANDARD	

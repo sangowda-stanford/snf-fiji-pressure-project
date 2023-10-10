@@ -1,0 +1,10 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 2.7	 0.0	 0.0	60	Plasma TiN_Nikita.txt	
+	 5.7	 0.0	 0.0	60	Plasma TiN_Nikita.txt	
+	 8.7	 0.0	 0.0	60	Plasma TiN_Nikita.txt	
+	11.7	 0.0	 0.0	60	Plasma TiN_Nikita.txt	
+	14.7	300.0	 1.0	60	Plasma TiN_Nikita.txt	
+	17.7	300.0	 1.0	60	Plasma TiN_Nikita.txt	
+	20.7	300.0	 0.0	60	Plasma TiN_Nikita.txt	
+	23.7	300.0	 0.0	60	Plasma TiN_Nikita.txt	
+	26.7	300.0	 0.0	60	Plasma TiN_Nikita.txt	

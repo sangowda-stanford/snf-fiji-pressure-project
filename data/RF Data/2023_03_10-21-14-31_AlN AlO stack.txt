@@ -1,0 +1,8 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 2.7	 0.0	 0.0	68	AlN AlO stack	
+	 5.7	 0.0	 0.0	68	AlN AlO stack	
+	 8.7	 0.0	 0.0	68	AlN AlO stack	
+	11.7	 0.0	 0.0	68	AlN AlO stack	
+	14.7	 0.0	 0.0	68	AlN AlO stack	
+	17.7	 0.0	 0.0	68	AlN AlO stack	
+	20.7	 0.0	 0.0	68	AlN AlO stack	

@@ -1,0 +1,18 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 0.6	 0.0	 0.0	83	Plasma SiO2 from 3DMAS	
+	 3.6	 0.0	 0.0	83	Plasma SiO2 from 3DMAS	
+	 6.6	 0.0	 0.0	83	Plasma SiO2 from 3DMAS	
+	 9.6	 0.0	 0.0	83	Plasma SiO2 from 3DMAS	
+	12.6	 0.0	 0.0	83	Plasma SiO2 from 3DMAS	
+	15.6	 0.0	 0.0	83	Plasma SiO2 from 3DMAS	
+	18.6	 0.0	 0.0	83	Plasma SiO2 from 3DMAS	
+	21.6	 0.0	 0.0	83	Plasma SiO2 from 3DMAS	
+	24.6	 0.0	 0.0	83	Plasma SiO2 from 3DMAS	
+	27.6	 0.0	 0.0	83	Plasma SiO2 from 3DMAS	
+	30.6	 0.0	 0.0	83	Plasma SiO2 from 3DMAS	
+	33.6	94.0	50.0	83	Plasma SiO2 from 3DMAS	
+	36.6	300.0	 2.0	83	Plasma SiO2 from 3DMAS	
+	39.6	300.0	 1.0	83	Plasma SiO2 from 3DMAS	
+	42.6	300.0	 1.0	83	Plasma SiO2 from 3DMAS	
+	45.6	300.0	 1.0	83	Plasma SiO2 from 3DMAS	
+	48.6	300.0	 1.0	83	Plasma SiO2 from 3DMAS	

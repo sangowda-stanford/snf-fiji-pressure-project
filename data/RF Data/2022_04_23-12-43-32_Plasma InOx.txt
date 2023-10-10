@@ -1,0 +1,20 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 1.1	 0.0	 0.0	100	Plasma InOx	
+	 4.1	 0.0	 0.0	100	Plasma InOx	
+	 7.1	 0.0	 0.0	100	Plasma InOx	
+	10.1	 0.0	 0.0	100	Plasma InOx	
+	13.1	 0.0	 0.0	100	Plasma InOx	
+	16.1	 0.0	 0.0	100	Plasma InOx	
+	19.1	 0.0	 0.0	100	Plasma InOx	
+	22.1	 0.0	 0.0	100	Plasma InOx	
+	25.1	 0.0	 0.0	100	Plasma InOx	
+	28.1	 0.0	 0.0	100	Plasma InOx	
+	31.1	 0.0	 0.0	100	Plasma InOx	
+	34.1	 0.0	 0.0	100	Plasma InOx	
+	37.1	 0.0	 0.0	100	Plasma InOx	
+	40.1	 0.0	 0.0	100	Plasma InOx	
+	43.1	 0.0	 0.0	100	Plasma InOx	
+	46.1	 0.0	 0.0	100	Plasma InOx	
+	49.1	 0.0	 0.0	100	Plasma InOx	
+	52.1	 0.0	 0.0	100	Plasma InOx	
+	55.1	 0.0	 0.0	100	Plasma InOx	

@@ -1,0 +1,35 @@
+	RF Time	For Pwr (W) 	Refl Pwr (W)	Cycles Remaining	Recipe	Loop
+	 2.0	 0.0	 0.0	20	ALD1 Purge Headspace.txt	
+	 5.0	 0.0	 0.0	20	ALD1 Purge Headspace.txt	
+	 8.0	 0.0	 0.0	20	ALD1 Purge Headspace.txt	
+	11.0	 0.0	 0.0	20	ALD1 Purge Headspace.txt	
+	14.0	 0.0	 0.0	20	ALD1 Purge Headspace.txt	
+	17.0	 0.0	 0.0	20	ALD1 Purge Headspace.txt	
+	20.0	 0.0	 0.0	20	ALD1 Purge Headspace.txt	
+	23.0	 0.0	 0.0	19	ALD1 Purge Headspace.txt	
+	26.0	 0.0	 0.0	19	ALD1 Purge Headspace.txt	
+	29.0	 0.0	 0.0	18	ALD1 Purge Headspace.txt	
+	32.0	 0.0	 0.0	18	ALD1 Purge Headspace.txt	
+	35.0	 0.0	 0.0	17	ALD1 Purge Headspace.txt	
+	38.0	 0.0	 0.0	17	ALD1 Purge Headspace.txt	
+	41.0	 0.0	 0.0	16	ALD1 Purge Headspace.txt	
+	44.0	 0.0	 0.0	16	ALD1 Purge Headspace.txt	
+	47.0	 0.0	 0.0	15	ALD1 Purge Headspace.txt	
+	50.0	 0.0	 0.0	15	ALD1 Purge Headspace.txt	
+	53.0	 0.0	 0.0	14	ALD1 Purge Headspace.txt	
+	56.0	 0.0	 0.0	14	ALD1 Purge Headspace.txt	
+	59.0	 0.0	 0.0	13	ALD1 Purge Headspace.txt	
+	62.0	 0.0	 0.0	13	ALD1 Purge Headspace.txt	
+	65.0	 0.0	 0.0	12	ALD1 Purge Headspace.txt	
+	68.0	 0.0	 0.0	12	ALD1 Purge Headspace.txt	
+	71.0	 0.0	 0.0	11	ALD1 Purge Headspace.txt	
+	74.0	 0.0	 0.0	11	ALD1 Purge Headspace.txt	
+	77.0	 0.0	 0.0	10	ALD1 Purge Headspace.txt	
+	80.0	 0.0	 0.0	10	ALD1 Purge Headspace.txt	
+	83.0	 0.0	 0.0	10	ALD1 Purge Headspace.txt	goto;0420
+	86.0	 0.0	 0.0	9	ALD1 Purge Headspace.txt	
+	89.0	 0.0	 0.0	9	ALD1 Purge Headspace.txt	
+	92.0	 0.0	 0.0	8	ALD1 Purge Headspace.txt	
+	95.0	 0.0	 0.0	8	ALD1 Purge Headspace.txt	
+	98.0	 0.0	 0.0	7	ALD1 Purge Headspace.txt	
+	101.0	 0.0	 0.0	7	ALD1 Purge Headspace.txt	
