@@ -36,12 +36,15 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 from time import localtime, strftime
 
+
+
 # Google API authentication
-gc = pyg.authorize(client_secret='C:/Users/sanya/OneDrive/Project Documents/fijipressureproject/client_secret.json')
+gc = pyg.authorize(client_secret="../cred/client_secret.json")
+print("\nFiji Pressure Project Data Upload Script has started. Waiting for new files.")
 
 def dataToSheets():
     # Open and sort by date RF Data folder 
-    folder = "C:/Users/Sanya/OneDrive/Project Documents/fijipressureproject/RF Data"
+    folder = "./data/RF Data"
     files_path = os.path.join(folder, '*')
     files = sorted(
         glob.iglob(files_path), key=os.path.getctime, reverse=True) 
@@ -53,18 +56,22 @@ def dataToSheets():
     cycles_values = []
 
     # Get the 20 latest files and separate into columns and rows
-
     for file_path in filtered_files[:20]:
-        data = pd.read_csv(file_path, delimiter="\t")
-        data.columns = ["delete", "Time", "For Power (W)", "Refl Power (W)" , "Cycles Remaining", "Recipe", "delete"]
-        
-        # Extract the first values and append to the lists
-        first_recipe = data['Recipe'].iloc[0]
-        first_cycles = data['Cycles Remaining'].iloc[0]
-        
-        recipe_values.append(first_recipe)
-        cycles_values.append(first_cycles)
-
+        try:
+            data = pd.read_csv(file_path, delimiter="\t")
+            data.columns = ["delete", "Time", "For Power (W)", "Refl Power (W)" , "Cycles Remaining", "Recipe", "delete"]
+            
+            # Extract the first values and append to the lists
+            first_recipe = data['Recipe'].iloc[0]
+            first_cycles = data['Cycles Remaining'].iloc[0]
+            
+            recipe_values.append(first_recipe)
+            cycles_values.append(first_cycles)
+        except pd.errors.EmptyDataError:
+            print(f"Empty data in file: {file_path}")
+        except pd.errors.ParserError:
+            print(f"Failed to parse data in file: {file_path}")
+    
 
     # Create pandas dataframe from Recipe and Cycles data  
     df = pd.DataFrame({
@@ -90,11 +97,12 @@ def dataToSheets():
     worksheet = spreadsheet.sheet1
 
     # Clear existing data
-    worksheet.clear()
+    clear_range = 'D4:G25'
+    worksheet.clear(clear_range)
 
     # Update the worksheet with the DataFrame data
-    csv_file_path = 'C:/Users/sanya/OneDrive/Project Documents/fijipressureproject/fijioutput.csv'
-    worksheet.set_dataframe((df), start='A1')   # Starting cell A1
+    csv_file_path = "./data/fijioutput.csv"
+    worksheet.set_dataframe((df), start='D4')   # Starting cell E4
 
     print("\nData has been uploaded to Google Sheets.\n")
 
@@ -106,7 +114,7 @@ class MyHandler(FileSystemEventHandler):
         if event.is_directory:
             return
         elif event.event_type == 'deleted':
-            event.src_file = event.src_path.replace('C:/Users/Sanya/OneDrive/Project Documents/fijipressureproject/RF Data\\', '')
+            event.src_file = event.src_path.replace("./data/RF Data", '')
             print(f"\n{current_time} File deleted: {event.src_file}")
             dataToSheets()
 
@@ -114,13 +122,13 @@ class MyHandler(FileSystemEventHandler):
         if event.is_directory:
             return
         elif event.event_type == 'created':
-            event.src_file = event.src_path.replace('C:/Users/Sanya/OneDrive/Project Documents/fijipressureproject/RF Data\\', '')
+            event.src_file = event.src_path.replace("./data/RF Data", '')
             print(f"\n{current_time} File added: {event.src_file}")
             dataToSheets()
             
 
 # Create a watchdog observer and attach the custom handler
-folder_to_watch = "C:/Users/Sanya/OneDrive/Project Documents/fijipressureproject/RF Data"
+folder_to_watch = "./data/RF Data"
 event_handler = MyHandler()
 observer = Observer()
 observer.schedule(event_handler, path=folder_to_watch, recursive=False)
