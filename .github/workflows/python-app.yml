@@ -2,11 +2,11 @@ name: Scheduled Python Script
 
 on:
   schedule:
-    - cron: '57 12 * * *' # Run every minute
+    - cron: '21 20 * * *' # Run every minute
 
 jobs:
   run-script:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
       - name: Checkout code
