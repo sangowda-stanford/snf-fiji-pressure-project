@@ -2,7 +2,7 @@ name: Scheduled Python Script
 
 on:
   schedule:
-    - cron: '21 20 * * *' # Run every minute
+    - cron: '21 20 * * *'
 
 jobs:
   run-script:
@@ -13,12 +13,12 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.11
+          python-version: '3.11' # install the python version needed
 
       - name: Install dependencies
-        run: pip install pandas matplotlib numpy pygsheets watchdog
+        run: python -m pip install --upgrade pip; pip install -r requirements.txt
 
       - name: Run Python script
-        run: python main/src/LastTwentyOct4.py
+        run: python src/LastTwentyOct4.py
