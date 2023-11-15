@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pandas, matplotlib, numpy, pygsheets, watchdog
+          pip install pandas matplotlib numpy pygsheets watchdog
 
       - name: Run Python script
         run: python src/Pressure Project.py
