@@ -1,7 +1,7 @@
 name: Scheduled Python Script
 
 on:
-workflow_dispatch
+  workflow_dispatch
 
 jobs:
   run-script:
