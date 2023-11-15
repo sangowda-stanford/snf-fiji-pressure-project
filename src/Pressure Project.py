@@ -43,12 +43,20 @@ import time
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 from time import localtime, strftime
+import schedule
+
 
 
 
 
 # Google API authentication
-gc = pyg.authorize(client_secret="../cred/client_secret.json")
+print("Current working directory:", os.getcwd())
+client_secret_path = "./cred/client_secret.json"
+print(f"Attempting to authorize with client secret: {client_secret_path}")
+
+gc = pyg.authorize(client_secret='./cred/client_secret.json')
+
+print("Authorization successful.")
 print("\nFiji Pressure Project Data Upload Script has started. Waiting for new files.")
 
 def dataToSheets():
@@ -157,3 +165,5 @@ observer.join()
 
 
 dataToSheets()
+
+schedule.every(1).minutes.do(dataToSheets)
