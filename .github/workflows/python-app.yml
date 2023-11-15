@@ -10,23 +10,15 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.11' # Install the Python version needed
-
-      - name: Setup venv
-        run: python -m venv venv
-
-      - name: Activate venv
-        run: |
-          source venv/Scripts/activate
-          pip install --upgrade pip
-
+          python-version: '3.11'
+          
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: python -m pip install --upgrade pip; pip install -r requirements.txt
 
       - name: Run Python script
         run: python src/LastTwentyOct4.py
