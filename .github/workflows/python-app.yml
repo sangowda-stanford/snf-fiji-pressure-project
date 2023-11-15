@@ -22,5 +22,5 @@ jobs:
           pip install pandas matplotlib numpy pygsheets watchdog
 
       - name: Run Python script
-        run: python src/Pressure Project.py
+        run: python "src/Pressure Project.py"
 
